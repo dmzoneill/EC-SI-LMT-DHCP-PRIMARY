@@ -1,0 +1,542 @@
+opened|/scripts/temp.conf
+opened|/var/www/html/pxe/pxe.txt
+begin|SIE1-SW
+updatecrbs|SIE1-SW|/boards/boards.SW|A|18
+IXA00357338|crbentry|00:1C:C0:A2:5F:CF|10.243.18.82|18|/BLANK/ROOT/PATH|/boards/boards.SW|||DHCP|SIE1-SW
+IXA00366704|crbentry|00:1B:21:1C:FA:71|10.243.18.247|18|/BLANK/ROOT/PATH|/boards/boards.SW|Gray, Mark D|mark.d.gray@intel.com|DHCP|SIE1-SW
+IXA00366706|crbentry|1c:bd:b9:7e:19:56|10.243.18.242|18|/BLANK/ROOT/PATH|/boards/boards.SW|Gray, Mark D|mark.d.gray@intel.com|DHCP|SIE1-SW
+updateassets|SIE1-SW|/boards/boards.SW|A|18
+IXA00303956|assetentry|00:0F:FE:56:10:93|10.243.18.54|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00365711|assetentry|00:24:81:1D:DB:4F|10.243.18.86|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00303961|assetentry|00:09:6B:9D:A6:96|10.243.18.92|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00303995|assetentry|00:10:DC:CC:6E:BF|10.243.18.94|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00304009|assetentry|00:09:6B:67:7A:30|10.243.18.96|18|/BLANK/ROOT/PATH|/boards/boards.SW|Reserved|DHCP|SIE1-SW
+IXA00303954|assetentry|00:21:5A:E8:45:13|10.243.18.120|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00312196|assetentry|00:04:23:d6:96:12|10.243.18.126|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|Static|SIE1-SW
+IXA00340006|assetentry|00:00:00:00:00:01|10.243.18.187|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|Static|SIE1-SW
+IXA00303748|assetentry|00:00:00:00:00:02|10.243.18.197|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|Static|SIE1-SW
+IXA00303953|assetentry|00:0D:60:21:66:AF|10.243.18.228|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00303969|assetentry|00:0D:60:21:66:2F|10.243.18.236|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00303933|assetentry|00:09:6B:52:4C:8E|10.243.18.237|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|DHCP|SIE1-SW
+IXA00303923|asset|iperrorvlan|00:00:00:00:00:08|10.237.212.242|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|Static|SIE1-SW
+updateassetreservations|SIE1-SW|/boards/boards.SW|A|18
+IXA00303947|assetreservationentry|00:0F:FE:56:11:7D|10.243.18.168|18|/BLANK/ROOT/PATH|/boards/boards.SW|Reserved|Used|SIE1-SW|SIE1-SW
+IXA00304016|assetreservationentry|00:0f:fe:61:f8:c2|10.243.18.212|18|/BLANK/ROOT/PATH|/boards/boards.SW|Available|Used|SIE1-SW|SIE1-SW
+IXA00342622|assetreservationentry|00:1F:29:00:16:78|10.243.18.72|18|/BLANK/ROOT/PATH|/boards/boards.SW|Reserved|Used|SIE1-SW|SIE1-SW
+IXA00348354|assetreservationentry|00:21:5A:E9:40:C5|10.243.18.8|18|/BLANK/ROOT/PATH|/boards/boards.SW|Reserved|Used|SIE1-SW|SIE1-SW
+IXA00380277|assetreservation|iperrorvlan|00:1E:67:47:21:29|10.237.213.219|18|/BLANK/ROOT/PATH|/boards/boards.SW|Reserved|Used|SIE1-SW|SIE1-SW
+IXA00386513|assetreservationentry|00:80:A3:8C:56:A0|10.243.18.141|18|/BLANK/ROOT/PATH|/boards/boards.SW|Reserved|Used|SIE1-SW|SIE1-SW
+updatecrbreservations|SIE1-SW|/boards/boards.SW|A|18
+updatecrbreservations|SIE1-SW|/boards/boards.SW|A|18
+IXA00380762|crbreservationentry|00:1b:21:ad:bf:80|10.243.18.183|18|/BLANK/ROOT/PATH|/boards/boards.SW|WRZESZCZ, MARCIN|marcin.wrzeszcz@intel.com|Used|SIE1-SW
+IXA00368807|crbreservationentry|00:E0:86:16:E6:87|10.243.18.186|18|/BLANK/ROOT/PATH|/boards/boards.SW|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SW
+IXA00372152|crbreservationentry|00:01:02:da:23:88|10.243.18.132|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00372502|crbreservationentry|00:10:18:61:51:72|10.243.18.234|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00383594|crbreservationentry|18:03:73:C2:06:7D|10.243.18.85|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00379967|crbreservation|iperrorvlan|88:88:88:00:00:00|10.237.214.7|18|/BLANK/ROOT/PATH|/boards/boards.SW|SAMSON, DON|don.samson@intel.com|Used|SIE1-SW
+IXA00384901|crbreservationentry|00:1E:67:56:C8:9a|10.243.18.160|18|/BLANK/ROOT/PATH|/boards/boards.SW|O'HANLON, MICHAEL A|michael.a.ohanlon@intel.com|Used|SIE1-SW
+IXA00381907|crbreservationentry|68:05:CA:09:65:15|10.243.18.240|18|/BLANK/ROOT/PATH|/boards/boards.SW|WRZESZCZ, MARCIN|marcin.wrzeszcz@intel.com|Used|SIE1-SW
+IXA00384050|crbreservationentry|00:13:20:FB:91:C2|10.243.18.84|18|/BLANK/ROOT/PATH|/boards/boards.SW|HERATY, PAUL|paul.heraty@intel.com|Used|SIE1-SW
+IXA00380021|crbreservationentry|E8:40:F2:C3:0C:1F|10.243.18.114|18|/BLANK/ROOT/PATH|/boards/boards.SW|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-SW
+IXA00369934|crbreservationentry|00:E0:86:18:3B:9E|10.243.18.153|18|/BLANK/ROOT/PATH|/boards/boards.SW|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SW
+IXA00370346|crbreservationentry|00:E0:86:1B:6D:D0|10.243.18.147|18|/BLANK/ROOT/PATH|/boards/boards.SW|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SW
+IXA00372861|crbreservationentry|00:B3:38:00:00:A2|10.243.18.112|18|/BLANK/ROOT/PATH|/boards/boards.SW|COQUEREL, LAURENT M|laurent.m.coquerel@intel.com|Used|SIE1-SW
+IXA00386404|crbreservationentry|00:26:2D:F7:93:B6|10.243.18.150|18|/BLANK/ROOT/PATH|/boards/boards.SW|MCMAHON, CAROLINE|caroline.mcmahon@intel.com|Used|SIE1-SW
+IXA00367624|crbreservationentry|00:1B:21:AD:C0:6B|10.243.18.109|18|/BLANK/ROOT/PATH|/boards/boards.SW|MACNAMARA, CHRIS|chris.macnamara@intel.com|Used|SIE1-SW
+IXA00385966|crbreservationentry|00:26:22:76:c2:c8|10.243.18.189|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00379580|crbreservationentry|38:60:77:bd:d1:13|10.243.18.218|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00382019|crbreservation|iperrorvlan|00:1e:67:0d:b4:de|10.237.214.90|18|/BLANK/ROOT/PATH|/boards/boards.SW|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-SW
+IXA00381021|crbreservationentry|00:1e:67:3b:48:7d|10.243.18.222|18|/BLANK/ROOT/PATH|/boards/boards.SW|DOYLE, STEPHEN|stephen.doyle@intel.com|Used|SIE1-SW
+IXA00386023|crbreservationentry|e0:cb:4e:c5:d1:3e|10.243.18.139|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00368505|crbreservationentry|00:1B:21:AD:C0:63|10.243.18.220|18|/BLANK/ROOT/PATH|/boards/boards.SW|SAMSON, DON|don.samson@intel.com|Used|SIE1-SW
+IXA00367810|crbreservationentry|00:03:E1:90:8A:A5|10.243.18.158|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00368053|crbreservationentry|00:1b:21:ad:bf:be|10.243.18.50|18|/BLANK/ROOT/PATH|/boards/boards.SW|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-SW
+IXA00382889|crbreservationentry|00:1c:25:10:51:b0|10.243.18.60|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00382962|crbreservationentry|a0:f3:c1:01:da:d6|10.243.18.43|18|/BLANK/ROOT/PATH|/boards/boards.SW|SAMSON, DON|don.samson@intel.com|Used|SIE1-SW
+IXA00380664|crbreservationentry|00:1e:67:3b:48:6d|10.243.18.88|18|/BLANK/ROOT/PATH|/boards/boards.SW|DOYLE, STEPHEN|stephen.doyle@intel.com|Used|SIE1-SW
+IXA00380762|crbreservationentry|00:1b:21:ad:bf:80|10.243.18.91|18|/BLANK/ROOT/PATH|/boards/boards.SW|WRZESZCZ, MARCIN|marcin.wrzeszcz@intel.com|Used|SIE1-SW
+IXA00373426|crbreservationentry|E0:69:95:EB:3C:E7|10.243.18.208|18|/BLANK/ROOT/PATH|/boards/boards.SW|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-SW
+IXA00385502|crbreservationentry|E4:11:5B:27:8E:02|10.243.18.200|18|/BLANK/ROOT/PATH|/boards/boards.SW|O'BRIEN, PETER J|peter.j.obrien@intel.com|Used|SIE1-SW
+IXA00381214|crbreservationentry|00:01:80:7D:F1:85|10.243.18.128|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00382714|crbreservationentry|00:13:20:FB:66:76|10.243.18.55|18|/BLANK/ROOT/PATH|/boards/boards.SW|ZWARTS, PIETER J|pieter.j.zwarts@intel.com|Used|SIE1-SW
+IXA00366227|crbreservationentry|00:1B:21:00:6B:7F|10.243.18.232|18|/BLANK/ROOT/PATH|/boards/boards.SW|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-SW
+IXA00370865|crbreservation|iperrorvlan|E0:69:95:EB:73:7C|10.243.22.118|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00381876|crbreservationentry|50:e5:49:e9:86:5d|10.243.18.198|18|/BLANK/ROOT/PATH|/boards/boards.SW|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-SW
+IXA00381877|crbreservationentry|64:70:02:04:33:c2|10.243.18.177|18|/BLANK/ROOT/PATH|/boards/boards.SW|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-SW
+IXA00377951|crbreservationentry|00:24:81:B1:A3:35|10.243.18.207|18|/BLANK/ROOT/PATH|/boards/boards.SW|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SW
+IXA00384692|crbreservationentry|00:01:C0:06:C9:4A|10.243.18.116|18|/BLANK/ROOT/PATH|/boards/boards.SW|ROCHE, FRANK|frank.roche@intel.com|Used|SIE1-SW
+IXA00381478|crbreservation|iperrorvlan|4C:72:B9:D1:A7:28|10.237.213.125|18|/BLANK/ROOT/PATH|/boards/boards.SW|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-SW
+IXA00381480|crbreservationentry|4C:72:B9:D1:A6:F7|10.243.18.42|18|/BLANK/ROOT/PATH|/boards/boards.SW|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-SW
+IXA00385351|crbreservationentry|00:13:20:FF:1D:00|10.243.18.62|18|/BLANK/ROOT/PATH|/boards/boards.SW|SAMSON, DON|don.samson@intel.com|Used|SIE1-SW
+IXA00386251|crbreservationentry|00:1B:21:9C:B1:55|10.243.18.166|18|/BLANK/ROOT/PATH|/boards/boards.SW|O'BRIEN, PETER J|peter.j.obrien@intel.com|Used|SIE1-SW
+createhostsentries|/scripts/boards/boards.SW
+generated|A
+dhcpd|sectionadd|A
+nochange|/boards/boards.SW
+begin|SIE1-SV
+updatecrbs|SIE1-SV|/boards/boards.SV|B|18
+IXA00366430|crbentry|00:25:b3:ca:5b:96|10.243.18.216|18|/BLANK/ROOT/PATH|/boards/boards.SV|CHOCHOLAC, PETR|petr.chocholac@intel.com|DHCP|SIE1-SV
+updateassets|SIE1-SV|/boards/boards.SV|B|18
+IXA00342559|assetentry|00:22:64:33:59:37|10.243.18.123|18|/BLANK/ROOT/PATH|/boards/boards.SV|Reserved|Static|SIE1-SV
+IXA00342560|assetentry|00:23:7D:1B:AE:A6|10.243.18.131|18|/BLANK/ROOT/PATH|/boards/boards.SV|Available|Static|SIE1-SV
+IXA00342561|assetentry|00:23:7D:1B:B1:DC|10.243.18.137|18|/BLANK/ROOT/PATH|/boards/boards.SV|Available|Static|SIE1-SV
+IXA00365949|asset|macerror||10.243.18.144|18|/BLANK/ROOT/PATH|/boards/boards.SV|Available|Static|SIE1-SV
+IXA00366508|assetentry|00:09:6B:07:F0:FB|10.243.18.219|18|/BLANK/ROOT/PATH|/boards/boards.SV|Available|DHCP|SIE1-SV
+updateassetreservations|SIE1-SV|/boards/boards.SV|B|18
+IXA00365393|assetreservation|iperrorvlan|00:1C:C0:A3:BF:07|10.237.212.103|18|/BLANK/ROOT/PATH|/boards/boards.SV|Available|Used|SIE1-SV|SIE1-SV
+IXA00371695|assetreservation|macerror||10.237.212.138|18|/BLANK/ROOT/PATH|/boards/boards.SV|Reserved|Used|SIE1-SV|SIE1-SV
+updatecrbreservations|SIE1-SV|/boards/boards.SV|B|18
+updatecrbreservations|SIE1-SV|/boards/boards.SV|B|18
+IXA00384905|crbreservationentry|00:1e:67:2c:78:f7|10.243.18.63|18|/BLANK/ROOT/PATH|/boards/boards.SV|PANANCHIKKAL, RENJITHGOPAL|renjithgopal.pananchikkal@intel.com|Used|SIE1-SV
+IXA00369888|crbreservationentry|00:E0:86:18:3A:A5|10.243.18.169|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00369889|crbreservationentry|00:E0:86:17:00:32|10.243.18.221|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00369890|crbreservationentry|00:e0:86:1b:bf:36|10.243.18.127|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00369703|crbreservationentry|70:71:BC:DC:D0:1B|10.243.18.230|18|/BLANK/ROOT/PATH|/boards/boards.SV|GUCKIAN, DAVID|david.guckian@intel.com|Used|SIE1-SV
+IXA00368470|crbreservationentry|00:15:17:A1:C2:7F|10.243.18.89|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00369309|crbreservationentry|78:2b:cb:af:1f:79|10.243.18.213|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00378137|crbreservationentry|00:1E:67:3C:A3:7C|10.243.18.73|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00370123|crbreservationentry|00:E0:86:18:26:58|10.243.18.117|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00370127|crbreservationentry|00:E0:86:18:21:4E|10.243.18.205|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00370137|crbreservationentry|00:E0:86:16:C4:2E|10.243.18.51|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00370141|crbreservationentry|00:E0:86:18:3A:9A|10.243.18.180|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00373698|crbreservationentry|00:1E:67:3C:77:8A|10.243.18.167|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00386386|crbreservationentry|00:1E:67:43:3F:27|10.243.18.93|18|/BLANK/ROOT/PATH|/boards/boards.SV|DUIGNAN, ANDREW|andrew.duignan@intel.com|Used|SIE1-SV
+IXA00384904|crbreservationentry|00:13:20:fd:f9:3d|10.243.18.113|18|/BLANK/ROOT/PATH|/boards/boards.SV|PANANCHIKKAL, RENJITHGOPAL|renjithgopal.pananchikkal@intel.com|Used|SIE1-SV
+IXA00370130|crbreservationentry|00:E0:86:18:3A:9F|10.243.18.129|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00370367|crbreservationentry|18:03:73:C8:48:10|10.243.18.223|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00371268|crbreservationentry|18:03:73:D9:71:D1|10.243.18.162|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00368859|crbreservationentry|00:01:80:7C:C6:7D|10.243.18.151|18|/BLANK/ROOT/PATH|/boards/boards.SV|WALSH, EOIN|eoin.walsh@intel.com|Used|SIE1-SV
+IXA00370133|crbreservationentry|00:E0:86:16:C4:36|10.243.18.248|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00370385|crbreservationentry|00:E0:86:18:3B:78|10.243.18.159|18|/BLANK/ROOT/PATH|/boards/boards.SV|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-SV
+IXA00370839|crbreservationentry|E0:69:95:EB:75:CD|10.243.18.233|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00379666|crbreservationentry|00:1E:67:43:4A:3A|10.243.18.106|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00385949|crbreservation|iperrorvlan|00:1E:67:59:77:AB|10.237.212.189|18|/BLANK/ROOT/PATH|/boards/boards.SV|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-SV
+IXA00385949|crbreservationentry|00:1E:67:59:77:AB|10.243.18.28|18|/BLANK/ROOT/PATH|/boards/boards.SV|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-SV
+IXA00380745|crbreservationentry|00:1B:21:00:6C:45|10.243.18.157|18|/BLANK/ROOT/PATH|/boards/boards.SV|SAMSON, DON|don.samson@intel.com|Used|SIE1-SV
+IXA00379576|crbreservationentry|E0:69:95:D3:0D:1B|10.243.18.103|18|/BLANK/ROOT/PATH|/boards/boards.SV|RUSSO, DARIO|dario.russo@intel.com|Used|SIE1-SV
+IXA00379771|crbreservationentry|00:e0:86:1b:bf:33|10.243.18.243|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00370365|crbreservationentry|18:03:73:C6:EE:F1|10.243.18.165|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00371766|crbreservationentry|00:1E:67:2C:75:82|10.243.18.182|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00379582|crbreservationentry|00:11:22:33:44:55|10.243.18.178|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00384834|crbreservationentry|00:13:20:FF:1C:E2|10.243.18.246|18|/BLANK/ROOT/PATH|/boards/boards.SV|WALSH, EOIN|eoin.walsh@intel.com|Used|SIE1-SV
+IXA00379955|crbreservationentry|00:1e:67:43:40:0E|10.243.18.130|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00379496|crbreservationentry|00:1e:67:43:48:65|10.243.18.235|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00370364|crbreservationentry|00:1b:21:8c:73:f0|10.243.18.164|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00372153|crbreservationentry|E0:69:95:D3:05:47|10.243.18.87|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00372516|crbreservationentry|38:60:77:12:74:C0|10.243.18.254|18|/BLANK/ROOT/PATH|/boards/boards.SV|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-SV
+IXA00380742|crbreservationentry|68:05:ca:08:6b:e4|10.243.18.202|18|/BLANK/ROOT/PATH|/boards/boards.SV|SAMSON, DON|don.samson@intel.com|Used|SIE1-SV
+IXA00382993|crbreservationentry|00:1E:67:59:81:A8|10.243.18.100|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'RIORDAN, DAVID|davidx.o'riordan@intel.com|Used|SIE1-SV
+IXA00371572|crbreservationentry|00:1e:67:2c:77:9e|10.243.18.97|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00384488|crbreservationentry|78:2B:CB:94:F8:E7|10.243.18.66|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'BOYLE, DECLAN|Declan.oboyle@intel.com|Used|SIE1-SV
+IXA00384443|crbreservationentry|00:1E:67:43:44:59|10.243.18.143|18|/BLANK/ROOT/PATH|/boards/boards.SV|MANGAN, JOHN|john.mangan@intel.com|Used|SIE1-SV
+IXA00384442|crbreservationentry|9C:8E:99:52:63:DE|10.243.18.181|18|/BLANK/ROOT/PATH|/boards/boards.SV|DUIGNAN, ANDREW|andrew.duignan@intel.com|Used|SIE1-SV
+IXA00384441|crbreservationentry|00:1E:67:3C:76:21|10.243.18.251|18|/BLANK/ROOT/PATH|/boards/boards.SV|DUIGNAN, ANDREW|andrew.duignan@intel.com|Used|SIE1-SV
+IXA00365684|crbreservationentry|00:15:17:be:28:5e|10.243.18.135|18|/BLANK/ROOT/PATH|/boards/boards.SV|MOTYL, TOMASZ|tomasz.motyl@intel.com|Used|SIE1-SV
+IXA00370838|crbreservationentry|E0:69:95:E4:F6:D2|10.243.18.161|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00386010|crbreservationentry|00:1e:67:59:81:a9|10.243.18.215|18|/BLANK/ROOT/PATH|/boards/boards.SV|WRZESZCZ, MARCIN|marcin.wrzeszcz@intel.com|Used|SIE1-SV
+IXA00380551|crbreservationentry|90:2B:34:5B:1B:E6|10.243.18.14|18|/BLANK/ROOT/PATH|/boards/boards.SV|SAMSON, DON|don.samson@intel.com|Used|SIE1-SV
+IXA00386024|crbreservationentry|78:54:2E:E6:0A:E9|10.243.18.163|18|/BLANK/ROOT/PATH|/boards/boards.SV|HERATY, PAUL|paul.heraty@intel.com|Used|SIE1-SV
+IXA00386025|crbreservationentry|00:13:20:fd:df:55|10.243.18.146|18|/BLANK/ROOT/PATH|/boards/boards.SV|HERATY, PAUL|paul.heraty@intel.com|Used|SIE1-SV
+IXA00386030|crbreservationentry|e0:db:55:b9:5d:ac|10.243.18.252|18|/BLANK/ROOT/PATH|/boards/boards.SV|HERATY, PAUL|paul.heraty@intel.com|Used|SIE1-SV
+IXA00380743|crbreservationentry|00:15:17:BE:26:DB|10.243.18.134|18|/BLANK/ROOT/PATH|/boards/boards.SV|SAMSON, DON|don.samson@intel.com|Used|SIE1-SV
+IXA00384452|crbreservationentry|00:1e:67:59:78:30|10.243.18.119|18|/BLANK/ROOT/PATH|/boards/boards.SV|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-SV
+IXA00384465|crbreservationentry|00:1B:21:1B:FD:A6|10.243.18.152|18|/BLANK/ROOT/PATH|/boards/boards.SV|WALSH, EOIN|eoin.walsh@intel.com|Used|SIE1-SV
+IXA00368862|crbreservationentry|00:01:80:7C:9E:CD|10.243.18.53|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00384535|crbreservationentry|94:DE:80:6E:F5:89|10.243.18.199|18|/BLANK/ROOT/PATH|/boards/boards.SV|MA, LIANG|liang.j.ma@intel.com|Used|SIE1-SV
+IXA00384536|crbreservationentry|94:DE:80:6D:04:3A|10.243.18.201|18|/BLANK/ROOT/PATH|/boards/boards.SV|MA, LIANG|liang.j.ma@intel.com|Used|SIE1-SV
+IXA00382993|crbreservationentry|00:1E:67:59:81:A8|10.243.18.6|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'RIORDAN, DAVID|davidx.o'riordan@intel.com|Used|SIE1-SV
+IXA00367097|crbreservationentry|00:15:17:EA:C1:05|10.243.18.7|18|/BLANK/ROOT/PATH|/boards/boards.SV|WRZESZCZ, MARCIN|marcin.wrzeszcz@intel.com|Used|SIE1-SV
+IXA00384508|crbreservationentry|00:1E:67:3C:79:82|10.243.18.217|18|/BLANK/ROOT/PATH|/boards/boards.SV|Betts, Ian|ian.betts@intel.com|Used|SIE1-SV
+IXA00371415|crbreservationentry|00:1E:67:2C:77:C7|10.243.18.249|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00384907|crbreservationentry|00:15:17:af:76:68|10.243.18.214|18|/BLANK/ROOT/PATH|/boards/boards.SV|PANANCHIKKAL, RENJITHGOPAL|renjithgopal.pananchikkal@intel.com|Used|SIE1-SV
+IXA00384908|crbreservationentry|78:ac:c0:be:4a:45|10.243.18.191|18|/BLANK/ROOT/PATH|/boards/boards.SV|PANANCHIKKAL, RENJITHGOPAL|renjithgopal.pananchikkal@intel.com|Used|SIE1-SV
+IXA00384906|crbreservationentry|18:03:73:c6:bc:d6|10.243.18.239|18|/BLANK/ROOT/PATH|/boards/boards.SV|PANANCHIKKAL, RENJITHGOPAL|renjithgopal.pananchikkal@intel.com|Used|SIE1-SV
+IXA00372535|crbreservationentry|E0:69:95:EB:3D:06|10.243.18.118|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'RIORDAIN, SEOSAMH|seosamh.oriordain@intel.com|Used|SIE1-SV
+IXA00372465|crbreservationentry|E0:69:95:EB:48:2E|10.243.18.140|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'RIORDAIN, SEOSAMH|seosamh.oriordain@intel.com|Used|SIE1-SV
+IXA00380360|crbreservationentry|00:22:4d:80:f4:06|10.243.18.156|18|/BLANK/ROOT/PATH|/boards/boards.SV|STOKES, IAN|ian.stokes@intel.com|Used|SIE1-SV
+IXA00383020|crbreservationentry|00:13:20:FD:23:03|10.243.18.225|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00373699|crbreservationentry|00:1E:67:3C:77:9F|10.243.18.172|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00384451|crbreservationentry|00:1C:C4:73:C7:70|10.243.18.174|18|/BLANK/ROOT/PATH|/boards/boards.SV|MANGAN, JOHN|john.mangan@intel.com|Used|SIE1-SV
+IXA00379736|crbreservationentry|00:1e:67:49:B0:CA|10.243.18.176|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00386352|crbreservationentry|00:1E:67:43:46:B3|10.243.18.253|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'BOYLE, DECLAN|Declan.oboyle@intel.com|Used|SIE1-SV
+IXA00384578|crbreservationentry|00:08:A2:09:04:19|10.243.18.23|18|/BLANK/ROOT/PATH|/boards/boards.SV|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-SV
+IXA00385264|crbreservationentry|1c:6f:65:9c:fa:a1|10.243.18.196|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'BOYLE, DECLAN|Declan.oboyle@intel.com|Used|SIE1-SV
+IXA00382363|crbreservation|iperrorvlan|00:1b:21:00:7c:fe|10.237.212.64|18|/BLANK/ROOT/PATH|/boards/boards.SV|SAMSON, DON|don.samson@intel.com|Used|SIE1-SV
+IXA00369304|crbreservationentry|78:2B:CB:AF:1E:C1|10.243.18.5|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00379448|crbreservationentry|00:1E:67:43:46:AD|10.243.18.19|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00384024|crbreservationentry|00:E0:86:1B:BF:3B|10.243.18.155|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+IXA00384434|crbreservationentry|18:03:73:D9:70:AC|10.243.18.179|18|/BLANK/ROOT/PATH|/boards/boards.SV|O'BOYLE, DECLAN|Declan.oboyle@intel.com|Used|SIE1-SV
+IXA00386695|crbreservation|macerror||10.243.18.188|18|/BLANK/ROOT/PATH|/boards/boards.SV|WALSH, EOIN|eoin.walsh@intel.com|Used|SIE1-SV
+IXA00384878|crbreservationentry|00:1E:67:3c:79:43|10.243.18.244|18|/BLANK/ROOT/PATH|/boards/boards.SV|WALSH, EOIN|eoin.walsh@intel.com|Used|SIE1-SV
+IXA00378942|crbreservationentry|00:1E:67:43:48:96|10.243.18.108|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00386175|crbreservationentry|00:1E:67:59:77:19|10.243.18.195|18|/BLANK/ROOT/PATH|/boards/boards.SV|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-SV
+IXA00384880|crbreservationentry|00:1B:21:43:51:34|10.243.18.184|18|/BLANK/ROOT/PATH|/boards/boards.SV|WALSH, EOIN|eoin.walsh@intel.com|Used|SIE1-SV
+IXA00378943|crbreservationentry|00:1E:67:3C:A3:0D|10.243.18.231|18|/BLANK/ROOT/PATH|/boards/boards.SV|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-SV
+IXA00385174|crbreservation|macerror||10.243.18.142|18|/BLANK/ROOT/PATH|/boards/boards.SV|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-SV
+createhostsentries|/scripts/boards/boards.SV
+generated|B
+dhcpd|sectionadd|B
+nochange|/boards/boards.SV
+begin|Data Center
+updatecrbs|Data Center|/boards/boards.DataCenter|C|213
+updateassets|Data Center|/boards/boards.DataCenter|C|213
+IXA00366734|assetentry|00:24:81:CF:54:CE|10.237.213.42|213|/BLANK/ROOT/PATH|/boards/boards.DataCenter|Available|DHCP|Data Center
+IXA00366107|assetentry|00:0C:29:D4:01:C1|10.237.213.253|213|/BLANK/ROOT/PATH|/boards/boards.DataCenter|Available|Static|Data Center
+IXA00364523|assetentry|00:21:5e:70:1b:b2|10.237.213.39|213|/BLANK/ROOT/PATH|/boards/boards.DataCenter|Available|DHCP|Data Center
+updateassetreservations|Data Center|/boards/boards.DataCenter|C|213
+IXA00373154|assetreservationentry|e4:11:5b:12:09:8e|10.237.213.193|213|/BLANK/ROOT/PATH|/boards/boards.DataCenter|Reserved|Used|Data Center|Data Center
+IXA00373155|assetreservationentry|e4:11:5b:b0:47:4a|10.237.213.160|213|/BLANK/ROOT/PATH|/boards/boards.DataCenter|Reserved|Used|Data Center|Data Center
+updatecrbreservations|Data Center|/boards/boards.DataCenter|C|213
+updatecrbreservations|Data Center|/boards/boards.DataCenter|C|213
+createhostsentries|/scripts/boards/boards.DataCenter
+generated|C
+dhcpd|sectionadd|C
+nochange|/boards/boards.DataCenter
+begin|SIE1-ServerRack
+updatecrbs|SIE1-ServerRack|/boards/boards.ServerRack|D|213
+updateassets|SIE1-ServerRack|/boards/boards.ServerRack|D|213
+IXA00303963|assetentry|00:0F:FE:56:11:59|10.237.213.36|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00303972|assetentry|00:14:5E:45:DC:9C|10.237.213.92|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00303975|assetentry|00:0F:FE:56:11:E5|10.237.213.190|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|DHCP|SIE1-ServerRack
+IXA00303997|assetentry|00:14:5e:1e:57:ec|10.237.213.216|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00304014|assetentry|00:40:05:08:E7:91|10.237.213.100|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00304445|assetentry|00:0F:FE:a1:80:93|10.237.213.230|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00306237|assetentry|00:0D:60:21:68:D2|10.237.213.247|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00333048|assetentry|00:1C:C0:79:CC:ED|10.237.213.105|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00304002|assetentry|00:09:6B:07:C7:C0|10.237.213.180|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+IXA00366807|assetentry|00:27:0E:12:B2:E2|10.237.213.228|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Available|DHCP|SIE1-ServerRack
+updateassetreservations|SIE1-ServerRack|/boards/boards.ServerRack|D|213
+IXA00303929|assetreservationentry|00:09:6B:A7:5B:7B|10.237.213.251|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00303975|assetreservationentry|00:0F:FE:56:11:E5|10.237.213.81|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00304011|assetreservationentry|00:0F:FE:61:F9:A8|10.237.213.90|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00304011|assetreservation|iperrorvlan|00:0F:FE:61:F9:A8|10.243.18.204|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00304012|assetreservationentry|00:0E:0C:81:54:D7|10.237.213.122|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00365073|assetreservationentry|00:26:55:1A:95:40|10.237.213.162|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00365074|assetreservationentry|00:25:b3:ab:8a:74|10.237.213.123|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00369589|assetreservationentry|00:15:17:f8:12:68|10.237.213.37|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00369592|assetreservationentry|00:15:17:f7:f7:44|10.237.213.143|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00370026|assetreservationentry|00:1E:67:1C:83:14|10.237.213.145|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00370050|assetreservationentry|00:1E:67:1C:FF:C0|10.237.213.187|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00370070|assetreservationentry|00:1E:67:1D:24:44|10.237.213.170|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00370083|assetreservationentry|00:1E:67:1C:FF:E4|10.237.213.26|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+IXA00373475|assetreservationentry|68:05:CA:08:6B:FE|10.237.213.161|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Reserved|Used|SIE1-ServerRack|SIE1-ServerRack
+updatecrbreservations|SIE1-ServerRack|/boards/boards.ServerRack|D|213
+updatecrbreservations|SIE1-ServerRack|/boards/boards.ServerRack|D|213
+IXA00382671|crbreservationentry|00:0c:29:8c:d3:78|10.237.213.164|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00372839|crbreservationentry|00:1E:67:3C:7C:29|10.237.213.138|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-ServerRack
+IXA00383854|crbreservationentry|00:0C:29:A1:07:D2|10.237.213.102|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00378940|crbreservationentry|00:1e:67:38:bd:62|10.237.213.40|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Hoban, Adrian|adrian.hoban@intel.com|Used|SIE1-ServerRack
+IXA00384148|crbreservationentry|00:1b:21:ad:bf:c3|10.237.213.65|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LENCOU, ROMAIN|romain.lencou@intel.com|Used|SIE1-ServerRack
+IXA00369138|crbreservationentry|00:0c:29:91:38:80|10.237.213.220|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|RYAN, LIAM||Used|SIE1-ServerRack
+IXA00377987|crbreservationentry|68:05:CA:08:6B:CE|10.237.213.45|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00371240|crbreservationentry|A0:36:9F:0B:F5:BC|10.237.213.35|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-ServerRack
+IXA00382598|crbreservationentry|00:e0:86:1b:bd:44|10.237.213.241|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00372475|crbreservationentry|00:1b:21:98:d9:24|10.237.213.133|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CLETUS, PRADEEP K|pradeep.k.cletus@intel.com|Used|SIE1-ServerRack
+IXA00370092|crbreservationentry|00:15:5D:D4:D2:63|10.237.213.136|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00372828|crbreservationentry|00:1E:67:38:85:72|10.237.213.203|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-ServerRack
+IXA00367651|crbreservationentry|00:1B:21:00:7D:53|10.237.213.44|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-ServerRack
+IXA00373650|crbreservationentry|00:0c:29:d6:28:1c|10.237.213.28|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|RYAN, LIAM||Used|SIE1-ServerRack
+IXA00372504|crbreservationentry|68:05:CA:08:6B:51|10.237.213.11|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00372503|crbreservationentry|68:05:CA:08:6B:93|10.237.213.110|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00372772|crbreservationentry|00:E0:86:16:E6:7E|10.237.213.113|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00379584|crbreservationentry|00:1E:8C:F5:9E:33|10.237.213.153|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-ServerRack
+IXA00384861|crbreservationentry|00:1E:67:93:5C:06|10.237.213.166|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-ServerRack
+IXA00384862|crbreservationentry|00:1E:67:93:6B:BF|10.237.213.48|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-ServerRack
+IXA00384863|crbreservationentry|00:1E:67:93:5C:A7|10.237.213.186|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-ServerRack
+IXA00372841|crbreservationentry|00:1E:67:38:88:35|10.237.213.69|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-ServerRack
+IXA00381741|crbreservationentry|00:1E:67:3C:78:16|10.237.213.171|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LUCEY, CATRIONA|catriona.lucey@intel.com|Used|SIE1-ServerRack
+IXA00381740|crbreservationentry|00:1E:67:3C:7A:85|10.237.213.68|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LUCEY, CATRIONA|catriona.lucey@intel.com|Used|SIE1-ServerRack
+IXA00384864|crbreservationentry|00:1E:67:93:59:97|10.237.213.76|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-ServerRack
+IXA00384865|crbreservationentry|00:1E:67:93:5A:38|10.237.213.126|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-ServerRack
+IXA00384346|crbreservationentry|00:0c:29:b4:a3:fb|10.237.213.188|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00382598|crbreservation|iperrorvlan|00:e0:86:1b:bd:44|10.237.212.185|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00380497|crbreservationentry|00:0c:29:bf:fe:0c|10.237.213.127|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00383839|crbreservationentry|00:1E:67:56:9A:75|10.237.213.173|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LUCEY, CATRIONA|catriona.lucey@intel.com|Used|SIE1-ServerRack
+IXA00383838|crbreservationentry|00:1E:67:56:CF:15|10.237.213.34|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LUCEY, CATRIONA|catriona.lucey@intel.com|Used|SIE1-ServerRack
+IXA00380463|crbreservationentry|00:0c:29:84:4f:ad|10.237.213.120|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369600|crbreservationentry|00:15:5D:D4:D2:03|10.237.213.63|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369603|crbreservationentry|00:15:5D:D4:D2:06|10.237.213.31|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|ANANYEV, KONSTANTIN|konstantin.ananyev@intel.com|Used|SIE1-ServerRack
+IXA00380287|crbreservationentry|00:0c:29:7f:5e:22|10.237.213.53|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369598|crbreservationentry|00:15:5D:D4:D2:01|10.237.213.73|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369599|crbreservationentry|00:15:5D:D4:D2:02|10.237.213.86|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00373025|crbreservationentry|00:0c:29:5f:3d:2d|10.237.213.134|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LEHANE, PATRICK|patrick.lehane@intel.com|Used|SIE1-ServerRack
+IXA00372811|crbreservationentry|00:1B:21:AD:C0:5D|10.237.213.108|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00372862|crbreservationentry|00:1E:67:3D:51:F8|10.237.213.172|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Long, Thomas|thomas.long@intel.com|Used|SIE1-ServerRack
+IXA00373692|crbreservation|iperrorvlan|00:1E:67:38:5F:1F|10.237.212.49|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|ROCHE, FRANK|frank.roche@intel.com|Used|SIE1-ServerRack
+IXA00370340|crbreservationentry|00:E0:86:17:00:2C|10.237.213.185|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00372895|crbreservationentry|64:70:02:00:C5:3E|10.237.213.206|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-ServerRack
+IXA00379647|crbreservationentry|00:1E:67:3C:77:91|10.237.213.64|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00369618|crbreservationentry|00:15:5D:D4:D2:18|10.237.213.175|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00382481|crbreservationentry|00:0C:29:C3:8E:5F|10.237.213.211|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369891|crbreservationentry|00:E0:86:18:26:5D|10.237.213.66|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00373692|crbreservationentry|00:1E:67:38:5F:1F|10.237.213.51|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|ROCHE, FRANK|frank.roche@intel.com|Used|SIE1-ServerRack
+IXA00380221|crbreservationentry|00:15:5D:D4:9F:00|10.237.213.93|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369605|crbreservationentry|00:15:5D:D4:D2:08|10.237.213.200|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369606|crbreservationentry|00:15:5D:D4:D2:09|10.237.213.205|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00379775|crbreservationentry|00:E0:86:1B:48:80|10.237.213.83|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00378073|crbreservationentry|68:05:CA:08:6B:C6|10.237.213.152|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00372317|crbreservationentry|00:1B:21:98:D9:34|10.237.213.46|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|ROCHE, FRANK|frank.roche@intel.com|Used|SIE1-ServerRack
+IXA00385833|crbreservationentry|74:d0:2b:93:0c:f6|10.237.213.43|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-ServerRack
+IXA00369617|crbreservationentry|00:15:5D:D4:D2:17|10.237.213.189|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00370929|crbreservationentry|00:0c:29:c8:35:25|10.237.213.147|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|ONEILL, DAVID M|david.m.oneill@intel.com|Used|SIE1-ServerRack
+IXA00372887|crbreservationentry|00:1E:67:3C:73:86|10.237.213.88|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CAREW, ALAN|alan.carew@intel.com|Used|SIE1-ServerRack
+IXA00382030|crbreservationentry|00:0C:29:88:18:A6|10.237.213.238|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00383328|crbreservationentry|00:0c:29:48:37:a5|10.237.213.178|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00378105|crbreservationentry|00:15:17:d6:b8:d8|10.237.213.197|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00382964|crbreservationentry|00:0c:29:4c:da:69|10.237.213.71|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00370041|crbreservationentry|00:15:5D:D4:D2:21|10.237.213.118|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|O'DWYER, T.J.|tj.odwyer@intel.com|Used|SIE1-ServerRack
+IXA00369607|crbreservationentry|00:15:5D:D4:D2:10|10.237.213.226|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LEHANE, PATRICK|patrick.lehane@intel.com|Used|SIE1-ServerRack
+IXA00382238|crbreservationentry|68:05:CA:08:6B:90|10.237.213.101|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00378692|crbreservationentry|68:05:CA:08:6B:80|10.237.213.236|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-ServerRack
+IXA00368669|crbreservationentry|00:22:46:00:80:2E|10.237.213.13|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00378941|crbreservationentry|00:1e:67:38:c4:f5|10.237.213.72|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00378938|crbreservationentry|00:1E:67:38:BD:EE|10.237.213.50|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Hoban, Adrian|adrian.hoban@intel.com|Used|SIE1-ServerRack
+IXA00380297|crbreservationentry|00:1e:67:49:ab:66|10.237.213.142|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Long, Thomas|thomas.long@intel.com|Used|SIE1-ServerRack
+IXA00384001|crbreservationentry|00:0c:29:67:72:7a|10.237.213.181|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00380209|crbreservationentry|00:1e:67:57:50:92|10.237.213.82|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00372856|crbreservationentry|00:1E:67:34:37:0E|10.237.213.224|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LENNON, SOPHIE|sophie.lennon@intel.com|Used|SIE1-ServerRack
+IXA00385382|crbreservationentry|00:1E:67:7B:36:73|10.237.213.111|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-ServerRack
+IXA00369614|crbreservationentry|00:15:5D:D4:D2:15|10.237.213.167|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00386134|crbreservationentry|68:05:CA:08:6B:56|10.237.213.25|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-ServerRack
+IXA00385043|crbreservationentry|00:15:5d:12:d6:0e|10.237.213.103|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CABIDDU, GIOVANNI|giovanni.cabiddu@intel.com|Used|SIE1-ServerRack
+IXA00382163|crbreservationentry|F8:1A:67:00:78:BC|10.237.213.12|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00385708|crbreservationentry|00:0c:29:c1:99:b2|10.237.213.146|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00385709|crbreservationentry|00:0c:29:41:1b:79|10.237.213.141|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00385711|crbreservationentry|00:0c:29:34:31:2d|10.237.213.182|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00385710|crbreservationentry|00:0c:29:15:54:05|10.237.213.213|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00384509|crbreservationentry|00:0c:29:95:6c:5e|10.237.213.104|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00382990|crbreservationentry|00:1e:67:59:80:4e|10.237.213.78|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|KEATING, SHANE|shane.keating@intel.com|Used|SIE1-ServerRack
+IXA00372478|crbreservation|macerror||10.237.214.60|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|VASU, MAHESH|maheshx.vasu@intel.com|Used|SIE1-ServerRack
+IXA00385938|crbreservationentry|00:1e:67:a8:4e:91|10.237.213.232|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-ServerRack
+IXA00378919|crbreservationentry|00:1E:67:47:2c:82|10.237.213.96|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00380271|crbreservation|macerror||10.237.212.231|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00382790|crbreservationentry|00:0c:29:25:73:2a|10.237.213.235|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00381821|crbreservationentry|00:e0:86:1b:a9:52|10.237.213.119|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00369613|crbreservationentry|00:15:5D:D4:D2:14|10.237.213.121|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LAMBLE, STEFAN S|stefan.s.lamble@intel.com|Used|SIE1-ServerRack
+IXA00378106|crbreservationentry|00:1b:21:ad:bf:ae|10.237.213.107|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|LEHANE, PATRICK|patrick.lehane@intel.com|Used|SIE1-ServerRack
+IXA00383329|crbreservationentry|00:0c:29:e0:e9:c1|10.237.213.165|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00383749|crbreservationentry|00:0C:29:B3:84:CB|10.237.213.214|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00385445|crbreservationentry|00:1E:67:94:25:F1|10.237.213.67|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|KANTECKI, TOMASZ|tomasz.kantecki@intel.com|Used|SIE1-ServerRack
+IXA00385066|crbreservationentry|00:15:5d:12:d6:0f|10.237.213.41|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CABIDDU, GIOVANNI|giovanni.cabiddu@intel.com|Used|SIE1-ServerRack
+IXA00372410|crbreservationentry|00:1b:21:13:08:cd|10.237.213.198|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00368519|crbreservationentry|00:1B:21:98:D9:2C|10.237.213.94|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+IXA00385752|crbreservationentry|00:0c:29:82:e8:3d|10.237.213.191|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00384289|crbreservationentry|00:50:56:94:01:c5|10.237.213.176|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00385036|crbreservationentry|00:1E:67:99:68:FC|10.237.213.52|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|JONES, KIM-MARIE|kim-marie.jones@intel.com|Used|SIE1-ServerRack
+IXA00380359|crbreservationentry|00:22:4D:80:F6:07|10.237.213.233|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|STOKES, IAN|ian.stokes@intel.com|Used|SIE1-ServerRack
+IXA00372470|crbreservationentry|00:1b:21:ad:bf:92|10.237.213.8|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|Hoban, Adrian|adrian.hoban@intel.com|Used|SIE1-ServerRack
+IXA00386653|crbreservationentry|00:0c:29:f9:64:8f|10.237.213.129|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00384456|crbreservationentry|00:15:17:8F:33:75|10.237.213.54|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-ServerRack
+IXA00384869|crbreservationentry|00:1E:67:93:5C:7D|10.237.213.139|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00384866|crbreservationentry|00:1E:67:98:52:7B|10.237.213.128|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00384867|crbreservationentry|00:1E:67:92:CF:18|10.237.213.15|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00384868|crbreservationentry|00:1E:67:93:59:27|10.237.213.168|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-ServerRack
+IXA00365870|crbreservationentry|00:13:20:F8:83:5C|10.237.213.99|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-ServerRack
+IXA00380725|crbreservationentry|00:01:80:7D:F7:44|10.237.213.91|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-ServerRack
+IXA00385201|crbreservationentry|00:1E:67:59:85:0D|10.237.213.209|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|THOMAS, GREG|greg.thomas@intel.com|Used|SIE1-ServerRack
+IXA00380548|crbreservationentry|90:2B:34:5B:19:37|10.237.213.27|213|/BLANK/ROOT/PATH|/boards/boards.ServerRack|SAMSON, DON|don.samson@intel.com|Used|SIE1-ServerRack
+createhostsentries|/scripts/boards/boards.ServerRack
+generated|D
+dhcpd|sectionadd|D
+nochange|/boards/boards.ServerRack
+begin|SIE1-RackRoom
+updatecrbs|SIE1-RackRoom|/boards/boards.RackRoom|E|212
+IXA00234023|crbentry|00:1B:21:00:7A:96|10.237.212.111|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|DHCP|SIE1-RackRoom
+IXA00267885|crbentry|00:1B:21:00:7B:9C|10.237.212.219|212|/Blank/Root/Path|/boards/boards.RackRoom|STRUK, TADEUSZ|tadeusz.struk@intel.com|DHCP|SIE1-RackRoom
+IXA00321916|crbentry|00:1B:21:00:6C:4A|10.237.212.249|212|/Blank/Root/Path|/boards/boards.RackRoom|CHAPMAN, JAMES P|james.p.chapman@intel.com|DHCP|SIE1-RackRoom
+IXA00324853|crbentry|00:13:20:F7:1D:84|10.237.212.199|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|||DHCP|SIE1-RackRoom
+IXA00304807|crbentry|00:1B:21:00:6C:85|10.237.212.156|212|/Blank/Root/Path|/boards/boards.RackRoom|||DHCP|SIE1-RackRoom
+IXA00365785|crbentry|00:13:20:F7:82:15|10.237.212.253|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Paoloni, Gabriele|gabriele.paoloni@intel.com|DHCP|SIE1-RackRoom
+IXA00365858|crbentry|00:15:17:d7:cd:f5|10.237.212.41|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|STOKES, IAN|ian.stokes@intel.com|DHCP|SIE1-RackRoom
+IXA00365860|crbentry|00:11:22:33:44:56|10.237.212.42|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|MCNAMARA, JOHN|johnx.mcnamara@intel.com|DHCP|SIE1-RackRoom
+IXA00366029|crbentry|00:1B:21:00:6B:D3|10.237.212.218|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|MADARAPU, VIDYANATH|vidyanath.madarapu@intel.com|DHCP|SIE1-RackRoom
+IXA00366127|crbentry|00:15:17:D8:40:78|10.237.212.230|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|||DHCP|SIE1-RackRoom
+IXA00366128|crbentry|00:15:17:D8:37:FC|10.237.212.225|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|||DHCP|SIE1-RackRoom
+IXA00366446|crbentry|00:01:6C:CA:F1:99|10.237.212.177|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|ONEILL, DAVID M|david.m.oneill@intel.com|DHCP|SIE1-RackRoom
+IXA00365808|crbentry|00:16:0A:15:2A:D8|10.237.212.192|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|||DHCP|SIE1-RackRoom
+IXA00382409|crb|iperrorvlan|00:e0:86:1b:bd:42|10.237.214.138|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom||Static|SIE1-RackRoom
+updateassets|SIE1-RackRoom|/boards/boards.RackRoom|E|212
+IXA00343540|asset|macerror||10.237.212.23|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Available|Static|SIE1-RackRoom
+IXA00304419|assetentry|00:00:00:00:00:04|10.237.212.29|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Available|Static|SIE1-RackRoom
+IXA00303920|assetentry|00:00:00:00:00:05|10.237.212.86|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Available|Static|SIE1-RackRoom
+IXA00303952|assetentry|00:1b:21:1d:4c:fb|10.237.212.128|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Static|SIE1-RackRoom
+IXA00304407|assetentry|00:00:00:00:00:14|10.237.212.232|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Available|Static|SIE1-RackRoom
+IXA00304429|assetentry|00:60:2E:02:22:30|10.237.212.240|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Available|DHCP|SIE1-RackRoom
+updateassetreservations|SIE1-RackRoom|/boards/boards.RackRoom|E|212
+IXA00304405|assetreservationentry|00:E0:86:08:25:2F|10.237.212.252|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00368236|assetreservationentry|00:04:5F:8C:81:BC|10.237.212.77|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00368246|assetreservation|macerror||10.237.212.10|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00368946|assetreservation|macerror||10.237.212.254|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00372768|assetreservationentry|08:17:F4:EE:91:FE|10.237.212.18|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Available|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373160|assetreservationentry|00:60:F3:22:2F:D9|10.237.212.16|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373366|assetreservation|macerror||10.237.213.204|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373367|assetreservation|macerror||10.237.212.194|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373368|assetreservation|macerror||10.237.212.97|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373369|assetreservation|macerror||10.237.212.54|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373370|assetreservation|macerror||10.237.212.147|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373371|assetreservation|macerror||10.237.212.94|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00373736|assetreservationentry|00:00:50:78:de:fe|10.237.212.7|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00383513|assetreservation|macerror||10.237.214.57|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00383925|assetreservation|macerror||10.237.212.187|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00383926|assetreservation|macerror||10.237.212.102|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00383927|assetreservation|macerror||10.237.212.105|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00383928|assetreservation|macerror||10.237.212.161|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+IXA00386163|assetreservationentry|00:04:5F:8B:BB:18|10.237.212.122|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Reserved|Used|SIE1-RackRoom|SIE1-RackRoom
+updatecrbreservations|SIE1-RackRoom|/boards/boards.RackRoom|E|212
+updatecrbreservations|SIE1-RackRoom|/boards/boards.RackRoom|E|212
+IXA00367615|crbreservationentry|00:1B:21:9C:B1:FC|10.237.212.65|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|THOMAS, GREG|greg.thomas@intel.com|Used|SIE1-RackRoom
+IXA00368784|crbreservationentry|00:E0:86:16:E6:81|10.237.212.152|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00368714|crbreservationentry|00:15:17:D9:75:83|10.237.212.88|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-RackRoom
+IXA00383878|crbreservationentry|64:70:02:10:5e:9c|10.237.212.237|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00383874|crbreservationentry|74:d0:2b:95:69:8d|10.237.212.195|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00383875|crbreservationentry|74:d0:2b:95:69:57|10.237.212.228|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00366589|crbreservationentry|00:1B:21:1C:F9:87|10.237.212.83|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-RackRoom
+IXA00381989|crbreservationentry|00:1e:67:4d:26:58|10.237.212.14|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KEATING, SHANE|shane.keating@intel.com|Used|SIE1-RackRoom
+IXA00378825|crbreservationentry|00:22:4D:81:56:DB|10.237.212.71|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|JONES, KIM-MARIE|kim-marie.jones@intel.com|Used|SIE1-RackRoom
+IXA00368769|crbreservationentry|00:E0:86:16:E6:94|10.237.212.70|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00371877|crbreservationentry|00:1E:67:31:41:DF|10.237.212.104|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00367139|crbreservationentry|00:1B:21:B3:3F:C4|10.237.212.53|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00367661|crbreservationentry|00:15:17:D6:B8:C1|10.237.212.127|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00368788|crbreservationentry|00:E0:86:16:E6:83|10.237.212.198|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00368064|crbreservationentry|00:1B:21:9C:B1:93|10.237.212.151|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00368790|crbreservationentry|00:E0:86:16:E6:63|10.237.212.142|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00368919|crbreservationentry|00:1E:67:11:3A:3C|10.237.212.154|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|FINUCANE, KEVIN||Used|SIE1-RackRoom
+IXA00372485|crbreservationentry|00:1B:21:9C:B2:0A|10.237.212.171|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00372510|crbreservationentry|00:15:17:dc:ca:aa|10.237.212.61|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00367648|crbreservationentry|00:1b:21:ad:bf:d9|10.237.212.74|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00383238|crbreservationentry|00:1e:67:4e:81:4b|10.237.212.167|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-RackRoom
+IXA00383239|crbreservationentry|00:1e:67:4d:26:7b|10.237.212.98|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|MORRISSEY, EIMEAR|eimear.morrissey@intel.com|Used|SIE1-RackRoom
+IXA00368793|crbreservationentry|00:E0:86:16:E6:85|10.237.212.250|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00368796|crbreservationentry|00:E0:86:16:E6:80|10.237.212.73|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00367205|crbreservationentry|00:15:17:D6:B8:D0|10.237.212.93|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00370405|crbreservationentry|00:22:4d:56:33:4d|10.237.212.136|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|GHATIGAR, PRASAD M|prasad.m.ghatigar@intel.com|Used|SIE1-RackRoom
+IXA00367649|crbreservationentry|00:15:17:EF:39:34|10.237.212.106|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-RackRoom
+IXA00368777|crbreservationentry|00:E0:86:16:E6:99|10.237.212.89|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00382660|crbreservationentry|00:1e:67:56:b5:dd|10.237.212.62|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|DOYLE, STEPHEN|stephen.doyle@intel.com|Used|SIE1-RackRoom
+IXA00368507|crbreservationentry|00:1b:21:98:D7:DA|10.237.212.118|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|THOMAS, GREG|greg.thomas@intel.com|Used|SIE1-RackRoom
+IXA00368780|crbreservationentry|00:E0:86:16:E6:95|10.237.212.78|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00368407|crbreservationentry|00:15:17:A3:02:1C|10.237.212.35|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00367626|crbreservationentry|00:1B:21:00:7E:10|10.237.212.180|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00379971|crbreservationentry|00:1B:21:AD:BF:7A|10.237.212.165|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|ATTA, AHSAN|ahsan.atta@intel.com|Used|SIE1-RackRoom
+IXA00368923|crbreservationentry|00:15:17:B8:25:EC|10.237.212.85|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|TAHHAN, MARYAM|maryam.tahhan@intel.com|Used|SIE1-RackRoom
+IXA00371219|crbreservationentry|00:10:18:73:84:54|10.237.212.33|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00383876|crbreservationentry|74:d0:2b:95:69:02|10.237.212.112|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00383879|crbreservationentry|74:D0:2B:95:68:1D|10.237.212.92|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00381671|crbreservationentry|00:16:0A:15:2A:4B|10.237.212.134|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00372377|crbreservationentry|00:1B:21:AD:BF:D0|10.237.212.76|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|DOYLE, STEPHEN|stephen.doyle@intel.com|Used|SIE1-RackRoom
+IXA00369741|crbreservationentry|00:22:4D:51:19:89|10.237.212.12|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KINSELLA, RAY|ray.kinsella@intel.com|Used|SIE1-RackRoom
+IXA00380027|crbreservationentry|00:1E:67:51:2C:13|10.237.212.215|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|DOYLE, STEPHEN|stephen.doyle@intel.com|Used|SIE1-RackRoom
+IXA00367658|crbreservationentry|00:15:17:D6:B6:ED|10.237.212.101|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|STRUK, TADEUSZ|tadeusz.struk@intel.com|Used|SIE1-RackRoom
+IXA00368060|crbreservationentry|00:1b:21:9c:b2:33|10.237.212.146|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00368059|crbreservationentry|00:1b:21:9c:b1:2c|10.237.212.32|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00380389|crbreservationentry|68:05:CA:09:63:EB|10.237.212.20|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|ATTA, AHSAN|ahsan.atta@intel.com|Used|SIE1-RackRoom
+IXA00378824|crbreservationentry|00:22:4D:80:F4:61|10.237.212.90|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00368361|crbreservationentry|00:15:17:A3:05:E0|10.237.212.174|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BURAKOV, ANATOLY|anatoly.burakov@intel.com|Used|SIE1-RackRoom
+IXA00368389|crbreservationentry|00:15:17:a2:ec:90|10.237.212.121|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|STOKES, IAN|ian.stokes@intel.com|Used|SIE1-RackRoom
+IXA00380408|crbreservationentry|00:22:4d:80:f5:ff|10.237.212.157|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|STOKES, IAN|ian.stokes@intel.com|Used|SIE1-RackRoom
+IXA00369912|crbreservationentry|00:1b:21:1c:f8:21|10.237.212.182|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-RackRoom
+IXA00369744|crbreservationentry|00:15:17:36:CE:4A|10.237.212.91|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Griffin, John|john.griffin@intel.com|Used|SIE1-RackRoom
+IXA00381673|crbreservationentry|00:0A:F7:09:A1:3B|10.237.212.150|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00368618|crbreservation|macerror||10.237.212.159|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|DUMITRESCU, CRISTIAN FLORIN F|cristian.dumitrescu@intel.com|Used|SIE1-RackRoom
+IXA00370421|crbreservationentry|00:22:4D:56:38:E9|10.237.212.179|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-RackRoom
+IXA00384381|crbreservationentry|00:1E:67:9A:C1:8B|10.237.212.45|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|TAHHAN, MARYAM|maryam.tahhan@intel.com|Used|SIE1-RackRoom
+IXA00384382|crbreservationentry|00:1E:67:9A:BC:21|10.237.212.202|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|TAHHAN, MARYAM|maryam.tahhan@intel.com|Used|SIE1-RackRoom
+IXA00369638|crbreservationentry|68:05:CA:08:6B:9C|10.237.212.176|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00378492|crbreservationentry|00:22:4D:81:65:B8|10.237.212.116|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00365617|crbreservationentry|00:15:17:c5:1d:d1|10.237.212.158|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-RackRoom
+IXA00372208|crbreservationentry|00:1B:21:00:6E:03|10.237.212.46|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00370241|crbreservationentry|00:15:17:DC:CA:AB|10.237.212.52|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00369777|crbreservationentry|00:1e:67:1d:fc:f0|10.237.212.19|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-RackRoom
+IXA00386117|crbreservationentry|74:D4:35:9D:00:16|10.237.212.164|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|JONES, KIM-MARIE|kim-marie.jones@intel.com|Used|SIE1-RackRoom
+IXA00382713|crbreservationentry|68:05:CA:08:6B:57|10.237.212.241|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|ZWARTS, PIETER J|pieter.j.zwarts@intel.com|Used|SIE1-RackRoom
+IXA00368504|crbreservationentry|00:1b:21:AD:BF:5B|10.237.212.153|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00381990|crbreservationentry|00:1e:67:4d:2c:0f|10.237.212.82|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KEATING, SHANE|shane.keating@intel.com|Used|SIE1-RackRoom
+IXA00381991|crbreservationentry|00:1e:67:4d:23:cd|10.237.212.190|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KEATING, SHANE|shane.keating@intel.com|Free|SIE1-RackRoom
+IXA00381668|crbreservationentry|00:1B:21:00:6D:BE|10.237.212.117|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00367292|crbreservationentry|88:88:88:88:87:88|10.237.212.170|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-RackRoom
+IXA00365768|crbreservationentry|00:1B:21:98:D9:74|10.237.212.132|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00372507|crbreservation|iperrorvlan|64:70:02:00:17:5E|10.243.18.110|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00372471|crbreservationentry|00:1B:21:AD:C0:51|10.237.212.201|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KANTECKI, TOMASZ|tomasz.kantecki@intel.com|Used|SIE1-RackRoom
+IXA00381676|crbreservationentry|00:1B:21:AD:BF:D1|10.237.212.96|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00382183|crbreservationentry|00:1b:21:1c:f9:38|10.237.212.100|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|PASHUTA, IGOR|igor.pashuta@intel.com|Used|SIE1-RackRoom
+IXA00383618|crbreservationentry|94:DE:80:AA:F6:E6|10.237.212.205|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00383619|crbreservationentry|94:DE:80:AA:F3:68|10.237.212.120|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00368150|crbreservation|iperrorvlan|68:05:CA:08:6B:70|10.243.18.125|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00369763|crbreservationentry|00:13:20:F8:62:CF|10.237.212.113|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00370590|crbreservationentry|00:1B:21:AD:C0:10|10.237.212.208|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KANTECKI, TOMASZ|tomasz.kantecki@intel.com|Used|SIE1-RackRoom
+IXA00367821|crbreservationentry|00:1B:21:00:7A:8B|10.237.212.183|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00373693|crbreservationentry|00:1E:67:3C:7A:E0|10.237.212.119|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-RackRoom
+IXA00369796|crbreservationentry|00:1F:1F:FA:64:40|10.237.212.68|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BURAKOV, ANATOLY|anatoly.burakov@intel.com|Used|SIE1-RackRoom
+IXA00367662|crbreservationentry|00:1B:21:9C:AF:D7|10.237.212.210|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00370420|crbreservationentry|00:22:4D:56:19:D6|10.237.212.79|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-RackRoom
+IXA00378252|crbreservationentry|00:1E:67:45:BB:1C|10.237.212.107|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00368408|crbreservationentry|00:15:17:a3:02:74|10.237.212.239|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|FINUCANE, KEVIN||Used|SIE1-RackRoom
+IXA00378250|crbreservationentry|00:1e:67:45:ba:81|10.237.212.75|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00378253|crbreservationentry|00:1e:67:45:be:37|10.237.212.60|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00369483|crbreservationentry|E0:69:95:AC:42:9F|10.237.212.57|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-RackRoom
+IXA00368408|crbreservationentry|00:15:17:a3:02:74|10.237.212.173|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|FINUCANE, KEVIN||Used|SIE1-RackRoom
+IXA00369782|crbreservationentry|00:1E:67:1D:FD:1C|10.237.212.188|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BURAKOV, ANATOLY|anatoly.burakov@intel.com|Used|SIE1-RackRoom
+IXA00381988|crbreservationentry|00:1E:67:49:A2:EC|10.237.212.206|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KEATING, SHANE|shane.keating@intel.com|Used|SIE1-RackRoom
+IXA00382963|crbreservationentry|a0:f3:c1:10:75:63|10.237.212.38|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00373418|crbreservationentry|00:1E:67:3E:7B:FA|10.237.212.191|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00373695|crbreservationentry|00:1E:67:3C:76:F0|10.237.212.129|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Long, Thomas|thomas.long@intel.com|Used|SIE1-RackRoom
+IXA00383881|crbreservationentry|74:d0:2b:95:68:1f|10.237.212.135|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00385294|crbreservationentry|74:D0:2B:93:0E:09|10.237.212.143|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00368062|crbreservationentry|00:1B:21:AD:C0:6F|10.237.212.55|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00385961|crbreservationentry|00:1E:67:A8:4F:CC|10.237.212.15|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-RackRoom
+IXA00384383|crbreservationentry|00:1E:67:9A:B9:88|10.237.212.227|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|JONES, KIM-MARIE|kim-marie.jones@intel.com|Used|SIE1-RackRoom
+IXA00383175|crbreservationentry|00:1B:21:9C:B2:2A|10.237.212.34|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-RackRoom
+IXA00382645|crbreservation|iperrorvlan|52:54:00:49:95:36|10.237.214.225|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|ABEJON GONZALEZ, ALEJANDRO|alejandrox.abejon.gonzalez@intel.com|Used|SIE1-RackRoom
+IXA00383620|crbreservationentry|94:DE:80:61:B2:82|10.237.212.69|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00373417|crbreservationentry|00:1E:67:38:87:A9|10.237.212.58|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00379818|crbreservationentry|00:1B:21:AD:BF:70|10.237.212.36|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|MOTYL, TOMASZ|tomasz.motyl@intel.com|Used|SIE1-RackRoom
+IXA00380870|crbreservationentry|00:1B:21:AD:C0:31|10.237.212.13|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00369745|crbreservationentry|00:1b:21:ad:c0:55|10.237.212.48|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Griffin, John|john.griffin@intel.com|Used|SIE1-RackRoom
+IXA00381644|crbreservationentry|00:1E:67:58:8B:EB|10.237.212.30|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|STOKES, IAN|ian.stokes@intel.com|Used|SIE1-RackRoom
+IXA00368771|crbreservationentry|00:E0:86:1b:bd:43|10.237.212.203|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-RackRoom
+IXA00368516|crbreservationentry|00:1b:21:ad:bf:e1|10.237.212.224|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LUCEY, CATRIONA|catriona.lucey@intel.com|Used|SIE1-RackRoom
+IXA00386118|crbreservationentry|74:d4:35:9d:00:0f|10.237.212.95|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|JONES, KIM-MARIE|kim-marie.jones@intel.com|Used|SIE1-RackRoom
+IXA00372352|crbreservationentry|00:1B:21:AD:BF:96|10.237.212.80|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00368578|crbreservationentry|64:70:02:10:FB:03|10.237.212.9|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00367806|crbreservationentry|1C:6F:65:97:97:50|10.237.212.197|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUCKLEY, DANIEL M|daniel.m.buckley@intel.com|Used|SIE1-RackRoom
+IXA00372507|crbreservationentry|64:70:02:00:17:5E|10.237.212.99|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BHANSALI, PALLAV|pallav.bhansali@intel.com|Used|SIE1-RackRoom
+IXA00383069|crbreservationentry|00:1e:67:42:fe:6f|10.237.212.6|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHILIKIN, ANDREY|andrey.chilikin@intel.com|Used|SIE1-RackRoom
+IXA00366019|crbreservationentry|00:15:17:d8:20:70|10.237.212.178|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00384598|crbreservationentry|00:13:20:FF:1C:AA|10.237.212.137|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CULLIGAN, JASON|jasonx.culligan@intel.com|Used|SIE1-RackRoom
+IXA00382466|crbreservationentry|00:1b:21:1e:76:5d|10.237.212.234|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|FINUCANE, KEVIN||Used|SIE1-RackRoom
+IXA00381635|crbreservationentry|00:15:17:e3:e1:9b|10.237.212.131|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00365421|crbreservation|iperrorvlan|00:15:17:DC:C6:5E|10.243.18.104|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00381634|crbreservationentry|00:1e:67:4e:2f:72|10.237.212.175|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00381633|crbreservationentry|00:1E:67:51:1a:3f|10.237.212.247|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00321916|crbreservationentry|00:1B:21:00:6C:4A|10.237.212.222|212|/Blank/Root/Path|/boards/boards.RackRoom|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-RackRoom
+IXA00365898|crbreservationentry|00:1c:c0:a3:63:c1|10.237.212.39|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUCKLEY, DANIEL M|daniel.m.buckley@intel.com|Used|SIE1-RackRoom
+IXA00368541|crbreservationentry|00:1B:21:AD:BF:94|10.237.212.214|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00380550|crbreservationentry|00:1B:21:AD:C0:03|10.237.212.108|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00381672|crbreservationentry|00:1b:21:1C:8A:95|10.237.212.229|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00381675|crbreservationentry|00:1B:21:AD:BF:71|10.237.212.31|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00365863|crbreservationentry|00:1F:1F:FA:64:B1|10.237.212.28|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00382423|crbreservationentry|00:1B:21:98:DA:04|10.237.212.26|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|O'RIORDAIN, SEOSAMH|seosamh.oriordain@intel.com|Used|SIE1-RackRoom
+IXA00371986|crbreservationentry|68:05:CA:08:6B:EB|10.237.212.17|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|THOMAS, GREG|greg.thomas@intel.com|Used|SIE1-RackRoom
+IXA00368467|crbreservationentry|00:15:17:a1:d1:06|10.237.212.37|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUCKLEY, DANIEL M|daniel.m.buckley@intel.com|Used|SIE1-RackRoom
+IXA00384453|crbreservationentry|00:13:20:F9:90:01|10.237.212.196|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KENNEDY, DAVID|david.kennedy@intel.com|Used|SIE1-RackRoom
+IXA00385831|crbreservationentry|74:D0:2B:93:0D:75|10.237.212.233|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00385832|crbreservationentry|74:D0:2B:93:0D:41|10.237.212.56|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|BUTLER, SIOBHAN A|siobhan.a.butler@intel.com|Used|SIE1-RackRoom
+IXA00382645|crbreservationentry|52:54:00:49:95:36|10.237.212.125|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|ABEJON GONZALEZ, ALEJANDRO|alejandrox.abejon.gonzalez@intel.com|Used|SIE1-RackRoom
+IXA00365726|crbreservationentry|00:1b:21:9c:b2:37|10.237.212.126|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00371239|crbreservationentry|00:1B:21:AD:C0:12|10.237.212.59|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00385383|crbreservation|macerror||10.237.212.22|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|Traynor, Kevin|kevin.traynor@intel.com|Used|SIE1-RackRoom
+IXA00381674|crbreservationentry|A0:36:9F:03:F2:A8|10.237.212.81|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00368625|crbreservationentry|00:1B:21:98:D9:6C|10.237.212.8|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-RackRoom
+IXA00368896|crbreservationentry|00:22:4D:50:EB:03|10.237.212.50|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CHAPMAN, JAMES P|james.p.chapman@intel.com|Used|SIE1-RackRoom
+IXA00383172|crbreservationentry|f8:1a:67:00:73:5d|10.237.212.63|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00381906|crbreservationentry|00:04:23:ea:68:e1|10.237.212.133|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|KANTECKI, TOMASZ|tomasz.kantecki@intel.com|Used|SIE1-RackRoom
+IXA00381667|crbreservationentry|00:13:20:f9:a3:7b|10.237.212.40|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00381670|crbreservationentry|A0:36:9F:03:F2:4C|10.237.212.84|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|LAFFAN, GERARD|gerard.laffan@intel.com|Used|SIE1-RackRoom
+IXA00385352|crbreservationentry|00:13:20:FF:1D:0C|10.237.212.169|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|SAMSON, DON|don.samson@intel.com|Used|SIE1-RackRoom
+IXA00382467|crbreservationentry|94:DE:80:61:BF:C5|10.237.212.67|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|HEALY, ROBERT|robert.healy@intel.com|Used|SIE1-RackRoom
+IXA00386121|crbreservationentry|74:D4:35:9D:00:E8|10.237.212.207|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|JONES, KIM-MARIE|kim-marie.jones@intel.com|Used|SIE1-RackRoom
+IXA00377983|crbreservationentry|00:1e:67:45:BA:BD|10.237.212.209|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|CAREW, ALAN|alan.carew@intel.com|Used|SIE1-RackRoom
+IXA00367244|crbreservationentry|00:1F:1F:FA:64:D8|10.237.212.130|212|/BLANK/ROOT/PATH|/boards/boards.RackRoom|RICHARDSON, BRUCE|bruce.richardson@intel.com|Used|SIE1-RackRoom
+createhostsentries|/scripts/boards/boards.RackRoom
+generated|E
+dhcpd|sectionadd|E

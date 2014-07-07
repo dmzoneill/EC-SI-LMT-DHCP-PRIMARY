@@ -1,0 +1,16 @@
+Prototype mismatch: sub main::strftime: none vs ($\@;$) at /opt/ibm/RationalSDLC/clearquest/../common/lib/perl5/5.8.6/Exporter.pm line 65.
+ at /scripts/notifier/updateReservationNotifier.pl line 9
+Prototype mismatch: sub main::ctime: none vs ($;$) at /opt/ibm/RationalSDLC/clearquest/../common/lib/perl5/5.8.6/Exporter.pm line 65.
+ at /scripts/notifier/updateReservationNotifier.pl line 9
+Prototype mismatch: sub main::asctime: none vs (\@;$) at /opt/ibm/RationalSDLC/clearquest/../common/lib/perl5/5.8.6/Exporter.pm line 65.
+ at /scripts/notifier/updateReservationNotifier.pl line 9
+String returned from the CQPerl is not in the local code page, "UNIX client".
+The string is "Infrastructure ? Apps Feature Team".
+The following characters are invalid:
+U+2013 at 16
+2011-08-12 23:56:04.407+01:00 CCGLG0035E A logger of class ccg_pdlogger could not get the host name. The host name will not be logged.
+2011-08-12 23:56:04.409+01:00 CCGLG0035E A logger of class ccg_pdlogger could not get the host name. The host name will not be logged.
+2011-08-12 23:56:04.411+01:00 CCGLG0035E A logger of class ccg_pdlogger could not get the host name. The host name will not be logged.
+2011-08-12 23:56:04.412+01:00 CCGLG0035E A logger of class ccg_pdlogger could not get the host name. The host name will not be logged.
+2011-08-12 23:56:04.414+01:00 CCGLG0035E A logger of class ccg_pdlogger could not get the host name. The host name will not be logged.
+2011-08-12 23:56:04.415+01:00 CCGLG0035E A logger of class ccg_pdlogger could not get the host name. The host name will not be logged.

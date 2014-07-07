@@ -1,0 +1,3217 @@
+crb|IXA00158999|||SW Store|NotInUse|
+crb|IXA00178535|||Scrapped|NotInUse|
+crb|IXA00178536|||SV Store|NotInUse|
+crb|IXA00179740|10.237.212.236|00:00:00:00:00:05|SW Store|InUse|
+crb|IXA00179742||||InUse|
+crb|IXA00179744||||InUse|
+crb|IXA00180364||||InUse|
+crb|IXA00180365|||SW Store|NotInUse|
+crb|IXA00180374|||SIE1-SW|NotInUse|krzysztof.jankowski@intel.com
+crb|IXA00180448||||InUse|
+crb|IXA00181373||||NotInUse|
+crb|IXA00191956|||Scrapped|NotInUse|
+crb|IXA00197736|||Scrapped|InUse|
+crb|IXA00198272|||SV Store|InUse|
+crb|IXA00199029|||SW Store|NotInUse|richard.p.kelly@intel.com
+crb|IXA00201699|||SIE1-SW|NotInUse|
+crb|IXA00201853|||SV Store|NotInUse|
+crb|IXA00205503|||SW Store|NotInUse|frank.roche@intel.com
+crb|IXA00205507|||SW Store|NotInUse|
+crb|IXA00205822|||Scrapped|NotInUse|
+crb|IXA00205976|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00205977|||SW Store|NotInUse|brian.will@intel.com
+crb|IXA00209483|||Offsite storage|NotInUse|
+crb|IXA00210699|||Scrapped|NotInUse|
+crb|IXA00211343|||Scrapped|NotInUse|
+crb|IXA00211344|||SW Store|NotInUse|catriona.lucey@intel.com
+crb|IXA00212569|||SW Store|NotInUse|
+crb|IXA00216489|||SV Store|NotInUse|
+crb|IXA00216492|||SW Store|NotInUse|
+crb|IXA00217556|||SV Store|NotInUse|
+crb|IXA00217557|||SW Store|NotInUse|tom.counihan@intel.com
+crb|IXA00217559|||SV Store|InUse|
+crb|IXA00217615|||SW Store|NotInUse|tj.odwyer@intel.com
+crb|IXA00218174|||Scrapped|NotInUse|
+crb|IXA00220603|||SW Store|NotInUse|
+crb|IXA00223181|||SW Store|NotInUse|thomas.long@intel.com
+crb|IXA00223196|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00223211|||Scrapped|NotInUse|
+crb|IXA00226062|||SW Store|NotInUse|
+crb|IXA00227399|||SV Store|InUse|pallav.bhansali@intel.com
+crb|IXA00227400|||SIE1-RackRoom|NotInUse|
+crb|IXA00228941|10.237.212.110|00:15:17:e6:72:2b|SW Store|NotInUse|
+crb|IXA00228944|||SV Store|NotInUse|
+crb|IXA00234017|||SW Store|NotInUse|catriona.lucey@intel.com
+crb|IXA00234023|10.237.212.111|00:1B:21:00:7A:96|SIE1-RackRoom|InUse|don.samson@intel.com
+crb|IXA00236424|||SV Store|NotInUse|mark.d.gray@intel.com
+crb|IXA00236425|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00236602|||Scrapped|InUse|john.mangan@intel.com
+crb|IXA00239068|||SV Store|NotInUse|
+crb|IXA00239069|||Scrapped|NotInUse|
+crb|IXA00239071|||SW Store|InUse|
+crb|IXA00239072|||SIE1-RackRoom|NotInUse|
+crb|IXA00239444|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00239524|||SW Store|InUse|
+crb|IXA00239530|||SV Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00241610|||SV Store|NotInUse|
+crb|IXA00241613|||SV Store|NotInUse|
+crb|IXA00242853|||Scrapped|NotInUse|gabriele.paoloni@intel.com
+crb|IXA00242854|||SV Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00245372|||SW Store|NotInUse|mark.d.gray@intel.com
+crb|IXA00245449|||Scrapped|NotInUse|
+crb|IXA00245679|||SIE1-SW|InUse|james.p.chapman@intel.com
+crb|IXA00245680|||Scrapped|NotInUse|
+crb|IXA00245681|||SW Store|NotInUse|
+crb|IXA00247460||||InUse|
+crb|IXA00259501|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00267885|10.237.212.219|00:1B:21:00:7B:9C|SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00267886|10.237.212.238|00:1B:21:1D:4D:70|SW Store|InUse|
+crb|IXA00267888|||Unknown|InUse|
+crb|IXA00267889|||SIE1-SV|NotInUse|
+crb|IXA00268688|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00268689|||SW Store|NotInUse|catriona.lucey@intel.com
+crb|IXA00268690|||SW Store|NotInUse|fabrice.peretti@intel.com
+crb|IXA00270054|||SW Store|NotInUse|brendan.kennedy@intel.com
+crb|IXA00277505|||SW Store|InUse|tom.counihan@intel.com
+crb|IXA00278961|||SV Store|NotInUse|
+crb|IXA00278965|||Offsite storage|InUse|seosamh.oriordain@intel.com
+crb|IXA00279944|||SW Store|InUse|
+crb|IXA00279945|||SIE1-SV|NotInUse|pallav.bhansali@intel.com
+crb|IXA00279989|||SV Store|NotInUse|
+crb|IXA00280615|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00280787|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00281477|||SW Store|InUse|richard.p.kelly@intel.com
+crb|IXA00281610|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00281735|||SW Store|InUse|jasonx.culligan@intel.com
+crb|IXA00281736|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00282346|||SV Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00282347|||SV Store|NotInUse|
+crb|IXA00282348|||SIE1-SV|NotInUse|seosamh.oriordain@intel.com
+crb|IXA00282349|10.237.212.24|00:1B:21:29:6E:99|SW Store|InUse|
+crb|IXA00282350|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00282351|||Offsite storage|NotInUse|martin.gallagher@intel.com
+crb|IXA00282352|||SIE1-SW|NotInUse|
+crb|IXA00282353|||WGC Lab|InUse|
+crb|IXA00282356|||SIE1-RackRoom|NotInUse|
+crb|IXA00304586|||SW Store|NotInUse|mark.d.gray@intel.com
+crb|IXA00304587|||SW Store|InUse|mark.d.gray@intel.com
+crb|IXA00304588|10.243.18.203|00:1b:21:00:6c:86|SW Store|InUse|mark.d.gray@intel.com
+crb|IXA00304595|||SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00304807|10.237.212.156|00:1B:21:00:6C:85|SIE1-RackRoom|InUse|
+crb|IXA00307156|||SW Store|InUse|mark.d.gray@intel.com
+crb|IXA00309157|||SW Store|NotInUse|
+crb|IXA00310102|||Scrapped|NotInUse|
+crb|IXA00311935|||SW Store|NotInUse|
+crb|IXA00319637|||SV Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00320123|||SW Store|NotInUse|
+crb|IXA00320130|||SIE1-RackRoom|InUse|
+crb|IXA00321211|||SW Store|NotInUse|
+crb|IXA00321573|||SW Store|NotInUse|david.martinez-nieto@intel.com
+crb|IXA00321614|||Offsite storage|NotInUse|
+crb|IXA00321653|||SIE1-SW|NotInUse|
+crb|IXA00321655|||SW Store|InUse|
+crb|IXA00321656|||SW Store|NotInUse|brendan.kennedy@intel.com
+crb|IXA00321657|||SIE1-SW|NotInUse|
+crb|IXA00321658|||SW Store|InUse|
+crb|IXA00321916|10.237.212.249|00:1B:21:00:6C:4A|SIE1-RackRoom|InUse|james.p.chapman@intel.com
+crb|IXA00321917|||SIE1-SW|NotInUse|
+crb|IXA00323908|||SIE1-SW|NotInUse|richard.dunphy@intel.com
+crb|IXA00324454|||SIE2-TME|InUse|
+crb|IXA00324456|||SIE2-TME|InUse|
+crb|IXA00324457|||SIE2-TME|InUse|
+crb|IXA00324458|||SIE2-TME|InUse|
+crb|IXA00324459|||SIE2-TME|InUse|
+crb|IXA00324460|||SIE2-TME|InUse|
+crb|IXA00324461|||SIE2-TME|InUse|
+crb|IXA00324462|||SIE2-TME|InUse|
+crb|IXA00324463|||SIE2-TME|InUse|
+crb|IXA00324505|||SIE2-TME|InUse|
+crb|IXA00324506|||SIE2-TME|InUse|
+crb|IXA00324508|||SIE2-TME|InUse|
+crb|IXA00324509|||SIE2-TME|InUse|
+crb|IXA00324510|||SIE2-TME|InUse|
+crb|IXA00324511|||SIE2-TME|InUse|
+crb|IXA00324512|||SIE2-TME|InUse|
+crb|IXA00324513|||SIE2-TME|InUse|
+crb|IXA00324514|||SIE2-TME|InUse|
+crb|IXA00324515|||SIE2-TME|InUse|
+crb|IXA00324520|||SIE2-TME|InUse|
+crb|IXA00324521|||SIE2-TME|InUse|
+crb|IXA00324527|||SIE2-TME|InUse|
+crb|IXA00324528|||SIE2-TME|InUse|
+crb|IXA00324529|||SIE2-TME|InUse|
+crb|IXA00324530|||SIE2-TME|InUse|
+crb|IXA00324531|||SIE2-TME|InUse|
+crb|IXA00324532|||SIE2-TME|InUse|
+crb|IXA00324533|||SIE2-TME|InUse|
+crb|IXA00324534|||SIE2-TME|InUse|
+crb|IXA00324535|||SIE2-TME|InUse|
+crb|IXA00324536|||SIE2-TME|InUse|
+crb|IXA00324537|||SIE2-TME|InUse|
+crb|IXA00324538|||SIE2-TME|InUse|
+crb|IXA00324539|||SIE2-TME|InUse|
+crb|IXA00324540|||SIE2-TME|InUse|
+crb|IXA00324542|||SIE2-TME|InUse|
+crb|IXA00324543|||SIE2-TME|InUse|
+crb|IXA00324544|||SIE2-TME|InUse|
+crb|IXA00324545|||SIE2-TME|InUse|
+crb|IXA00324546|||SIE2-TME|InUse|
+crb|IXA00324547|||SIE2-TME|InUse|
+crb|IXA00324548|||SIE2-TME|InUse|
+crb|IXA00324550|||SIE2-TME|InUse|
+crb|IXA00324551|||SIE2-TME|InUse|
+crb|IXA00324552|||SIE2-TME|InUse|
+crb|IXA00324853|10.237.212.199|00:13:20:F7:1D:84|SIE1-RackRoom|InUse|
+crb|IXA00324952|||SW Store|InUse|
+crb|IXA00326544|||SV Store|InUse|
+crb|IXA00328192|||SIE1-ServerRack|NotInUse|jasonx.culligan@intel.com
+crb|IXA00329355|||SW Store|InUse|jasonx.culligan@intel.com
+crb|IXA00335074|||Scrapped|NotInUse|
+crb|IXA00335075|||SW Store|NotInUse|frank.roche@intel.com
+crb|IXA00335076|||SIE1-RackRoom|InUse|
+crb|IXA00339013|||SIE1-SW|NotInUse|
+crb|IXA00339258|||Scrapped|InUse|
+crb|IXA00339267|||SIE1-SV|InUse|
+crb|IXA00339781|||SV Store|InUse|
+crb|IXA00339782|||SV Store|InUse|
+crb|IXA00339783|||SW Store|NotInUse|
+crb|IXA00339997|10.243.18.238|00:13:20:f7:8c:72|SW Store|InUse|mark.d.gray@intel.com
+crb|IXA00342506|10.237.212.27|00:00:00:00:00:23|SW Store|InUse|
+crb|IXA00342510|||Shipped|InUse|daniel.m.buckley@intel.com
+crb|IXA00342547|||SV Store|NotInUse|
+crb|IXA00342549|||SV Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00342550|||SV Store|NotInUse|
+crb|IXA00342999|||SIE1-SV|InUse|keith.critchley@intel.com
+crb|IXA00343080|||SW Store|InUse|
+crb|IXA00343082|||SW Store|InUse|
+crb|IXA00343083|||SV Store|InUse|
+crb|IXA00343101|||SV Store|NotInUse|
+crb|IXA00343472|||SIE1-SV|InUse|keith.critchley@intel.com
+crb|IXA00343477|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00343612|||SW Store|NotInUse|amarpreet.ugal@intel.com
+crb|IXA00343764|||SIE1-SV|InUse|
+crb|IXA00343935|||SV Store|InUse|
+crb|IXA00347091|||SV Store|NotInUse|
+crb|IXA00352422|||SW Store|NotInUse|
+crb|IXA00352596|10.237.212.163|00:03:47:DF:AA:6B|SW Store|NotInUse|don.samson@intel.com
+crb|IXA00357287|||SW Store|InUse|
+crb|IXA00357298|||SIE1-SV|NotInUse|
+crb|IXA00357300|||SW Store|NotInUse|ken.reynolds@intel.com
+crb|IXA00357338|10.243.18.82|00:1C:C0:A2:5F:CF|SIE1-SW|InUse|
+crb|IXA00361113|||SIE1-SV|InUse|arun.preetham@intel.com
+crb|IXA00361117|||SIE1-SV|InUse|
+crb|IXA00361119|||SIE1-SV|InUse|
+crb|IXA00364281|||SIE1-SV|InUse|
+crb|IXA00364282|||SW Store|InUse|prasad.m.ghatigar@intel.com
+crb|IXA00364342|||SIE1-SV|InUse|
+crb|IXA00364509|||SW Store|InUse|
+crb|IXA00364554|||SV Store|InUse|
+crb|IXA00364557||00:03:47:DF:2D:8F|SW Store|NotInUse|
+crb|IXA00365294|||SW Store|InUse|gerard.maloney@intel.com
+crb|IXA00365295|||Scrapped|InUse|gerard.maloney@intel.com
+crb|IXA00365419|10.237.212.217|00:13:20:F8:7E:C9|Shipped|InUse|waterman.cao@intel.com
+crb|IXA00365421||00:15:17:DC:C6:5E|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00365422|||SIE1-RackRoom2|InUse|graemex.hickman@intel.com
+crb|IXA00365423|||SW Store|NotInUse|
+crb|IXA00365424|||SW Store|NotInUse|
+crb|IXA00365442|||SW Store|NotInUse|
+crb|IXA00365501|||SIE1-RackRoom|NotInUse|vidyanath.madarapu@intel.com
+crb|IXA00365502|||SW Store|InUse|
+crb|IXA00365522|||SW Store|InUse|
+crb|IXA00365603|||SW Store|InUse|ray.kinsella@intel.com
+crb|IXA00365613|||SW Store|NotInUse|
+crb|IXA00365616|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00365617||00:15:17:c5:1d:d1|SIE1-RackRoom|InUse|siobhan.a.butler@intel.com
+crb|IXA00365621|||SIE1-SW|InUse|
+crb|IXA00365622|||SV Store|InUse|
+crb|IXA00365672|||SIE1-SV|InUse|
+crb|IXA00365683|||SV Store|InUse|
+crb|IXA00365684||00:15:17:be:28:5e|SIE1-SV|InUse|tomasz.motyl@intel.com
+crb|IXA00365689|||SV Store|InUse|
+crb|IXA00365713|||SW Store|NotInUse|david.m.oneill@intel.com
+crb|IXA00365720|10.237.212.220|10:15:17:DC:CA:AB|SV Store|InUse|don.samson@intel.com
+crb|IXA00365721|10.237.212.211|00:1B:21:00:6D:1A|SW Store|InUse|
+crb|IXA00365723|||Shipped|InUse|waterman.cao@intel.com
+crb|IXA00365726||00:1b:21:9c:b2:37|SIE1-RackRoom|InUse|przemyslaw.czesnowicz@intel.com
+crb|IXA00365727|||SIE1-RackRoom|InUse|frank.roche@intel.com
+crb|IXA00365729|||SIE1-SW|InUse|
+crb|IXA00365730|||SIE1-SW|InUse|
+crb|IXA00365736|||SIE1-SW|NotInUse|chris.macnamara@intel.com
+crb|IXA00365767|||SIE1-RackRoom|InUse|vidyanath.madarapu@intel.com
+crb|IXA00365768||00:1B:21:98:D9:74|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00365785|10.237.212.253|00:13:20:F7:82:15|SIE1-RackRoom|InUse|gabriele.paoloni@intel.com
+crb|IXA00365806|10.237.212.184|00:1B:21:3F:67:61|SV Store|NotInUse|thomas.long@intel.com
+crb|IXA00365807|||SW Store|NotInUse|thomas.long@intel.com
+crb|IXA00365808|10.237.212.192|00:16:0A:15:2A:D8|SIE1-RackRoom|InUse|
+crb|IXA00365825||00:13:20:F7:57:9C|Shipped|InUse|
+crb|IXA00365836|||SIE1-RackRoom|InUse|frank.roche@intel.com
+crb|IXA00365843|||SW Store|NotInUse|mark.d.gray@intel.com
+crb|IXA00365844|||SW Store|NotInUse|mark.d.gray@intel.com
+crb|IXA00365856|||Scrapped|InUse|mark.d.gray@intel.com
+crb|IXA00365857|||SW Store|InUse|andrew.duignan@intel.com
+crb|IXA00365858|10.237.212.41|00:15:17:d7:cd:f5|SIE1-RackRoom|InUse|ian.stokes@intel.com
+crb|IXA00365860|10.237.212.42|00:11:22:33:44:56|SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00365861|10.237.212.43|00:15:17:D7:CC:C4|SW Store|InUse|
+crb|IXA00365862|10.237.212.44||SIE1-RackRoom|InUse|anthonyx.fee@intel.com
+crb|IXA00365863||00:1F:1F:FA:64:B1|SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00365870||00:13:20:F8:83:5C|SIE1-ServerRack|InUse|robert.healy@intel.com
+crb|IXA00365872|10.243.18.250|00:80:C8:39:67:04|SW Store|InUse|kevin.traynor@intel.com
+crb|IXA00365879|10.237.212.213|00:1B:21:00:7B:28|SW Store|NotInUse|cristian.dumitrescu@intel.com
+crb|IXA00365890|||SW Store|InUse|mark.d.gray@intel.com
+crb|IXA00365894|||SIE1-SV|InUse|
+crb|IXA00365895|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00365897|||SIE1-SW|InUse|chris.macnamara@intel.com
+crb|IXA00365898||00:1c:c0:a3:63:c1|SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00365921|||SW Store|InUse|
+crb|IXA00365930|||SIE1-RackRoom|InUse|john.walsh@intel.com
+crb|IXA00365933|||SV Store|NotInUse|francesco.fiaschi@intel.com
+crb|IXA00365941|10.243.18.211|00:15:17:23:EB:DA|SV Store|InUse|
+crb|IXA00365944|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00365945|||SV Store|InUse|
+crb|IXA00365948|||SW Store|InUse|tomasz.motyl@intel.com
+crb|IXA00365950|||SIE1-SV|InUse|
+crb|IXA00365960|10.237.212.243|00:16:0A:15:2D:4A|SW Store|InUse|josselin.costanzi@intel.com
+crb|IXA00365961|||SW Store|NotInUse|josselin.costanzi@intel.com
+crb|IXA00365970|||SIE1-SW|NotInUse|
+crb|IXA00365997|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00366002|||SW Store|InUse|
+crb|IXA00366014|||SIE1-SW|InUse|peter.j.obrien@intel.com
+crb|IXA00366019||00:15:17:d8:20:70|SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00366020|||SW Store|NotInUse|
+crb|IXA00366021|||SIE1-RackRoom|NotInUse|gabriele.paoloni@intel.com
+crb|IXA00366028|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00366029|10.237.212.218|00:1B:21:00:6B:D3|SIE1-RackRoom|InUse|vidyanath.madarapu@intel.com
+crb|IXA00366030|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00366032|||SW Store|InUse|
+crb|IXA00366043|||SIE1-SV|InUse|pieter.j.zwarts@intel.com
+crb|IXA00366046|||SIE1-SV|InUse|pieter.j.zwarts@intel.com
+crb|IXA00366047|||SV Store|InUse|seosamh.oriordain@intel.com
+crb|IXA00366048|||SV Store|InUse|
+crb|IXA00366050|||SV Store|InUse|seosamh.oriordain@intel.com
+crb|IXA00366051|||SV Store|InUse|
+crb|IXA00366052|||SIE1-SV|InUse|
+crb|IXA00366054|||SIE1-SV|InUse|
+crb|IXA00366055|||SIE1-SV|InUse|
+crb|IXA00366060|||SIE1-SV|NotInUse|francesco.fiaschi@intel.com
+crb|IXA00366067|||SIE1-SV|InUse|
+crb|IXA00366082|||SIE1-SV|InUse|keith.critchley@intel.com
+crb|IXA00366084|||SIE1-SV|InUse|
+crb|IXA00366086|||SW Store|InUse|petr.chocholac@intel.com
+crb|IXA00366087|||SIE1-SV|InUse|
+crb|IXA00366089|||SIE1-SV|InUse|
+crb|IXA00366090|||SIE1-SV|InUse|
+crb|IXA00366092|||SIE1-RackRoom|InUse|james.p.chapman@intel.com
+crb|IXA00366093|||SIE1-SV|InUse|
+crb|IXA00366094|||SIE1-SV|InUse|
+crb|IXA00366097|||SIE1-SV|InUse|
+crb|IXA00366098|||SV Store|NotInUse|
+crb|IXA00366099|||SIE1-SV|InUse|
+crb|IXA00366100|||SIE1-SV|InUse|
+crb|IXA00366127|10.237.212.230|00:15:17:D8:40:78|SIE1-RackRoom|InUse|
+crb|IXA00366128|10.237.212.225|00:15:17:D8:37:FC|SIE1-RackRoom|InUse|
+crb|IXA00366132|||SIE1-RackRoom|InUse|
+crb|IXA00366133|||SIE1-SV|InUse|
+crb|IXA00366134|||SIE1-SV|InUse|
+crb|IXA00366135|||SIE1-SV|InUse|
+crb|IXA00366150||00:1C:C0:A3:63:14|SW Store|InUse|
+crb|IXA00366165|||SV Store|NotInUse|
+crb|IXA00366166|10.237.212.223|00:1B:21:29:6E:AB|SV Store|InUse|
+crb|IXA00366169|||SV Store|InUse|
+crb|IXA00366170|||SV Store|InUse|
+crb|IXA00366171|||SV Store|InUse|
+crb|IXA00366184|||SIE1-SV|InUse|
+crb|IXA00366189|||SW Store|InUse|
+crb|IXA00366206|||SW Store|InUse|
+crb|IXA00366227||00:1B:21:00:6B:7F|SIE1-SW|NotInUse|
+crb|IXA00366233|||SIE1-SW|InUse|chris.macnamara@intel.com
+crb|IXA00366234|10.243.18.224|00:13:20:F7:1C:1C|SV Store|NotInUse|
+crb|IXA00366241|||SIE1-SW|InUse|gerard.maloney@intel.com
+crb|IXA00366303|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00366331|||SIE1-SV|InUse|
+crb|IXA00366332|||SIE1-SV|InUse|
+crb|IXA00366333|||SIE1-SV|InUse|
+crb|IXA00366334|||SIE1-SV|InUse|
+crb|IXA00366346|||SIE1-RackRoom|InUse|
+crb|IXA00366350|||SW Store|NotInUse|tadeusz.struk@intel.com
+crb|IXA00366354|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00366377|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00366391|||SIE1-SV|InUse|
+crb|IXA00366392|||SV Store|InUse|
+crb|IXA00366401|||SW Store|NotInUse|tadeusz.struk@intel.com
+crb|IXA00366403|||Shipped|InUse|tadeusz.struk@intel.com
+crb|IXA00366408|||SW Store|NotInUse|
+crb|IXA00366430|10.243.18.216|00:25:b3:ca:5b:96|SIE1-SV|InUse|petr.chocholac@intel.com
+crb|IXA00366434|||SIE1-SV|InUse|
+crb|IXA00366435|||SIE1-SV|InUse|
+crb|IXA00366446|10.237.212.177|00:01:6C:CA:F1:99|SIE1-RackRoom|InUse|david.m.oneill@intel.com
+crb|IXA00366535|||SV Store|InUse|
+crb|IXA00366563|||SIE1-RackRoom|NotInUse|stephen.c.bergin@intel.com
+crb|IXA00366576|||SW Store|InUse|
+crb|IXA00366586|10.237.212.193|00:03:47:DF:BF:87|SW Store|NotInUse|amarpreet.ugal@intel.com
+crb|IXA00366589||00:1B:21:1C:F9:87|SIE1-RackRoom|InUse|maryam.tahhan@intel.com
+crb|IXA00366598|||SIE1-RackRoom|InUse|leonardo.potenza@intel.com
+crb|IXA00366602|||SW Store|InUse|
+crb|IXA00366605|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00366609|||SIE1-SW|InUse|gerard.maloney@intel.com
+crb|IXA00366610|||SIE1-SW|InUse|gerard.maloney@intel.com
+crb|IXA00366611|||SW Store|NotInUse|dario.russo@intel.com
+crb|IXA00366612|||SW Store|InUse|
+crb|IXA00366619|||SIE1-SV|InUse|
+crb|IXA00366622|||SIE1-SV|InUse|
+crb|IXA00366623|||SIE1-SV|InUse|
+crb|IXA00366624|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00366625|||SIE1-SV|InUse|
+crb|IXA00366626|||SIE1-SV|InUse|
+crb|IXA00366627|||Offsite storage|InUse|
+crb|IXA00366628|||SIE1-SV|InUse|
+crb|IXA00366629|||Scrapped|InUse|
+crb|IXA00366630|||SW Store|InUse|
+crb|IXA00366632|||SIE1-SW|InUse|
+crb|IXA00366634|||SIE1-SW|InUse|
+crb|IXA00366636|10.243.18.44|18:A9:05:48:BE:7A|SV Store|InUse|thomas.long@intel.com
+crb|IXA00366637|||SV Store|InUse|
+crb|IXA00366639|||SIE1-SW|InUse|chris.macnamara@intel.com
+crb|IXA00366670|||SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00366677|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00366696|||SW Store|NotInUse|
+crb|IXA00366704|10.243.18.247|00:1B:21:1C:FA:71|SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00366705|||SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00366706|10.243.18.242|1c:bd:b9:7e:19:56|SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00366799|||SIE1-RackRoom|NotInUse|
+crb|IXA00366883|||SW Store|InUse|
+crb|IXA00366884|||SIE1-RackRoom|InUse|
+crb|IXA00366922|||SW Store|InUse|pallav.bhansali@intel.com
+crb|IXA00366995|||SW Store|InUse|
+crb|IXA00366996|||SIE1-RackRoom|InUse|
+crb|IXA00366997|||SIE1-RackRoom|InUse|
+crb|IXA00367010|||SIE1-RackRoom|InUse|
+crb|IXA00367045|||SW Store|InUse|
+crb|IXA00367090|||SW Store|NotInUse|
+crb|IXA00367097||00:15:17:EA:C1:05|SIE1-SV|NotInUse|marcin.wrzeszcz@intel.com
+crb|IXA00367139||00:1B:21:B3:3F:C4|SIE1-RackRoom|InUse|
+crb|IXA00367147|||SW Store|InUse|
+crb|IXA00367151|||SIE1-SW|InUse|ray.kinsella@intel.com
+crb|IXA00367152|||SIE1-SW|InUse|ray.kinsella@intel.com
+crb|IXA00367204|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00367205||00:15:17:D6:B8:D0|SIE1-RackRoom|InUse|
+crb|IXA00367225|||SIE1-SV|InUse|robert.healy@intel.com
+crb|IXA00367229|||Off_Site|NotInUse|
+crb|IXA00367232|||Offsite storage|InUse|krishna.j.murthy@intel.com
+crb|IXA00367242|||SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00367244||00:1F:1F:FA:64:D8|SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00367256|||SW Store|InUse|
+crb|IXA00367259|||SW Store|InUse|
+crb|IXA00367271|||SW Store|NotInUse|
+crb|IXA00367291|||SW Store|NotInUse|
+crb|IXA00367292||88:88:88:88:87:88|SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00367307|||SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00367349|||SIE1-RackRoom|InUse|bruce.richardson@intel.com
+crb|IXA00367356|||SIE1-RackRoom|InUse|rajalekha.kilar.rajaram@intel.com
+crb|IXA00367374|||SW Store|NotInUse|ger.malone@intel.com
+crb|IXA00367378|||SW Store|InUse|greg.thomas@intel.com
+crb|IXA00367510|||SW Store|NotInUse|
+crb|IXA00367516|||SIE1-RackRoom|InUse|john.griffin@intel.com
+crb|IXA00367517|||SW Store|InUse|greg.thomas@intel.com
+crb|IXA00367519|||WGC Lab|InUse|
+crb|IXA00367520|||Shipped|NotInUse|tadeusz.struk@intel.com
+crb|IXA00367521|||Shipped|InUse|markx.g.burkley@intel.com
+crb|IXA00367522|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00367523|||SW Store|NotInUse|
+crb|IXA00367525|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00367526|||SIE1-SW|InUse|
+crb|IXA00367527|||WGC Lab|InUse|tadeusz.struk@intel.com
+crb|IXA00367528|||SW Store|InUse|
+crb|IXA00367529|||SW Store|InUse|
+crb|IXA00367537|||SIE1-SW|InUse|gerard.maloney@intel.com
+crb|IXA00367540|||SIE1-SW|InUse|marjan.komatovic@intel.com
+crb|IXA00367564|||SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00367565|||Shipped|NotInUse|
+crb|IXA00367566|||SIE1-RackRoom|InUse|
+crb|IXA00367591|||SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00367598|||SW Store|NotInUse|
+crb|IXA00367599|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00367600|||SW Store|NotInUse|
+crb|IXA00367608|||SW Store|InUse|
+crb|IXA00367614|||Shipped|InUse|don.samson@intel.com
+crb|IXA00367615||00:1B:21:9C:B1:FC|SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00367622|||WGC Lab|InUse|
+crb|IXA00367624||00:1B:21:AD:C0:6B|SIE1-SW|InUse|chris.macnamara@intel.com
+crb|IXA00367626||00:1B:21:00:7E:10|SIE1-RackRoom|InUse|gokhan.simsek@intel.com
+crb|IXA00367638|||SW Store|InUse|
+crb|IXA00367641|||SW Store|InUse|
+crb|IXA00367642|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00367646|||WGC Lab|InUse|waynex.rudge@intel.com
+crb|IXA00367647|||SIE1-RackRoom|InUse|frank.roche@intel.com
+crb|IXA00367648||00:1b:21:ad:bf:d9|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00367649||00:15:17:EF:39:34|SIE1-RackRoom|InUse|
+crb|IXA00367650|||SIE1-RackRoom|InUse|markx.g.burkley@intel.com
+crb|IXA00367651||00:1B:21:00:7D:53|SIE1-ServerRack|InUse|robert.healy@intel.com
+crb|IXA00367652|||WGC Lab|NotInUse|waynex.rudge@intel.com
+crb|IXA00367654|||WGC Lab|NotInUse|waynex.rudge@intel.com
+crb|IXA00367656|||WGC Lab|InUse|
+crb|IXA00367658||00:15:17:D6:B6:ED|SIE1-RackRoom|InUse|laurent.m.coquerel@intel.com
+crb|IXA00367660|||SW Store|NotInUse|gustav.stedje@intel.com
+crb|IXA00367661||00:15:17:D6:B8:C1|SIE1-RackRoom|InUse|gokhan.simsek@intel.com
+crb|IXA00367662||00:1B:21:9C:AF:D7|SIE1-RackRoom|InUse|laura.reddy@intel.com
+crb|IXA00367663|||Shipped|InUse|fergal.cobbe@intel.com
+crb|IXA00367699|||SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00367701|||SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00367702|||SW Store|NotInUse|
+crb|IXA00367703|||SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00367739|||WGC Lab|InUse|
+crb|IXA00367740|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367741|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367742|||Shipped|InUse|markx.g.burkley@intel.com
+crb|IXA00367745|||Shipped|InUse|markx.g.burkley@intel.com
+crb|IXA00367748|||Shipped|NotInUse|greg.thomas@intel.com
+crb|IXA00367768|||SIE1-ServerRack|InUse|igor.pashuta@intel.com
+crb|IXA00367770|||SIE1-SV|InUse|jasonx.culligan@intel.com
+crb|IXA00367772|||SIE1-RackRoom|InUse|
+crb|IXA00367773|||SIE1-RackRoom|InUse|
+crb|IXA00367774|||SIE1-RackRoom|InUse|
+crb|IXA00367793|||SW Store|InUse|
+crb|IXA00367800|||SV Store|InUse|
+crb|IXA00367802|||SW Store|NotInUse|
+crb|IXA00367806||1C:6F:65:97:97:50|SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00367810||00:03:E1:90:8A:A5|SIE1-SW|InUse|
+crb|IXA00367813|||Shipped|NotInUse|tadeusz.struk@intel.com
+crb|IXA00367814|||SW Store|InUse|
+crb|IXA00367816|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367817|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367818|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367819|||Scrapped|InUse|
+crb|IXA00367820|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367821||00:1B:21:00:7A:8B|SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00367822|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00367826|||SIE1-SV|InUse|
+crb|IXA00367827|||SV Store|InUse|
+crb|IXA00367828|||SIE1-SW|InUse|tomasz.motyl@intel.com
+crb|IXA00367829|||SIE1-SV|InUse|
+crb|IXA00367830|||SIE1-SV|InUse|
+crb|IXA00367831|||SIE1-SV|InUse|
+crb|IXA00367833|||Offsite storage|NotInUse|
+crb|IXA00367847|||SV Store|InUse|
+crb|IXA00367852|||SV Store|InUse|
+crb|IXA00367863|||SW Store|InUse|
+crb|IXA00367874|||Shipped|InUse|tadeusz.struk@intel.com
+crb|IXA00367877|||Shipped|InUse|tadeusz.struk@intel.com
+crb|IXA00367879|||Shipped|InUse|
+crb|IXA00367892|||SW Store|InUse|
+crb|IXA00367893|||SW Store|InUse|
+crb|IXA00368017|||SW Store|NotInUse|
+crb|IXA00368025|||SIE1-RackRoom|InUse|
+crb|IXA00368039|||SIE1-RackRoom|InUse|
+crb|IXA00368050|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00368051|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00368052|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00368053||00:1b:21:ad:bf:be|SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00368056|||SW Store|NotInUse|
+crb|IXA00368057|||Shipped|InUse|
+crb|IXA00368058|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00368059||00:1b:21:9c:b1:2c|SIE1-RackRoom|InUse|gokhan.simsek@intel.com
+crb|IXA00368060||00:1b:21:9c:b2:33|SIE1-RackRoom|InUse|gokhan.simsek@intel.com
+crb|IXA00368061|||WGC Lab|InUse|
+crb|IXA00368062||00:1B:21:AD:C0:6F|SIE1-RackRoom|InUse|giovanni.cabiddu@intel.com
+crb|IXA00368063|||Shipped|NotInUse|
+crb|IXA00368064||00:1B:21:9C:B1:93|SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00368065|||SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00368066|||Shipped|NotInUse|
+crb|IXA00368079|||SIE1-RackRoom|NotInUse|radu.nicolau@intel.com
+crb|IXA00368080|||SV Store|NotInUse|
+crb|IXA00368092|||SW Store|InUse|
+crb|IXA00368095|||SIE1-SW|InUse|leonardo.potenza@intel.com
+crb|IXA00368108|||SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00368110|||SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00368112|||SIE1-RackRoom|InUse|
+crb|IXA00368126|||SIE1-SW|InUse|
+crb|IXA00368148|||SW Store|NotInUse|
+crb|IXA00368150||68:05:CA:08:6B:70|SIE1-RackRoom|InUse|peter.j.obrien@intel.com
+crb|IXA00368153|||SIE1-ServerRack|InUse|don.samson@intel.com
+crb|IXA00368156|||SW Store|NotInUse|
+crb|IXA00368162|||SW Store|NotInUse|tadeusz.struk@intel.com
+crb|IXA00368177|||SV Store|InUse|
+crb|IXA00368178|||Scrapped|InUse|
+crb|IXA00368179|||SV Store|InUse|
+crb|IXA00368195|||SIE1-ServerRack|InUse|
+crb|IXA00368221|||SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00368222|||SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00368228|||SIE1-RackRoom|InUse|
+crb|IXA00368229|||SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00368242|||SV Store|InUse|
+crb|IXA00368281|||SW Store|InUse|
+crb|IXA00368282|||SIE1-RackRoom|InUse|
+crb|IXA00368352|||SIE1-RackRoom|InUse|andrewx.johnson@intel.com
+crb|IXA00368353|||SIE1-RackRoom|InUse|michael.a.ohanlon@intel.com
+crb|IXA00368361||00:15:17:A3:05:E0|SIE1-RackRoom|InUse|anatoly.burakov@intel.com
+crb|IXA00368363|||SIE1-RackRoom|InUse|
+crb|IXA00368364|||SIE1-RackRoom|InUse|
+crb|IXA00368365|||SIE1-RackRoom|InUse|
+crb|IXA00368366|||SIE1-RackRoom|InUse|
+crb|IXA00368367|||SIE1-RackRoom|InUse|
+crb|IXA00368368|||SIE1-RackRoom|InUse|
+crb|IXA00368369|||SIE1-RackRoom|InUse|
+crb|IXA00368370|||SIE1-RackRoom|InUse|
+crb|IXA00368371|||SIE1-RackRoom|InUse|
+crb|IXA00368372|||SIE1-RackRoom|InUse|
+crb|IXA00368373|||SIE1-SW|InUse|
+crb|IXA00368374|||SIE1-SW|InUse|
+crb|IXA00368375|||SIE1-SW|InUse|
+crb|IXA00368376|||SIE1-SW|InUse|
+crb|IXA00368377|||SIE1-SW|InUse|
+crb|IXA00368378|||SIE1-SW|InUse|
+crb|IXA00368379|||SIE1-SW|InUse|
+crb|IXA00368380|||SIE1-SW|InUse|
+crb|IXA00368381|||SIE1-SW|InUse|
+crb|IXA00368382|||SIE1-SW|InUse|
+crb|IXA00368384|||SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00368389||00:15:17:a2:ec:90|SIE1-RackRoom|InUse|sean.k.mooney@intel.com
+crb|IXA00368405|||SIE1-RackRoom|InUse|
+crb|IXA00368406|||SIE1-RackRoom|InUse|gillesx.devillard@intel.com
+crb|IXA00368407||00:15:17:A3:02:1C|SIE1-RackRoom|InUse|kirill.rybalchenko@intel.com
+crb|IXA00368408||00:15:17:a3:02:74|SIE1-RackRoom|InUse|davidx.o'riordan@intel.com
+crb|IXA00368409|||SW Store|NotInUse|
+crb|IXA00368410|||SW Store|NotInUse|
+crb|IXA00368411|||SIE1-RackRoom|InUse|
+crb|IXA00368424|||SV Store|InUse|
+crb|IXA00368425|||SV Store|InUse|
+crb|IXA00368426|||Scrapped|InUse|
+crb|IXA00368448|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00368450|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00368467||00:15:17:a1:d1:06|SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00368468|||SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00368469|||SIE1-RackRoom2|InUse|daniel.m.buckley@intel.com
+crb|IXA00368470||00:15:17:A1:C2:7F|SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00368502|||Scrapped|NotInUse|
+crb|IXA00368503|||WGC Lab|InUse|
+crb|IXA00368504||00:1b:21:AD:BF:5B|SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00368505||00:1B:21:AD:C0:63|SIE1-SW|InUse|ahsan.atta@intel.com
+crb|IXA00368506|||WGC Lab|InUse|davidx.s.stewart@intel.com
+crb|IXA00368507||00:1b:21:98:D7:DA|SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00368512|||Scrapped|NotInUse|frank.roche@intel.com
+crb|IXA00368514|||WGC Lab|InUse|davidx.s.stewart@intel.com
+crb|IXA00368515|||WGC Lab|InUse|davidx.s.stewart@intel.com
+crb|IXA00368516||00:1b:21:ad:bf:e1|SIE1-RackRoom|InUse|catriona.lucey@intel.com
+crb|IXA00368518|||SIE1-ServerRack|InUse|tadeusz.struk@intel.com
+crb|IXA00368519||00:1B:21:98:D9:2C|SIE1-ServerRack|InUse|catriona.lucey@intel.com
+crb|IXA00368520|||SW Store|InUse|robert.healy@intel.com
+crb|IXA00368541||00:1B:21:AD:BF:94|SIE1-RackRoom|InUse|
+crb|IXA00368573|||WGC Lab|InUse|alan.carew@intel.com
+crb|IXA00368574|||SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00368577|||SIE1-RackRoom|InUse|
+crb|IXA00368578||64:70:02:10:FB:03|SIE1-RackRoom|InUse|alan.carey@intel.com
+crb|IXA00368579|||SIE1-SW|InUse|
+crb|IXA00368580|||SV Store|InUse|ray.kinsella@intel.com
+crb|IXA00368594|||SW Store|NotInUse|
+crb|IXA00368616|||SIE1-RackRoom|InUse|anthonyx.fee@intel.com
+crb|IXA00368618|||SIE1-RackRoom|InUse|josex.m.rodriguez.saez@intel.com
+crb|IXA00368619|||SW Store|NotInUse|
+crb|IXA00368621||00:22:4D:50:76:FC|SIE1-RackRoom2|InUse|kim-marie.jones@intel.com
+crb|IXA00368624|||SW Store|InUse|
+crb|IXA00368625||00:1B:21:98:D9:6C|SIE1-RackRoom|InUse|james.p.chapman@intel.com
+crb|IXA00368642|||WGC Lab|InUse|
+crb|IXA00368643|||SW Store|NotInUse|
+crb|IXA00368651|||SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00368652|||SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00368653|||SIE1-SW|InUse|mark.d.gray@intel.com
+crb|IXA00368660|||SIE1-SW|InUse|marjan.komatovic@intel.com
+crb|IXA00368661|||SW Store|InUse|
+crb|IXA00368669||00:22:46:00:80:2E|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00368670|||SW Store|NotInUse|
+crb|IXA00368673|||SIE1-SW|InUse|aneesurx.r.chikari@intel.com
+crb|IXA00368674|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00368693|||SW Store|InUse|pallav.bhansali@intel.com
+crb|IXA00368708|||SW Store|NotInUse|
+crb|IXA00368714||00:15:17:D9:75:83|SIE1-RackRoom|InUse|jasonx.culligan@intel.com
+crb|IXA00368726|||SIE1-SW|InUse|tadeusz.struk@intel.com
+crb|IXA00368769||00:E0:86:16:E6:94|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368771||00:E0:86:1b:bd:43|SIE1-RackRoom|InUse|jasonx.culligan@intel.com
+crb|IXA00368777||00:E0:86:16:E6:99|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368780||00:E0:86:16:E6:95|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368784||00:E0:86:16:E6:81|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368786||00:E0:86:16:E6:97|Shipped|InUse|pallav.bhansali@intel.com
+crb|IXA00368788||00:E0:86:16:E6:83|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368790||00:E0:86:16:E6:63|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368793||00:E0:86:16:E6:85|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368796||00:E0:86:16:E6:80|SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00368805|||SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00368807||00:E0:86:16:E6:87|SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00368819|||SV Store|InUse|
+crb|IXA00368859||00:01:80:7C:C6:7D|SIE1-SV|InUse|eoin.walsh@intel.com
+crb|IXA00368860|||SIE1-SW|InUse|
+crb|IXA00368861|||SIE1-SW|InUse|
+crb|IXA00368862||00:01:80:7C:9E:CD|SIE1-SV|InUse|
+crb|IXA00368893|||SW Store|InUse|
+crb|IXA00368894|||SIE1-SV|InUse|
+crb|IXA00368896||00:22:4D:50:EB:03|SIE1-RackRoom|InUse|
+crb|IXA00368897|||SV Store|InUse|
+crb|IXA00368898|||SW Store|InUse|
+crb|IXA00368912|||SW Store|InUse|
+crb|IXA00368918||00:11:3B:15:30:E2|Shipped|InUse|
+crb|IXA00368919||00:1E:67:11:3A:3C|SIE1-RackRoom|InUse|leonardo.potenza@intel.com
+crb|IXA00368923||00:15:17:B8:25:EC|SIE1-RackRoom|InUse|maryam.tahhan@intel.com
+crb|IXA00368928|||Shipped|InUse|
+crb|IXA00368930|||SV Store|InUse|
+crb|IXA00368933|||SV Store|InUse|
+crb|IXA00368934|||SV Store|InUse|
+crb|IXA00368949||68:05:CA:08:6B:C0|SIE1-RackRoom2|InUse|ahsan.atta@intel.com
+crb|IXA00368992|||SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00369025|||SIE1-ServerRack|InUse|columx.flannigan@intel.com
+crb|IXA00369027|||SIE1-ServerRack|InUse|columx.flannigan@intel.com
+crb|IXA00369031|||SIE1-ServerRack|InUse|columx.flannigan@intel.com
+crb|IXA00369040|||SIE1-ServerRack|InUse|
+crb|IXA00369064|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00369084|||SIE1-ServerRack|InUse|columx.flannigan@intel.com
+crb|IXA00369099|||SIE1-ServerRack|InUse|tadeusz.struk@intel.com
+crb|IXA00369102|||SIE1-RackRoom|InUse|
+crb|IXA00369116|||SW Store|NotInUse|
+crb|IXA00369122|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00369123|||SIE1-RackRoom|InUse|andrew.duignan@intel.com
+crb|IXA00369138||00:0c:29:91:38:80|SIE1-ServerRack|InUse|
+crb|IXA00369161|||SV Store|InUse|
+crb|IXA00369162|||SV Store|InUse|
+crb|IXA00369164|||SIE1-SV|InUse|
+crb|IXA00369304||78:2B:CB:AF:1E:C1|SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00369309||78:2b:cb:af:1f:79|SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00369404|||Data Center|InUse|alan.carew@intel.com
+crb|IXA00369405|||Data Center|InUse|brendan.kennedy@intel.com
+crb|IXA00369406|||Data Center|InUse|
+crb|IXA00369407|||Data Center|InUse|
+crb|IXA00369408|||Data Center|InUse|
+crb|IXA00369413|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00369414|||Shipped|InUse|
+crb|IXA00369448|||SIE1-SW|InUse|
+crb|IXA00369454|||SIE1-SW|InUse|andrew.duignan@intel.com
+crb|IXA00369483||E0:69:95:AC:42:9F|SIE1-RackRoom|NotInUse|kevin.traynor@intel.com
+crb|IXA00369484|||SV Store|NotInUse|
+crb|IXA00369485|||SIE1-RackRoom|InUse|dorothyx.fitzgerald@intel.com
+crb|IXA00369486|||SIE1-RackRoom|InUse|prasad.m.ghatigar@intel.com
+crb|IXA00369505|||SW Store|NotInUse|
+crb|IXA00369526|||SIE1-RackRoom|InUse|
+crb|IXA00369559|||SIE1-RackRoom|InUse|mark.d.gray@intel.com
+crb|IXA00369560|||SIE1-RackRoom|InUse|mark.b.kavanagh@intel.com
+crb|IXA00369598||00:15:5D:D4:D2:01|SIE1-ServerRack|InUse|patrick.lehane@intel.com
+crb|IXA00369599||00:15:5D:D4:D2:02|SIE1-ServerRack|InUse|patrick.lehane@intel.com
+crb|IXA00369600||00:15:5D:D4:D2:03|SIE1-ServerRack|InUse|peterx.groves@intel.com
+crb|IXA00369601|||SIE1-ServerRack|InUse|
+crb|IXA00369603||00:15:5D:D4:D2:06|SIE1-ServerRack|InUse|konstantin.ananyev@intel.com
+crb|IXA00369604|||SIE1-ServerRack|InUse|igor.pashuta@intel.com
+crb|IXA00369605||00:15:5D:D4:D2:08|SIE1-ServerRack|InUse|
+crb|IXA00369606||00:15:5D:D4:D2:09|SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00369607||00:15:5D:D4:D2:10|SIE1-ServerRack|InUse|
+crb|IXA00369610|||SIE1-ServerRack|InUse|
+crb|IXA00369611|||SIE1-ServerRack|InUse|michalx.pirgl@intel.com
+crb|IXA00369612|||SIE1-ServerRack|InUse|ahsan.atta@intel.com
+crb|IXA00369613||00:15:5D:D4:D2:14|SIE1-ServerRack|InUse|
+crb|IXA00369614||00:15:5D:D4:D2:15|SIE1-ServerRack|InUse|giovanni.cabiddu@intel.com
+crb|IXA00369615|||SIE1-ServerRack|InUse|frank.roche@intel.com
+crb|IXA00369617||00:15:5D:D4:D2:17|SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00369618||00:15:5D:D4:D2:18|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00369621|||SIE1-ServerRack|InUse|swetha.gurudu@intel.com
+crb|IXA00369622|||SIE1-ServerRack|InUse|
+crb|IXA00369636|||Shipped|InUse|pradeep.k.cletus@intel.com
+crb|IXA00369638||68:05:CA:08:6B:9C|SIE1-RackRoom|InUse|laura.reddy@intel.com
+crb|IXA00369657|||SIE1-RackRoom|InUse|
+crb|IXA00369692|||SW Store|NotInUse|
+crb|IXA00369693|||SW Store|NotInUse|
+crb|IXA00369703||70:71:BC:DC:D0:1B|SIE1-SV|InUse|david.guckian@intel.com
+crb|IXA00369708|||SW Store|InUse|mark.b.kavanagh@intel.com
+crb|IXA00369713|||SW Store|InUse|
+crb|IXA00369717|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00369731|||SIE1-RackRoom|InUse|andrey.chilikin@intel.com
+crb|IXA00369734|||SIE1-SW|NotInUse|
+crb|IXA00369741||00:22:4D:51:19:89|SIE1-RackRoom|InUse|ray.kinsella@intel.com
+crb|IXA00369743|||SIE1-SW|InUse|anthonyx.fee@intel.com
+crb|IXA00369744||00:15:17:36:CE:4A|SIE1-RackRoom|InUse|
+crb|IXA00369745||00:1b:21:ad:c0:55|SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00369747||00:22:4D:51:53:77|SIE1-RackRoom2|InUse|ian.stokes@intel.com
+crb|IXA00369755|||Shipped|InUse|
+crb|IXA00369763||00:13:20:F8:62:CF|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00369764|||Scrapped|InUse|peter.j.obrien@intel.com
+crb|IXA00369765|||SW Store|InUse|petr.chocholac@intel.com
+crb|IXA00369766|||SW Store|InUse|petr.chocholac@intel.com
+crb|IXA00369776|||SIE1-RackRoom|InUse|anatoly.burakov@intel.com
+crb|IXA00369777||00:1e:67:1d:fc:f0|SIE1-RackRoom|InUse|daniel.m.buckley@intel.com
+crb|IXA00369778|||SIE1-RackRoom|InUse|anatoly.burakov@intel.com
+crb|IXA00369779|||Data Center|InUse|
+crb|IXA00369782||00:1E:67:1D:FD:1C|SIE1-RackRoom|InUse|anatoly.burakov@intel.com
+crb|IXA00369783|||Shipped|InUse|keith.critchley@intel.com
+crb|IXA00369785|||SV Store|InUse|konstantin.ananyev@intel.com
+crb|IXA00369786|||SIE1-SV|InUse|tomasz.motyl@intel.com
+crb|IXA00369787|||SIE1-SV|InUse|
+crb|IXA00369788|||SW Store|InUse|
+crb|IXA00369789|||SIE1-SV|InUse|
+crb|IXA00369790|||SIE1-SV|InUse|
+crb|IXA00369791||00:1B:21:00:7C:A3|SIE1-RackRoom2|InUse|harvijayx.saini@intel.com
+crb|IXA00369792|||SW Store|NotInUse|
+crb|IXA00369793|||SW Store|NotInUse|
+crb|IXA00369795|||SW Store|InUse|
+crb|IXA00369796||00:1F:1F:FA:64:40|SIE1-RackRoom|InUse|anatoly.burakov@intel.com
+crb|IXA00369862|||SIE1-SW|InUse|anthonyx.fee@intel.com
+crb|IXA00369863|||SIE1-SW|InUse|anthonyx.fee@intel.com
+crb|IXA00369864|||SIE2-TME|InUse|radu.nicolau@intel.com
+crb|IXA00369865|||SIE1-SW|InUse|
+crb|IXA00369866|||SV Store|InUse|ray.kinsella@intel.com
+crb|IXA00369888||00:E0:86:18:3A:A5|SIE1-SV|InUse|pallav.bhansali@intel.com
+crb|IXA00369889||00:E0:86:17:00:32|SIE1-SV|InUse|pallav.bhansali@intel.com
+crb|IXA00369890||00:e0:86:1b:bf:36|SIE1-SV|InUse|pallav.bhansali@intel.com
+crb|IXA00369891||00:E0:86:18:26:5D|SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00369912||00:1b:21:1c:f8:21|SIE1-RackRoom|InUse|jasonx.culligan@intel.com
+crb|IXA00369913|||SIE1-RackRoom|InUse|claire.k.murphy@intel.com
+crb|IXA00369923|||SIE1-SV|InUse|david.guckian@intel.com
+crb|IXA00369926|||SIE1-SV|InUse|petr.chocholac@intel.com
+crb|IXA00369927|||SIE1-SV|InUse|petr.chocholac@intel.com
+crb|IXA00369928|||SIE1-SV|InUse|petr.chocholac@intel.com
+crb|IXA00369934||00:E0:86:18:3B:9E|SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00369952|||Shipped|InUse|keith.critchley@intel.com
+crb|IXA00369953|||SV Store|InUse|
+crb|IXA00369959|||SIE1-SV|InUse|chris.macnamara@intel.com
+crb|IXA00369976|||SV Store|InUse|
+crb|IXA00370025|||SIE1-SV|InUse|fabrice.peretti@intel.com
+crb|IXA00370032|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370033|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370034|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370035|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370036|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370037|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370038|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370039|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370040|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370041||00:15:5D:D4:D2:21|SIE1-ServerRack|InUse|patrick.lehane@intel.com
+crb|IXA00370042|||SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370043|||SIE1-ServerRack|InUse|
+crb|IXA00370044|||SIE1-ServerRack|InUse|
+crb|IXA00370047|||SIE1-ServerRack|InUse|
+crb|IXA00370048|||SIE1-ServerRack|InUse|
+crb|IXA00370051|||SIE1-RackRoom|InUse|
+crb|IXA00370052|||SIE1-ServerRack|InUse|
+crb|IXA00370053|||SIE1-ServerRack|InUse|
+crb|IXA00370054|||SIE1-ServerRack|InUse|
+crb|IXA00370055|||SIE1-RackRoom|InUse|
+crb|IXA00370056|||SIE1-ServerRack|InUse|
+crb|IXA00370057|||SIE1-ServerRack|InUse|
+crb|IXA00370060|||SIE1-ServerRack|InUse|
+crb|IXA00370061|||SIE1-ServerRack|InUse|
+crb|IXA00370062|||SIE1-ServerRack|NotInUse|
+crb|IXA00370065|||SIE1-RackRoom|InUse|
+crb|IXA00370066|||SIE1-ServerRack|InUse|
+crb|IXA00370067|||SIE1-RackRoom|InUse|
+crb|IXA00370068|||SIE1-RackRoom|InUse|
+crb|IXA00370069|||SIE1-ServerRack|InUse|
+crb|IXA00370073|||SIE1-ServerRack|InUse|
+crb|IXA00370074|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370075|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370076|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370077|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370078|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370079|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370080|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370081|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370082|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00370088|||SIE1-ServerRack|InUse|
+crb|IXA00370089|||SW Store|InUse|pallav.bhansali@intel.com
+crb|IXA00370090|||Offsite storage|NotInUse|pallav.bhansali@intel.com
+crb|IXA00370091|||SIE1-RackRoom|InUse|
+crb|IXA00370092||00:15:5D:D4:D2:63|SIE1-ServerRack|InUse|
+crb|IXA00370093|||SIE1-RackRoom|InUse|
+crb|IXA00370094|||SIE1-RackRoom|InUse|
+crb|IXA00370095|||SIE1-RackRoom|InUse|
+crb|IXA00370096|||SIE1-RackRoom|InUse|
+crb|IXA00370097|||SIE1-RackRoom|InUse|
+crb|IXA00370098|||SIE1-RackRoom|InUse|
+crb|IXA00370099|||SIE1-RackRoom|InUse|
+crb|IXA00370100|||SIE1-SV|InUse|tomasz.motyl@intel.com
+crb|IXA00370123||00:E0:86:18:26:58|SIE1-SV|InUse|
+crb|IXA00370127||00:E0:86:18:21:4E|SIE1-SV|InUse|
+crb|IXA00370130||00:E0:86:18:3A:9F|SIE1-SV|InUse|
+crb|IXA00370133||00:E0:86:16:C4:36|SIE1-SV|InUse|
+crb|IXA00370137||00:E0:86:16:C4:2E|SIE1-SV|InUse|
+crb|IXA00370141||00:E0:86:18:3A:9A|SIE1-SV|InUse|
+crb|IXA00370146|||SW Store|NotInUse|pallav.bhansali@intel.com
+crb|IXA00370147|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00370160|||SIE1-SV|InUse|dario.russo@intel.com
+crb|IXA00370161|||SV Store|InUse|dario.russo@intel.com
+crb|IXA00370162|||SV Store|InUse|
+crb|IXA00370167|||Shipped|InUse|
+crb|IXA00370168|||Shipped|InUse|
+crb|IXA00370186|||Shipped|InUse|
+crb|IXA00370209|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00370213|||Shipped|InUse|david.knowles@intel.com
+crb|IXA00370236|||Shipped|InUse|keith.critchley@intel.com
+crb|IXA00370241||00:15:17:DC:CA:AB|SIE1-RackRoom|InUse|venkatax.s.khambam@intel.com
+crb|IXA00370263|||Data Center|InUse|
+crb|IXA00370340||00:E0:86:17:00:2C|SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00370346||00:E0:86:1B:6D:D0|SIE1-SW|InUse|pallav.bhansali@intel.com
+crb|IXA00370364||00:1b:21:8c:73:f0|SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00370365||18:03:73:C6:EE:F1|SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00370366|||Shipped|InUse|
+crb|IXA00370367||18:03:73:C8:48:10|SIE1-SV|InUse|krzysztofx.hoc@intel.com
+crb|IXA00370368|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00370369|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00370370|||Shipped|InUse|
+crb|IXA00370385||00:E0:86:18:3B:78|SIE1-SV|InUse|pallav.bhansali@intel.com
+crb|IXA00370404|||SIE1-RackRoom2|InUse|davidx.hunt@intel.com
+crb|IXA00370405||00:22:4d:56:33:4d|SIE1-RackRoom|InUse|mark.d.gray@intel.com
+crb|IXA00370409|||SIE1-RackRoom|InUse|jasonx.culligan@intel.com
+crb|IXA00370410|||SIE1-SW|NotInUse|jasonx.culligan@intel.com
+crb|IXA00370420||00:22:4D:56:19:D6|SIE1-RackRoom|InUse|kevin.traynor@intel.com
+crb|IXA00370421||00:22:4D:56:38:E9|SIE1-RackRoom|InUse|liz.walsh@intel.com
+crb|IXA00370424||00:1E:67:0D:B5:D4|SIE1-RackRoom2|InUse|konstantin.ananyev@intel.com
+crb|IXA00370546|||SIE1-ServerRack|InUse|gokhan.simsek@intel.com
+crb|IXA00370590||00:1B:21:AD:C0:10|SIE1-RackRoom|InUse|tomasz.kantecki@intel.com
+crb|IXA00370600|||SV Store|InUse|cheng.zhou@intel.com
+crb|IXA00370622|||SIE1-ServerRack|InUse|frank.roche@intel.com
+crb|IXA00370636|||SIE1-SV|InUse|chris.macnamara@intel.com
+crb|IXA00370648|||SV Store|InUse|
+crb|IXA00370649|||Shipped|InUse|
+crb|IXA00370650|||Shipped|InUse|
+crb|IXA00370651|||Shipped|InUse|
+crb|IXA00370652|||Shipped|InUse|
+crb|IXA00370684|||SV Store|InUse|
+crb|IXA00370797|||Shipped|InUse|
+crb|IXA00370834|||SIE1-SW|InUse|
+crb|IXA00370835|||SV Store|InUse|
+crb|IXA00370838||E0:69:95:E4:F6:D2|SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00370839||E0:69:95:EB:75:CD|SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00370865||E0:69:95:EB:73:7C|SIE1-SW|InUse|fabrice.peretti@intel.com
+crb|IXA00370868|||SIE1-ServerRack|InUse|robertx.d.thyeson@intel.com
+crb|IXA00370871|||SIE1-ServerRack|InUse|ger.malone@intel.com
+crb|IXA00370872|||SV Store|InUse|
+crb|IXA00370909|||SIE1-ServerRack|InUse|
+crb|IXA00370927|||SIE1-ServerRack|InUse|
+crb|IXA00370928|||SIE1-ServerRack|InUse|
+crb|IXA00370929||00:0c:29:c8:35:25|SIE1-ServerRack|InUse|tadeusz.struk@intel.com
+crb|IXA00370930|||SIE1-ServerRack|InUse|
+crb|IXA00370941|||Shipped|InUse|thomas.long@intel.com
+crb|IXA00370973|||Shipped|InUse|bin.yun.soon@intel.com
+crb|IXA00370974|||Shipped|InUse|bin.yun.soon@intel.com
+crb|IXA00370975|||SW Store|NotInUse|
+crb|IXA00370976|||Shipped|InUse|
+crb|IXA00370981|||SIE1-SV|InUse|
+crb|IXA00371002|||SIE1-SV|InUse|ian.stokes@intel.com
+crb|IXA00371037|||SIE1-RackRoom|InUse|
+crb|IXA00371097|||SIE1-RackRoom|InUse|ben.lyndon@intel.com
+crb|IXA00371130||00:13:20:FB:BB:2C|WGC Lab|InUse|stevenx.linsell@intel.com
+crb|IXA00371131|||SW Store|NotInUse|
+crb|IXA00371132||00:1B:21:98:D9:14|SIE1-RackRoom2|InUse|muralix.annamneni@intel.com
+crb|IXA00371151|||Shipped|InUse|
+crb|IXA00371166|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00371180|||SIE1-RackRoom|InUse|
+crb|IXA00371181|||SIE1-RackRoom|InUse|
+crb|IXA00371182|||Shipped|InUse|
+crb|IXA00371184|||SW Store|InUse|
+crb|IXA00371203|||SIE1-SV|InUse|muralix.annamneni@intel.com
+crb|IXA00371209|||SIE1-RackRoom|InUse|doyin.salami@intel.com
+crb|IXA00371211|||SIE1-RackRoom|InUse|
+crb|IXA00371212|||SW Store|NotInUse|
+crb|IXA00371219||00:10:18:73:84:54|SIE1-RackRoom|InUse|gokhan.simsek@intel.com
+crb|IXA00371236|||WGC Lab|InUse|aneesurx.r.chikari@intel.com
+crb|IXA00371237|||WGC Lab|InUse|
+crb|IXA00371238|||SW Store|NotInUse|
+crb|IXA00371239||00:1B:21:AD:C0:12|SIE1-RackRoom|InUse|conor.mcloughlin@intel.com
+crb|IXA00371240||A0:36:9F:0B:F5:BC|SIE1-ServerRack|InUse|meghan.halton@intel.com
+crb|IXA00371266|||Shipped|InUse|
+crb|IXA00371267|||Shipped|InUse|
+crb|IXA00371268||18:03:73:D9:71:D1|SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00371316||00:e0:86:1b:a9:51|Shipped|InUse|pallav.bhansali@intel.com
+crb|IXA00371362|||SIE1-RackRoom|InUse|igor.pashuta@intel.com
+crb|IXA00371415||00:1E:67:2C:77:C7|SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00371416|||Shipped|InUse|
+crb|IXA00371418|||Shipped|InUse|
+crb|IXA00371429|||SIE1-SW|InUse|
+crb|IXA00371434|||SIE1-ServerRack|InUse|
+crb|IXA00371435|||SIE1-ServerRack|InUse|
+crb|IXA00371489|||SIE1-SW|InUse|
+crb|IXA00371558|||SIE1-SW|InUse|
+crb|IXA00371572||00:1e:67:2c:77:9e|SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00371575|||SW Store|InUse|john.griffin@intel.com
+crb|IXA00371578||E0:CB:4E:C5:D0:09|SW Store|InUse|
+crb|IXA00371659|||SIE1-ServerRack|InUse|
+crb|IXA00371660|||SIE1-ServerRack|InUse|
+crb|IXA00371661|||SIE1-ServerRack|InUse|
+crb|IXA00371663|||SIE1-SW|InUse|
+crb|IXA00371664|||SIE1-ServerRack|InUse|
+crb|IXA00371672|||SIE1-ServerRack|InUse|david.m.oneill@intel.com
+crb|IXA00371673|||SIE1-ServerRack|InUse|kevin.traynor@intel.com
+crb|IXA00371750|||SIE1-RackRoom|InUse|ray.kinsella@intel.com
+crb|IXA00371761|||Shipped|InUse|venkatax.s.khambam@intel.com
+crb|IXA00371762|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00371763|||Shipped|InUse|
+crb|IXA00371764|||Shipped|InUse|
+crb|IXA00371765|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00371766||00:1E:67:2C:75:82|SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00371767|||SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00371781|||Data Center|InUse|
+crb|IXA00371782|||SIE1-ServerRack|InUse|
+crb|IXA00371783|||SIE1-ServerRack|InUse|
+crb|IXA00371784|||SIE1-ServerRack|InUse|
+crb|IXA00371785|||SIE1-ServerRack|InUse|
+crb|IXA00371877||00:1E:67:31:41:DF|SIE1-RackRoom|InUse|ian.betts@intel.com
+crb|IXA00371909|||SIE1-SW|InUse|
+crb|IXA00371910|||SW Store|NotInUse|
+crb|IXA00371944|||SIE1-SV|InUse|chris.macnamara@intel.com
+crb|IXA00371956|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00371957|||Shipped|InUse|
+crb|IXA00371958|||Shipped|InUse|
+crb|IXA00371959|||Shipped|InUse|
+crb|IXA00371960|||Shipped|InUse|
+crb|IXA00371961|||Unknown|InUse|
+crb|IXA00371962|||Shipped|InUse|
+crb|IXA00371963|||Shipped|InUse|
+crb|IXA00371964|||Shipped|InUse|
+crb|IXA00371965|||Shipped|InUse|
+crb|IXA00371986||68:05:CA:08:6B:EB|SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00371990|||SIE1-SW|InUse|daniel.m.buckley@intel.com
+crb|IXA00372063|||Craggy Island Demo Area|InUse|ian.stokes@intel.com
+crb|IXA00372125|||SIE1-SV|InUse|
+crb|IXA00372149|||SIE1-SV|InUse|
+crb|IXA00372152||00:01:02:da:23:88|SIE1-SW|InUse|maryam.tahhan@intel.com
+crb|IXA00372153||E0:69:95:D3:05:47|SIE1-SV|InUse|gillesx.devillard@intel.com
+crb|IXA00372154|||SIE1-SW|InUse|gillesx.devillard@intel.com
+crb|IXA00372208||00:1B:21:00:6E:03|SIE1-RackRoom|InUse|doyin.salami@intel.com
+crb|IXA00372212|||SIE1-RackRoom2|InUse|
+crb|IXA00372222|||SIE1-SW|InUse|
+crb|IXA00372228|||SIE1-RackRoom|InUse|
+crb|IXA00372234|||SIE1-SV|InUse|kevin.traynor@intel.com
+crb|IXA00372235|||SIE1-SV|InUse|kevin.traynor@intel.com
+crb|IXA00372236|||SW Store|NotInUse|
+crb|IXA00372254|||Shipped|InUse|
+crb|IXA00372255|||WGC Lab|InUse|
+crb|IXA00372256|||Shipped|InUse|
+crb|IXA00372259|||WGC Lab|InUse|
+crb|IXA00372260|||Shipped|InUse|
+crb|IXA00372267|||SW Store|NotInUse|
+crb|IXA00372272|||SW Store|NotInUse|
+crb|IXA00372293|||WGC Lab|InUse|josex.m.rodriguez.saez@intel.com
+crb|IXA00372294|||Shipped|InUse|
+crb|IXA00372317||00:1B:21:98:D9:34|SIE1-ServerRack|InUse|robert.healy@intel.com
+crb|IXA00372333|||WGC Lab|InUse|
+crb|IXA00372334|||WGC Lab|InUse|
+crb|IXA00372335|||Shipped|InUse|waterman.cao@intel.com
+crb|IXA00372336|||WGC Lab|InUse|
+crb|IXA00372345|||Shipped|InUse|pallav.bhansali@intel.com
+crb|IXA00372352||00:1B:21:AD:BF:96|SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00372358|||Shipped|InUse|pallav.bhansali@intel.com
+crb|IXA00372361|||SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00372377||00:1B:21:AD:BF:D0|SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00372408|||Shipped|InUse|
+crb|IXA00372410||00:1b:21:13:08:cd|SIE1-ServerRack|InUse|romain.lencou@intel.com
+crb|IXA00372434|||SIE1-RackRoom|InUse|eamonx.moloney@intel.com
+crb|IXA00372450|||SIE1-RackRoom|InUse|eamonx.moloney@intel.com
+crb|IXA00372465||E0:69:95:EB:48:2E|SIE1-SV|InUse|david.guckian@intel.com
+crb|IXA00372466|||WGC Lab|InUse|
+crb|IXA00372467|||WGC Lab|InUse|
+crb|IXA00372468|||WGC Lab|InUse|
+crb|IXA00372470||00:1b:21:ad:bf:92|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00372471||00:1B:21:AD:C0:51|SIE1-RackRoom|InUse|tomasz.kantecki@intel.com
+crb|IXA00372472||00:1B:21:98:D9:C8|Shipped|InUse|
+crb|IXA00372473|||SIE1-RackRoom|InUse|
+crb|IXA00372474|||Shipped|InUse|josex.m.rodriguez.saez@intel.com
+crb|IXA00372475||00:1b:21:98:d9:24|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00372476||00:1b:21:ad:bf:b8|Shipped|InUse|johnx.mcnamara@intel.com
+crb|IXA00372478|||SIE1-ServerRack|InUse|muralix.annamneni@intel.com
+crb|IXA00372479||00:1b:21:98:d9:4d|SIE1-RackRoom2|InUse|ahsan.atta@intel.com
+crb|IXA00372480|||SIE1-SV|InUse|
+crb|IXA00372481|||SIE1-SV|InUse|
+crb|IXA00372482|||SIE1-SV|InUse|
+crb|IXA00372483|||SIE1-SV|InUse|david.guckian@intel.com
+crb|IXA00372484|||SIE1-SV|InUse|
+crb|IXA00372485||00:1B:21:9C:B2:0A|SIE1-RackRoom|InUse|romain.lencou@intel.com
+crb|IXA00372501|||SW Store|NotInUse|
+crb|IXA00372502||00:10:18:61:51:72|SIE1-SW|NotInUse|des.j.o.dea@intel.com
+crb|IXA00372503||68:05:CA:08:6B:93|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00372504||68:05:CA:08:6B:51|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00372507||64:70:02:00:17:5E|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00372508|||SIE1-RackRoom2|InUse|graemex.hickman@intel.com
+crb|IXA00372509|||SIE1-ServerRack|InUse|igor.pashuta@intel.com
+crb|IXA00372510||00:15:17:dc:ca:aa|SIE1-RackRoom|InUse|tadeusz.struk@intel.com
+crb|IXA00372511|||WGC Lab|InUse|stevenx.linsell@intel.com
+crb|IXA00372512|||Shipped|InUse|
+crb|IXA00372515|||SIE1-SV|InUse|ian.stokes@intel.com
+crb|IXA00372516||38:60:77:12:74:C0|SIE1-SV|InUse|andrey.chilikin@intel.com
+crb|IXA00372527|||Shipped|InUse|david.guckian@intel.com
+crb|IXA00372528|||SW Store|NotInUse|
+crb|IXA00372529|||SIE1-SV|InUse|
+crb|IXA00372535||E0:69:95:EB:3D:06|SIE1-SV|InUse|david.guckian@intel.com
+crb|IXA00372568|||SIE1-RackRoom2|InUse|
+crb|IXA00372571||08:9E:01:A0:66:58|SIE1-RackRoom2|InUse|
+crb|IXA00372572||00:15:ed:70:14:c1|SIE1-RackRoom2|InUse|
+crb|IXA00372596|||Shipped|InUse|
+crb|IXA00372597|||SIE1-SV|InUse|sophie.lennon@intel.com
+crb|IXA00372619|||WCK Locker|InUse|
+crb|IXA00372620|||SIE1-SV|InUse|chris.macnamara@intel.com
+crb|IXA00372621|||WCK Locker|InUse|
+crb|IXA00372622|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00372623|||WCK Locker|InUse|
+crb|IXA00372624|||Shipped|InUse|
+crb|IXA00372626|||SIE1-SV|InUse|danielx.o'donovan@intel.com
+crb|IXA00372740|||SW Store|InUse|
+crb|IXA00372772||00:E0:86:16:E6:7E|SIE1-ServerRack|InUse|
+crb|IXA00372799|||SW Store|NotInUse|
+crb|IXA00372811||00:1B:21:AD:C0:5D|SIE1-ServerRack|InUse|pallav.bhansali@intel.com
+crb|IXA00372828||00:1E:67:38:85:72|SIE1-ServerRack|InUse|ian.betts@intel.com
+crb|IXA00372839||00:1E:67:3C:7C:29|SIE1-ServerRack|InUse|
+crb|IXA00372841||00:1E:67:38:88:35|SIE1-ServerRack|InUse|bruce.richardson@intel.com
+crb|IXA00372856||00:1E:67:34:37:0E|SIE1-ServerRack|InUse|sophie.lennon@intel.com
+crb|IXA00372861||00:B3:38:00:00:A2|SIE1-SW|InUse|claire.k.murphy@intel.com
+crb|IXA00372862||00:1E:67:3D:51:F8|SIE1-ServerRack|InUse|thomas.long@intel.com
+crb|IXA00372867|||SIE1-SW|InUse|
+crb|IXA00372868|||SIE1-SW|InUse|
+crb|IXA00372887||00:1E:67:3C:73:86|SIE1-ServerRack|InUse|alan.carew@intel.com
+crb|IXA00372895||64:70:02:00:C5:3E|SIE1-ServerRack|InUse|johnx.mcnamara@intel.com
+crb|IXA00372937||00:1E:67:3D:55:1D|SIE1-RackRoom2|InUse|thomas.long@intel.com
+crb|IXA00372957|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00372960|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00372974|||SW Store|InUse|
+crb|IXA00372977|||SIE1-ServerRack|InUse|
+crb|IXA00373025||00:0c:29:5f:3d:2d|SIE1-ServerRack|InUse|patrick.lehane@intel.com
+crb|IXA00373053|||SIE1-RackRoom2|InUse|nicolasx.pernas.maradei@intel.com
+crb|IXA00373054|||SIE1-RackRoom2|InUse|nicolasx.pernas.maradei@intel.com
+crb|IXA00373072|||SIE1-ServerRack|InUse|robertx.d.thyeson@intel.com
+crb|IXA00373073|||Shipped|InUse|rajalekha.kilar.rajaram@intel.com
+crb|IXA00373074|||SIE1-ServerRack|InUse|robertx.d.thyeson@intel.com
+crb|IXA00373075|||SIE1-ServerRack|InUse|robertx.d.thyeson@intel.com
+crb|IXA00373076|||SIE1-ServerRack|InUse|robertx.d.thyeson@intel.com
+crb|IXA00373092|||SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00373095|||SIE1-SW|InUse|claire.k.murphy@intel.com
+crb|IXA00373163|||SIE1-SW|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00373164|||SIE1-SV|InUse|ahsan.atta@intel.com
+crb|IXA00373165|||SW Store|InUse|
+crb|IXA00373166|||SIE1-RackRoom|InUse|
+crb|IXA00373167|||SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00373168|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00373169|||SW Store|InUse|tomasz.motyl@intel.com
+crb|IXA00373170|||SIE1-SW|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00373171|||Shipped|InUse|qihua.dai@intel.com
+crb|IXA00373172|||Shipped|InUse|
+crb|IXA00373173|||SW Store|InUse|
+crb|IXA00373196|||Data Center|InUse|
+crb|IXA00373265|||SW Store|InUse|
+crb|IXA00373292|||SIE1-SV|InUse|
+crb|IXA00373296|||SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00373297|||SIE1-RackRoom|InUse|johnx.mcnamara@intel.com
+crb|IXA00373331||00:1E:67:3E:AF:7E|SIE1-RackRoom2|InUse|dineshx.balakrishnan@intel.com
+crb|IXA00373332||00:1E:67:3D:5B:2B|SIE1-RackRoom2|InUse|dineshx.balakrishnan@intel.com
+crb|IXA00373333|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00373334|||SIE1-SW|InUse|don.samson@intel.com
+crb|IXA00373335|||SIE1-SW|InUse|
+crb|IXA00373417||00:1E:67:38:87:A9|SIE1-RackRoom|InUse|ciara.loftus@intel.com
+crb|IXA00373418||00:1E:67:3E:7B:FA|SIE1-RackRoom|InUse|ciara.loftus@intel.com
+crb|IXA00373426||E0:69:95:EB:3C:E7|SIE1-SW|InUse|jamiex.osullivan@intel.com
+crb|IXA00373427|||SIE1-SW|InUse|davidx.hunt@intel.com
+crb|IXA00373452||00:1B:21:AD:BF:7F|SIE1-RackRoom2|InUse|mairtin.o'loingsigh@intel.com
+crb|IXA00373459|||WGC Lab|InUse|
+crb|IXA00373460|||SIE1-ServerRack|InUse|josex.m.rodriguez.saez@intel.com
+crb|IXA00373462|||SIE1-ServerRack|InUse|
+crb|IXA00373463|||WGC Lab|InUse|josex.m.rodriguez.saez@intel.com
+crb|IXA00373474|||SIE1-SV|InUse|
+crb|IXA00373499|||SIE1-RackRoom2|InUse|
+crb|IXA00373510||00:1B:21:1C:8A:50|SIE1-RackRoom2|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00373511|||SIE1-ServerRack|InUse|
+crb|IXA00373512|||Shipped|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00373615||00:e0:86:1b:bf:37|SIE1-RackRoom2|InUse|pallav.bhansali@intel.com
+crb|IXA00373629||00:e0:86:1b:a9:56|SIE1-RackRoom2|InUse|pallav.bhansali@intel.com
+crb|IXA00373638||00:00:00:00:00:0e|SIE1-RackRoom2|InUse|pallav.bhansali@intel.com
+crb|IXA00373642||00:00:00:00:00:0f|SIE1-RackRoom2|InUse|pallav.bhansali@intel.com
+crb|IXA00373650||00:0c:29:d6:28:1c|SIE1-ServerRack|InUse|
+crb|IXA00373666||00:1E:67:3C:7A:C4|SIE1-RackRoom2|InUse|liang.j.ma@intel.com
+crb|IXA00373689||00:1E:67:38:79:87|SIE1-RackRoom2|InUse|cristian.dumitrescu@intel.com
+crb|IXA00373690||00:1E:67:38:7B:B7|SIE1-RackRoom2|InUse|cristian.dumitrescu@intel.com
+crb|IXA00373691|||SIE1-SV|InUse|
+crb|IXA00373692||00:1E:67:38:5F:1F|SIE1-ServerRack|InUse|tomasz.kantecki@intel.com
+crb|IXA00373693||00:1E:67:3C:7A:E0|SIE1-RackRoom|InUse|ian.stokes@intel.com
+crb|IXA00373694||00:1E:67:3C:78:E8|SIE1-RackRoom2|InUse|jamiex.osullivan@intel.com
+crb|IXA00373695||00:1E:67:3C:76:F0|SIE1-RackRoom|InUse|michael.schuster@intel.com
+crb|IXA00373696|||SIE1-SW|InUse|chris.macnamara@intel.com
+crb|IXA00373697||00:1E:67:3C:77:59|SIE1-RackRoom2|InUse|thomas.long@intel.com
+crb|IXA00373698||00:1E:67:3C:77:8A|SIE1-SV|InUse|gerard.moore@intel.com
+crb|IXA00373699||00:1E:67:3C:77:9F|SIE1-SV|InUse|nemanja.marjanovic@intel.com
+crb|IXA00373734|||Shipped|InUse|
+crb|IXA00373743|||SIE1-ServerRack|InUse|
+crb|IXA00373764|||SIE1-RackRoom2|InUse|stevenx.linsell@intel.com
+crb|IXA00373845|||Scrapped|NotInUse|
+crb|IXA00373846|||Scrapped|NotInUse|
+crb|IXA00377951||00:24:81:B1:A3:35|SIE1-SW|NotInUse|jasonx.culligan@intel.com
+crb|IXA00377954|||SV Store|NotInUse|
+crb|IXA00377983||00:1e:67:45:BA:BD|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00377987||68:05:CA:08:6B:CE|SIE1-ServerRack|InUse|robert.healy@intel.com
+crb|IXA00377998|||Data Center|InUse|
+crb|IXA00378001|||Offsite storage|InUse|
+crb|IXA00378008|||Data Center|InUse|
+crb|IXA00378014|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00378015|||SIE1-SW|InUse|ahsan.atta@intel.com
+crb|IXA00378016|||Data Center|InUse|
+crb|IXA00378019|||Shipped|NotInUse|stephen.doyle@intel.com
+crb|IXA00378020|||SIE1-ServerRack|InUse|paulx.turner@intel.com
+crb|IXA00378021|||SIE1-ServerRack|InUse|paulx.turner@intel.com
+crb|IXA00378028|||Data Center|InUse|
+crb|IXA00378073||68:05:CA:08:6B:C6|SIE1-ServerRack|InUse|fiona.trahe@intel.com
+crb|IXA00378077|||SIE1-SW|InUse|
+crb|IXA00378100|||Shipped|InUse|
+crb|IXA00378101|||WGC Lab|InUse|andrewx.johnson@intel.com
+crb|IXA00378102|||WGC Lab|InUse|waterman.cao@intel.com
+crb|IXA00378103||68:05:CA:08:6B:B8|SIE1-RackRoom2|InUse|richard.p.kelly@intel.com
+crb|IXA00378105||00:15:17:d6:b8:d8|SIE1-ServerRack|InUse|stefan.s.lamble@intel.com
+crb|IXA00378106||00:1b:21:ad:bf:ae|SIE1-ServerRack|InUse|laura.reddy@intel.com
+crb|IXA00378110||68:05:ca:08:6B:60|SIE1-RackRoom2|InUse|
+crb|IXA00378134|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00378137||00:1E:67:3C:A3:7C|SIE1-SV|InUse|swetha.gurudu@intel.com
+crb|IXA00378144|||WGC Lab|InUse|mairtin.o'loingsigh@intel.com
+crb|IXA00378198|||SIE1-ServerRack|InUse|anthonyx.fee@intel.com
+crb|IXA00378216|||SIE1-RackRoom2|InUse|harvijayx.saini@intel.com
+crb|IXA00378222|||Shipped|InUse|david.guckian@intel.com
+crb|IXA00378227|||Scrapped|NotInUse|
+crb|IXA00378228|||Scrapped|InUse|
+crb|IXA00378235|||Shipped|InUse|
+crb|IXA00378236|||SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00378247||00:1E:67:3E:AF:E7|SIE1-RackRoom2|InUse|kim-marie.jones@intel.com
+crb|IXA00378248|||SW Store|InUse|
+crb|IXA00378249|||SIE1-RackRoom2|InUse|paulx.turner@intel.com
+crb|IXA00378250||00:1e:67:45:ba:81|SIE1-RackRoom|InUse|andrey.chilikin@intel.com
+crb|IXA00378251||00:1E:67:45:BA:EA|SIE1-RackRoom2|InUse|maryam.tahhan@intel.com
+crb|IXA00378252||00:1E:67:45:BB:1C|SIE1-RackRoom|InUse|sean.k.mooney@intel.com
+crb|IXA00378253||00:1e:67:45:be:37|SIE1-RackRoom|InUse|andrey.chilikin@intel.com
+crb|IXA00378254|||SIE1-ServerRack|InUse|
+crb|IXA00378257|||SIE1-ServerRack|InUse|tadeusz.struk@intel.com
+crb|IXA00378313|||Shipped|InUse|josex.m.rodriguez.saez@intel.com
+crb|IXA00378323|||Data Center|InUse|
+crb|IXA00378326|||Data Center|InUse|
+crb|IXA00378331|||WCK Lockers|InUse|
+crb|IXA00378396||00:1E:67:43:42:CA|SIE1-RackRoom2|InUse|stephen.doyle@intel.com
+crb|IXA00378412|||Data Center|InUse|
+crb|IXA00378443|||SIE1-SV|InUse|
+crb|IXA00378492||00:22:4D:81:65:B8|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00378494|||SIE1-RackRoom|InUse|pallav.bhansali@intel.com
+crb|IXA00378498||00:10:18:97:28:F7|SIE1-RackRoom2|InUse|johnx.mcnamara@intel.com
+crb|IXA00378508|||Data Center|InUse|
+crb|IXA00378515||64:70:02:00:D7:A9|SIE1-RackRoom2|InUse|alan.carey@intel.com
+crb|IXA00378583|||SW Store|InUse|
+crb|IXA00378584|||SV Store|InUse|
+crb|IXA00378585|||SW Store|InUse|
+crb|IXA00378586|||SW Store|InUse|
+crb|IXA00378597|||Shipped|InUse|
+crb|IXA00378603|||Shipped|InUse|
+crb|IXA00378641|||SIE1-ServerRack|InUse|david.m.oneill@intel.com
+crb|IXA00378642|||SIE1-ServerRack|InUse|david.m.oneill@intel.com
+crb|IXA00378661|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00378675|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00378676|||SW Store|InUse|
+crb|IXA00378691|||WGC Lab|NotInUse|karthikeyanx.gopal@intel.com
+crb|IXA00378692||68:05:CA:08:6B:80|SIE1-ServerRack|InUse|
+crb|IXA00378715|||Shipped|InUse|
+crb|IXA00378756|||SIE1-ServerRack|InUse|igor.pashuta@intel.com
+crb|IXA00378775|||Data Center|InUse|
+crb|IXA00378776|||Data Center|InUse|
+crb|IXA00378823||00:22:4D:81:66:90|SIE1-RackRoom2|InUse|thomas.long@intel.com
+crb|IXA00378824||00:22:4D:80:F4:61|SIE1-RackRoom|InUse|ian.stokes@intel.com
+crb|IXA00378825||00:22:4D:81:56:DB|SIE1-RackRoom|NotInUse|hubert.sokolowski@intel.com
+crb|IXA00378844|||SV Store|InUse|
+crb|IXA00378847|||SV Store|InUse|
+crb|IXA00378848|||SV Store|InUse|
+crb|IXA00378862|||Shipped|InUse|
+crb|IXA00378867|||SIE1-SW|InUse|david.m.oneill@intel.com
+crb|IXA00378871|||Shipped|InUse|
+crb|IXA00378889|||Data Center|InUse|
+crb|IXA00378894|||Data Center|InUse|
+crb|IXA00378895|||Data Center|InUse|
+crb|IXA00378896|||Data Center|InUse|
+crb|IXA00378897|||Data Center|InUse|
+crb|IXA00378898|||Data Center|InUse|
+crb|IXA00378899|||Data Center|InUse|
+crb|IXA00378900|||Data Center|InUse|
+crb|IXA00378919||00:1E:67:47:2c:82|SIE1-ServerRack|InUse|greg.thomas@intel.com
+crb|IXA00378935|||Scrapped|InUse|
+crb|IXA00378938||00:1E:67:38:BD:EE|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00378940||00:1e:67:38:bd:62|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00378941||00:1e:67:38:c4:f5|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00378942||00:1E:67:43:48:96|SIE1-SV|InUse|swetha.gurudu@intel.com
+crb|IXA00378943||00:1E:67:3C:A3:0D|SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00378944|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00378956|||Shipped|InUse|
+crb|IXA00378959|||SIE1-SW|InUse|
+crb|IXA00378966|||SIE1-SW|InUse|
+crb|IXA00378974|||Scrapped|InUse|
+crb|IXA00378976|||Scrapped|InUse|
+crb|IXA00379011||64:70:02:00:CC:24|SIE1-RackRoom2|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00379012|||SV Store|NotInUse|
+crb|IXA00379021|||Shipped|InUse|
+crb|IXA00379030||E0:69:95:D2:F2:19|Shipped|InUse|
+crb|IXA00379049|||SIE1-SW|InUse|
+crb|IXA00379311|||SIE1-ServerRack|InUse|david.m.oneill@intel.com
+crb|IXA00379358|||Data Center|InUse|
+crb|IXA00379359|||Data Center|InUse|
+crb|IXA00379360|||Data Center|InUse|
+crb|IXA00379361|||Data Center|InUse|
+crb|IXA00379389||00:26:2d:f2:41:dd|SV Store|InUse|
+crb|IXA00379412|||SW Store|InUse|
+crb|IXA00379430|||Scrapped|InUse|
+crb|IXA00379431|||Scrapped|InUse|
+crb|IXA00379432|||Scrapped|InUse|
+crb|IXA00379433|||Scrapped|InUse|
+crb|IXA00379434|||Scrapped|InUse|
+crb|IXA00379435|||Scrapped|InUse|
+crb|IXA00379448||00:1E:67:43:46:AD|SIE1-SV|InUse|krzysztofx.hoc@intel.com
+crb|IXA00379469|||Scrapped|InUse|
+crb|IXA00379496||00:1e:67:43:48:65|SIE1-SV|InUse|krzysztofx.hoc@intel.com
+crb|IXA00379509|||SW Store|NotInUse|
+crb|IXA00379538|||Data Center|InUse|
+crb|IXA00379539|||Data Center|InUse|
+crb|IXA00379575|||SIE1-RackRoom|InUse|alan.carew@intel.com
+crb|IXA00379576||E0:69:95:D3:0D:1B|SIE1-SV|InUse|dario.russo@intel.com
+crb|IXA00379578|||Shipped|InUse|
+crb|IXA00379579|||Shipped|InUse|
+crb|IXA00379580||38:60:77:bd:d1:13|SIE1-SW|InUse|
+crb|IXA00379581|||SIE1-SV|InUse|ian.betts@intel.com
+crb|IXA00379582||00:11:22:33:44:55|SIE1-SV|InUse|ian.betts@intel.com
+crb|IXA00379583|||SV Store|InUse|
+crb|IXA00379584||00:1E:8C:F5:9E:33|SIE1-ServerRack|InUse|jamiex.osullivan@intel.com
+crb|IXA00379585||00:1E:8C:F5:97:43|SIE1-RackRoom2|InUse|jamiex.osullivan@intel.com
+crb|IXA00379586||00:1E:8C:F5:97:F9|SIE1-RackRoom2|InUse|maryam.tahhan@intel.com
+crb|IXA00379587||00:1E:8C:F5:9E:39|SIE1-RackRoom2|InUse|maryam.tahhan@intel.com
+crb|IXA00379588|||SV Store|InUse|
+crb|IXA00379589|||SV Store|InUse|
+crb|IXA00379590|||SV Store|InUse|
+crb|IXA00379591|||SV Store|InUse|
+crb|IXA00379592|||Scrapped|InUse|
+crb|IXA00379617|||Shipped|InUse|
+crb|IXA00379618||68:05:CA:08:6B:6C|WGC Lab|InUse|andrewx.johnson@intel.com
+crb|IXA00379619|||Shipped|InUse|
+crb|IXA00379620|||Shipped|InUse|
+crb|IXA00379621||00:1b:21:00:7b:a9|SIE1-RackRoom2|InUse|romain.lencou@intel.com
+crb|IXA00379622|||Shipped|InUse|
+crb|IXA00379624|||Shipped|InUse|
+crb|IXA00379625|||Shipped|InUse|
+crb|IXA00379626|||Shipped|InUse|
+crb|IXA00379627|||Shipped|InUse|
+crb|IXA00379628|||Shipped|InUse|
+crb|IXA00379647||00:1E:67:3C:77:91|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00379653|||SIE1-SW|InUse|
+crb|IXA00379654||00:E0:86:1C:1D:69|SIE1-RackRoom2|InUse|
+crb|IXA00379655|||SIE1-RackRoom|InUse|
+crb|IXA00379666||00:1E:67:43:4A:3A|SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00379668|||Shipped|InUse|waterman.cao@intel.com
+crb|IXA00379715|||Data Center|InUse|
+crb|IXA00379720|||Data Center|InUse|
+crb|IXA00379736||00:1e:67:49:B0:CA|SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00379737|||SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00379759||00:08:a2:08:f7:63|SIE1-RackRoom2|InUse|
+crb|IXA00379767|||SIE1-RackRoom2|InUse|
+crb|IXA00379771||00:e0:86:1b:bf:33|SIE1-SV|InUse|jasonx.culligan@intel.com
+crb|IXA00379775||00:E0:86:1B:48:80|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00379785|||Shipped|InUse|
+crb|IXA00379786|||Shipped|InUse|
+crb|IXA00379788||00:E0:86:1B:48:7C|SIE1-RackRoom2|InUse|jasonx.culligan@intel.com
+crb|IXA00379790|||SIE1-RackRoom|InUse|
+crb|IXA00379803|||SIE1-RackRoom|InUse|
+crb|IXA00379804|||SIE1-RackRoom|InUse|
+crb|IXA00379818||00:1B:21:AD:BF:70|SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00379828|||SIE1-ServerRack|InUse|dario.russo@intel.com
+crb|IXA00379861|||SW Store|NotInUse|jamiex.osullivan@intel.com
+crb|IXA00379864|||Data Center|InUse|danielx.o'donovan@intel.com
+crb|IXA00379887|||SW Store|InUse|
+crb|IXA00379910|||Data Center|InUse|james.p.chapman@intel.com
+crb|IXA00379917|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00379920|||Shipped|InUse|
+crb|IXA00379921|||Shipped|InUse|
+crb|IXA00379922|||SIE1-SV|InUse|
+crb|IXA00379955||00:1e:67:43:40:0E|SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00379960|||Shipped|InUse|
+crb|IXA00379966|||SIE1-RackRoom|InUse|gokhan.simsek@intel.com
+crb|IXA00379967||88:88:88:00:00:00|SIE1-SW|InUse|ahsan.atta@intel.com
+crb|IXA00379968|||SIE1-RackRoom2|InUse|
+crb|IXA00379970|||Scrapped|InUse|
+crb|IXA00379971||00:1B:21:AD:BF:7A|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00379973|||SW Store|InUse|
+crb|IXA00379982||00:1e:67:2c:cb:2a|SW Store|NotInUse|
+crb|IXA00380005|||Shipped|InUse|venkatax.s.khambam@intel.com
+crb|IXA00380006|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00380017|||SW Store|InUse|
+crb|IXA00380020|||SW Store|InUse|mark.d.gray@intel.com
+crb|IXA00380021||E8:40:F2:C3:0C:1F|SIE1-SW|InUse|jasonx.culligan@intel.com
+crb|IXA00380022||E8:40:F2:C3:0B:66|SIE1-RackRoom2|InUse|tomasz.kantecki@intel.com
+crb|IXA00380024|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00380025|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00380026|||SW Store|InUse|
+crb|IXA00380027||00:1E:67:51:2C:13|SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00380037|||SIE1-RackRoom|InUse|robertx.d.thyeson@intel.com
+crb|IXA00380040|||SIE1-RackRoom|NotInUse|robertx.d.thyeson@intel.com
+crb|IXA00380081|||Data Center|InUse|david.m.oneill@intel.com
+crb|IXA00380097|||Data Center|InUse|robertx.d.thyeson@intel.com
+crb|IXA00380102|||Data Center|InUse|robertx.d.thyeson@intel.com
+crb|IXA00380197|||Data Center|InUse|nicolasx.pernas.maradei@intel.com
+crb|IXA00380209||00:1e:67:57:50:92|SIE1-ServerRack|InUse|
+crb|IXA00380210|||SV Store|InUse|
+crb|IXA00380211|||SV Store|InUse|
+crb|IXA00380212|||SV Store|InUse|
+crb|IXA00380221||00:15:5D:D4:9F:00|SIE1-ServerRack|InUse|patrick.lehane@intel.com
+crb|IXA00380245|||SIE1-SW|InUse|micheal.o'coileain@intel.com
+crb|IXA00380261|||SIE1-RackRoom|InUse|catriona.lucey@intel.com
+crb|IXA00380271|||SIE1-ServerRack|InUse|maurice.j.gleeson@intel.com
+crb|IXA00380287||00:0c:29:7f:5e:22|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00380297||00:1e:67:49:ab:66|SIE1-ServerRack|InUse|thomas.long@intel.com
+crb|IXA00380299||00:1e:67:43:44:67|SIE1-RackRoom2|InUse|mark.b.kavanagh@intel.com
+crb|IXA00380305|||SIE1-SW|InUse|jasonx.culligan@intel.com
+crb|IXA00380359||00:22:4D:80:F6:07|SIE1-ServerRack|InUse|kim-marie.jones@intel.com
+crb|IXA00380360||00:22:4d:80:f4:06|SIE1-SV|InUse|ian.betts@intel.com
+crb|IXA00380361||00:22:4D:80:F5:F3|SIE1-RackRoom2|InUse|kim-marie.jones@intel.com
+crb|IXA00380387|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00380388|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00380389||68:05:CA:09:63:EB|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00380408||00:22:4d:80:f5:ff|SIE1-RackRoom|NotInUse|cormac.stone@intel.com
+crb|IXA00380409|||SIE1-SW|NotInUse|
+crb|IXA00380423|||SIE1-RackRoom2|NotInUse|
+crb|IXA00380424|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00380439|||WGC Lab|InUse|przemyslaw.czesnowicz@intel.com
+crb|IXA00380440||00:15:17:E3:E3:BB|Scrapped|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00380461|||SIE1-SW|InUse|
+crb|IXA00380463||00:0c:29:84:4f:ad|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00380497||00:0c:29:bf:fe:0c|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00380525|||Data Center|InUse|ian.betts@intel.com
+crb|IXA00380542|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00380543|||Shipped|InUse|
+crb|IXA00380544|||Shipped|InUse|
+crb|IXA00380548||90:2B:34:5B:19:37|SIE1-ServerRack|InUse|robert.healy@intel.com
+crb|IXA00380550||00:1B:21:AD:C0:03|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00380551||90:2B:34:5B:1B:E6|SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00380636|||SIE1-SW|InUse|
+crb|IXA00380637|||SIE1-SW|InUse|liang.j.ma@intel.com
+crb|IXA00380638|||SIE1-SW|InUse|
+crb|IXA00380639|||WCK Locker|InUse|
+crb|IXA00380640|||SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00380641|||SIE1-SV|InUse|
+crb|IXA00380642|||SIE1-SW|InUse|
+crb|IXA00380648|||WCK -Locker|InUse|
+crb|IXA00380649|||WCK Locker|InUse|
+crb|IXA00380651|||WCK Lockers|InUse|
+crb|IXA00380652|||SIE1-SV|InUse|niall.power@intel.com
+crb|IXA00380655|||SV Store|InUse|
+crb|IXA00380656|||SV Store|InUse|
+crb|IXA00380657|||SV Store|InUse|
+crb|IXA00380658|||SV Store|InUse|
+crb|IXA00380659|||SV Store|InUse|
+crb|IXA00380664||00:1e:67:3b:48:6d|SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00380700|||WCK Lockers|InUse|
+crb|IXA00380701|||SIE1-RackRoom|InUse|
+crb|IXA00380702|||SW Store|NotInUse|
+crb|IXA00380703|||SW Store|InUse|
+crb|IXA00380704|||SW Store|InUse|ahsan.atta@intel.com
+crb|IXA00380705|||SW Store|InUse|
+crb|IXA00380706|||SW Store|InUse|
+crb|IXA00380707|||SW Store|InUse|
+crb|IXA00380708|||SIE1-RackRoom2|InUse|fiona.trahe@intel.com
+crb|IXA00380709|||SIE1-RackRoom|InUse|laurent.m.coquerel@intel.com
+crb|IXA00380710|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00380711|||Shipped|InUse|
+crb|IXA00380712|||SIE1-RackRoom2|InUse|
+crb|IXA00380713|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00380714|||Shipped|InUse|
+crb|IXA00380715|||SW Store|InUse|
+crb|IXA00380716|||SW Store|InUse|
+crb|IXA00380720|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00380721|||SW Store|InUse|
+crb|IXA00380722|||SV Store|InUse|
+crb|IXA00380723|||Shipped|InUse|
+crb|IXA00380725||00:01:80:7D:F7:44|SIE1-ServerRack|InUse|aaron.hetherington@intel.com
+crb|IXA00380742||68:05:ca:08:6b:e4|SIE1-SV|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00380743||00:15:17:BE:26:DB|SIE1-SV|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00380744|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00380745||00:1B:21:00:6C:45|SIE1-SV|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00380762||00:1b:21:ad:bf:80|SIE1-SW|InUse|marcin.wrzeszcz@intel.com
+crb|IXA00380805|||SIE1-SW|InUse|
+crb|IXA00380806|||SIE1-SW|InUse|
+crb|IXA00380807|||SIE1-RackRoom2|InUse|davidx.hunt@intel.com
+crb|IXA00380870||00:1B:21:AD:C0:31|SIE1-RackRoom|InUse|des.j.o.dea@intel.com
+crb|IXA00380890|||SIE2-TME|InUse|fabrice.peretti@intel.com
+crb|IXA00380891|||SIE2-TME|InUse|
+crb|IXA00380928|||SW Store|NotInUse|danielx.o'donovan@intel.com
+crb|IXA00380963|||SW Store|InUse|
+crb|IXA00380965|||SW Store|NotInUse|james.p.chapman@intel.com
+crb|IXA00381021||00:1e:67:3b:48:7d|SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00381063|||Shipped|InUse|
+crb|IXA00381064|||SIE1-RackRoom2|InUse|sophie.lennon@intel.com
+crb|IXA00381065|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00381066|||WCK Locker|InUse|
+crb|IXA00381067|||SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00381102|||Shipped|InUse|romain.lencou@intel.com
+crb|IXA00381104|||SW Store|NotInUse|
+crb|IXA00381117||00:c0:b7:4c:96:4a|Unknown|NotInUse|sriramulux.kuppuswamy@intel.com
+crb|IXA00381139|||SIE1-SV|InUse|
+crb|IXA00381142|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00381145|||SIE1-SV|InUse|jasonx.culligan@intel.com
+crb|IXA00381156||00:c0:b7:4c:9a:1d|WGC Lab|NotInUse|sriramulux.kuppuswamy@intel.com
+crb|IXA00381166|||SIE1-SV|InUse|seosamh.oriordain@intel.com
+crb|IXA00381174|||SIE1-SW|InUse|gillesx.devillard@intel.com
+crb|IXA00381178|||SV Store|NotInUse|sophie.lennon@intel.com
+crb|IXA00381180|||SIE1-SW|InUse|laurent.m.coquerel@intel.com
+crb|IXA00381213|||Craggy Island Demo Area|NotInUse|
+crb|IXA00381214||00:01:80:7D:F1:85|SIE1-SW|NotInUse|jasonx.culligan@intel.com
+crb|IXA00381215|||SV Store|InUse|
+crb|IXA00381239|||WGC Lab|InUse|paulx.turner@intel.com
+crb|IXA00381245|||SW Store|InUse|
+crb|IXA00381301||00:1E:67:49:AA:24|SIE1-RackRoom2|InUse|tony.walsh@intel.com
+crb|IXA00381302||00:1E:67:4D:2B:A6|SIE1-RackRoom2|InUse|ray.kinsella@intel.com
+crb|IXA00381336|||SIE1-SV|InUse|
+crb|IXA00381396|||Shipped|InUse|Declan.oboyle@intel.com
+crb|IXA00381397|||Shipped|InUse|Declan.oboyle@intel.com
+crb|IXA00381398|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00381399|||SV Store|InUse|
+crb|IXA00381420|||Shipped|InUse|
+crb|IXA00381478||4C:72:B9:D1:A7:28|SIE1-SW|InUse|kevin.traynor@intel.com
+crb|IXA00381479|||SIE1-SW|InUse|kevin.traynor@intel.com
+crb|IXA00381480||4C:72:B9:D1:A6:F7|SIE1-SW|InUse|graemex.hickman@intel.com
+crb|IXA00381484|||SW Store|InUse|
+crb|IXA00381485|||SW Store|InUse|
+crb|IXA00381486|||SIE1-SW|InUse|john.walsh@intel.com
+crb|IXA00381506|||Shipped|InUse|Declan.oboyle@intel.com
+crb|IXA00381585|||SIE2-TME|InUse|
+crb|IXA00381608|||SV Store|InUse|
+crb|IXA00381614|||SIE1-SV|InUse|
+crb|IXA00381615|||SIE1-SV|InUse|
+crb|IXA00381631||00:1E:67:51:05:86|SIE1-RackRoom2|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00381632||00:1E:67:4E:33:F5|SIE1-RackRoom2|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00381633||00:1E:67:51:1a:3f|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00381634||00:1e:67:4e:2f:72|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00381635||00:15:17:e3:e1:9b|SIE1-RackRoom|InUse|david.t.shaughnessy@intel.com
+crb|IXA00381636||00:1E:67:56:93:6D|SIE1-RackRoom2|InUse|konstantin.ananyev@intel.com
+crb|IXA00381642|||SIE1-SV|InUse|
+crb|IXA00381643|||SIE1-RackRoom|InUse|
+crb|IXA00381644||00:1E:67:58:8B:EB|SIE1-RackRoom|InUse|
+crb|IXA00381667||00:13:20:f9:a3:7b|SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00381668||00:1B:21:00:6D:BE|SIE1-RackRoom|InUse|don.samson@intel.com
+crb|IXA00381669|||SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00381670||A0:36:9F:03:F2:4C|SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00381671||00:16:0A:15:2A:4B|SIE1-RackRoom|InUse|patrick.lehane@intel.com
+crb|IXA00381672||00:1b:21:1C:8A:95|SIE1-RackRoom|InUse|laurent.m.coquerel@intel.com
+crb|IXA00381673||00:0A:F7:09:A1:3B|SIE1-RackRoom|InUse|laurent.m.coquerel@intel.com
+crb|IXA00381674||A0:36:9F:03:F2:A8|SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00381675||00:1B:21:AD:BF:71|SIE1-RackRoom|InUse|laurent.m.coquerel@intel.com
+crb|IXA00381676||00:1B:21:AD:BF:D1|SIE1-RackRoom|InUse|tony.walsh@intel.com
+crb|IXA00381683|||SW Store|InUse|
+crb|IXA00381684|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00381685|||SIE1-RackRoom|InUse|
+crb|IXA00381686|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00381687|||SW Store|InUse|
+crb|IXA00381706|||SW Store|InUse|tomasz.motyl@intel.com
+crb|IXA00381715|||SW Store|InUse|
+crb|IXA00381716|||SW Store|NotInUse|
+crb|IXA00381717|||SW Store|NotInUse|
+crb|IXA00381721|||Shipped|InUse|stefan.s.lamble@intel.com
+crb|IXA00381722|||Shipped|InUse|
+crb|IXA00381723|||Shipped|InUse|
+crb|IXA00381724|||SIE1-SW|InUse|davidx.hunt@intel.com
+crb|IXA00381725|||Shipped|InUse|davidx.hunt@intel.com
+crb|IXA00381735|||SV Stores|NotInUse|
+crb|IXA00381738|||Shipped|InUse|
+crb|IXA00381740||00:1E:67:3C:7A:85|SIE1-ServerRack|InUse|andrewx.maclean@intel.com
+crb|IXA00381741||00:1E:67:3C:78:16|SIE1-ServerRack|InUse|catriona.lucey@intel.com
+crb|IXA00381755|||Shipped|InUse|
+crb|IXA00381756|||Shipped|InUse|
+crb|IXA00381761|||SIE1-RackRoom|InUse|peter.j.obrien@intel.com
+crb|IXA00381762||00:1b:21:ad:c0:48|SIE1-RackRoom2|InUse|paulx.turner@intel.com
+crb|IXA00381763|||Scrapped|InUse|
+crb|IXA00381767|||SW Store|InUse|
+crb|IXA00381770|||SIE1-RackRoom2|InUse|romain.lencou@intel.com
+crb|IXA00381775|||Shipped|InUse|Declan.oboyle@intel.com
+crb|IXA00381787|||SIE2-TME|InUse|
+crb|IXA00381798|||WGC Lab|InUse|
+crb|IXA00381799|||WGC Lab|InUse|karthikeyanx.gopal@intel.com
+crb|IXA00381803||68:05:ca:08:6b:bf|SIE1-RackRoom2|InUse|robert.healy@intel.com
+crb|IXA00381804||68:05:CA:09:3D:E8|WGC Lab|InUse|andrewx.johnson@intel.com
+crb|IXA00381805|||SIE1-RackRoom2|InUse|muralix.annamneni@intel.com
+crb|IXA00381806||68:05:ca:08:6b:b2|SIE1-RackRoom2|InUse|john.griffin@intel.com
+crb|IXA00381807|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00381808|||WGC Lab|NotInUse|karthikeyanx.gopal@intel.com
+crb|IXA00381809|||SIE1-RackRoom2|InUse|john.walsh@intel.com
+crb|IXA00381810|||Shipped|InUse|
+crb|IXA00381811|||Shipped|InUse|
+crb|IXA00381812|||Shipped|InUse|
+crb|IXA00381813|||Shipped|InUse|
+crb|IXA00381821||00:e0:86:1b:a9:52|SIE1-ServerRack|InUse|
+crb|IXA00381852|||SIE1-SW|InUse|jasonx.culligan@intel.com
+crb|IXA00381868|||SIE1-SV|InUse|
+crb|IXA00381869|||SIE1-SV|InUse|
+crb|IXA00381870|||WCK Locker|InUse|
+crb|IXA00381871|||WCK Locker|InUse|
+crb|IXA00381876||50:e5:49:e9:86:5d|SIE1-SW|InUse|gillesx.devillard@intel.com
+crb|IXA00381877||64:70:02:04:33:c2|SIE1-SW|InUse|gillesx.devillard@intel.com
+crb|IXA00381879|||Shipped|InUse|
+crb|IXA00381885|||Shipped|InUse|
+crb|IXA00381886|||SIE1-SV|InUse|krzysztofx.hoc@intel.com
+crb|IXA00381887|||SIE1-SV|InUse|krzysztofx.hoc@intel.com
+crb|IXA00381888|||WCK Locker|InUse|
+crb|IXA00381889|||Shipped|InUse|
+crb|IXA00381890|||SIE1-SV|InUse|tomasz.minor@intel.com
+crb|IXA00381906||00:04:23:ea:68:e1|SIE1-RackRoom|InUse|tomasz.kantecki@intel.com
+crb|IXA00381907||68:05:CA:09:65:15|SIE1-SW|InUse|marcin.wrzeszcz@intel.com
+crb|IXA00381947||68:05:CA:08:6B:96|SIE1-RackRoom2|InUse|ahsan.atta@intel.com
+crb|IXA00381948||00:1B:21:9C:AF:D3|SIE1-RackRoom2|InUse|ahsan.atta@intel.com
+crb|IXA00381963|||SW Store|InUse|catriona.lucey@intel.com
+crb|IXA00381964|||SIE1-RackRoom|InUse|catriona.lucey@intel.com
+crb|IXA00381965|||SW Store|InUse|catriona.lucey@intel.com
+crb|IXA00381977|||Shipped|InUse|
+crb|IXA00381978||00:1B:21:00:7B:32|Shipped|InUse|
+crb|IXA00381988||00:1E:67:49:A2:EC|SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00381989||00:1e:67:4d:26:58|SIE1-RackRoom|InUse|meghan.halton@intel.com
+crb|IXA00381990||00:1e:67:4d:2c:0f|SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00381991||00:1e:67:4d:23:cd|SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00382019||00:1e:67:0d:b4:de|SIE1-SW|InUse|maryam.tahhan@intel.com
+crb|IXA00382030||00:0C:29:88:18:A6|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00382037|||SIE2-TME|InUse|
+crb|IXA00382054|||SIE2-TME|InUse|
+crb|IXA00382059|||SIE1-SW|InUse|
+crb|IXA00382061|||SIE2-TME|InUse|radu.nicolau@intel.com
+crb|IXA00382066|||SIE1-RackRoom|InUse|pradeep.k.cletus@intel.com
+crb|IXA00382070||18:a9:05:ef:bc:3b|SIE1-SW|InUse|
+crb|IXA00382095|||SIE1-RackRoom2|InUse|
+crb|IXA00382096|||SIE1-SW|InUse|
+crb|IXA00382104|||WGC Lab|InUse|muralix.annamneni@intel.com
+crb|IXA00382105||00:1B:21:1B:FE:16|SIE1-RackRoom2|InUse|giovanni.cabiddu@intel.com
+crb|IXA00382106|||Scrapped|NotInUse|karthikeyanx.gopal@intel.com
+crb|IXA00382107|||Scrapped|NotInUse|
+crb|IXA00382116|||SW Store|NotInUse|
+crb|IXA00382121|||SW Store|InUse|
+crb|IXA00382122|||SW Store|InUse|
+crb|IXA00382123|||SW Store|InUse|
+crb|IXA00382124|||SW Store|InUse|
+crb|IXA00382137|||SIE2-TME|InUse|fabrice.peretti@intel.com
+crb|IXA00382138|||SIE2-TME|InUse|daniel.m.buckley@intel.com
+crb|IXA00382139|||SIE1-SV|InUse|
+crb|IXA00382140|||SIE1-SV|InUse|
+crb|IXA00382142|||SIE1-RackRoom|InUse|
+crb|IXA00382161||00:1B:21:00:6C:D0|SIE1-RackRoom2|InUse|giovanni.cabiddu@intel.com
+crb|IXA00382162||00:1B:21:3D:E5:C8|SIE1-RackRoom2|InUse|jean-christophe.bouche@intel.com
+crb|IXA00382163||F8:1A:67:00:78:BC|SIE1-ServerRack|InUse|catriona.lucey@intel.com
+crb|IXA00382164|||WGC Lab|InUse|stevenx.linsell@intel.com
+crb|IXA00382165|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00382166|||WGC Lab|InUse|aneesurx.r.chikari@intel.com
+crb|IXA00382167|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00382176|||Unknown|InUse|stephen.doyle@intel.com
+crb|IXA00382177|||Unknown|InUse|tadeusz.struk@intel.com
+crb|IXA00382178|||Unknown|InUse|fiona.trahe@intel.com
+crb|IXA00382179|||Unknown|InUse|catriona.lucey@intel.com
+crb|IXA00382180|||Unknown|InUse|romain.lencou@intel.com
+crb|IXA00382181|||WGC Lab|InUse|danielx.o'donovan@intel.com
+crb|IXA00382182|||SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00382183||00:1b:21:1c:f9:38|SIE1-RackRoom|InUse|
+crb|IXA00382204|||SW Store|InUse|
+crb|IXA00382215|10.237.214.131|00:e0:86:1b:a9:4d|SIE1-RackRoom2|InUse|
+crb|IXA00382220|||WGC Lab|InUse|
+crb|IXA00382221|||WGC Lab|InUse|
+crb|IXA00382222|||WGC Lab|InUse|
+crb|IXA00382223|||SIE1-SW|InUse|
+crb|IXA00382224|||WGC Lab|InUse|
+crb|IXA00382225|||WGC Lab|InUse|
+crb|IXA00382226|||WGC Lab|InUse|
+crb|IXA00382227|||WGC Lab|InUse|
+crb|IXA00382228|||SW Store|NotInUse|
+crb|IXA00382235||00:1B:21:98:DA:72|SIE1-RackRoom2|InUse|romain.lencou@intel.com
+crb|IXA00382236|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00382237||00:1B:21:00:6D:69|SIE1-RackRoom2|InUse|peterx.groves@intel.com
+crb|IXA00382238||68:05:CA:08:6B:90|SIE1-ServerRack|InUse|romain.lencou@intel.com
+crb|IXA00382239|||WGC Lab|InUse|andrewx.johnson@intel.com
+crb|IXA00382240||00:1B:21:AD:C0:60|SIE1-RackRoom2|InUse|john.griffin@intel.com
+crb|IXA00382283|||WGC Lab|InUse|
+crb|IXA00382284|||WGC Lab|InUse|
+crb|IXA00382295|||WGC Lab|InUse|josex.antony@intel.com
+crb|IXA00382296|||SW Store|InUse|catriona.lucey@intel.com
+crb|IXA00382297|||WGC Lab|InUse|aneesurx.r.chikari@intel.com
+crb|IXA00382308|||Shipped|InUse|
+crb|IXA00382309|||Shipped|InUse|
+crb|IXA00382363||00:1b:21:00:7c:fe|SIE1-SV|InUse|ahsan.atta@intel.com
+crb|IXA00382379|||SIE1-SV|InUse|david.guckian@intel.com
+crb|IXA00382381|||SIE1-SV|InUse|feix.z.wang@intel.com
+crb|IXA00382409|10.237.214.138|00:e0:86:1b:bd:42|SIE1-RackRoom|InUse|
+crb|IXA00382423||00:1B:21:98:DA:04|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00382430|||WGC Lab|InUse|
+crb|IXA00382463|10.243.18.122||SIE1-SW|InUse|
+crb|IXA00382465|||WGC Lab|InUse|
+crb|IXA00382466||00:1b:21:1e:76:5d|SIE1-RackRoom|InUse|ahsan.atta@intel.com
+crb|IXA00382467||94:DE:80:61:BF:C5|SIE1-RackRoom|InUse|ciara.loftus@intel.com
+crb|IXA00382468|||SIE1-SW|InUse|
+crb|IXA00382481||00:0C:29:C3:8E:5F|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00382508|||SW Store|InUse|
+crb|IXA00382509|||SW Store|InUse|
+crb|IXA00382510|||SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00382511|||WGC Lab|InUse|
+crb|IXA00382512|||WGC Lab|InUse|
+crb|IXA00382513|||SW Store|InUse|greg.thomas@intel.com
+crb|IXA00382514|||SW Store|InUse|
+crb|IXA00382515|||WGC Lab|InUse|
+crb|IXA00382517|||WGC Lab|InUse|
+crb|IXA00382518|||WGC Lab|InUse|
+crb|IXA00382519|||WGC Lab|InUse|
+crb|IXA00382520|||WGC Lab|InUse|
+crb|IXA00382521|||SW Store|InUse|
+crb|IXA00382522|||WGC Lab|NotInUse|
+crb|IXA00382523|||WGC Lab|InUse|
+crb|IXA00382524|||WGC Lab|InUse|
+crb|IXA00382525|||WGC Lab|InUse|
+crb|IXA00382526|||SW Store|InUse|
+crb|IXA00382527|||WGC Lab|InUse|
+crb|IXA00382528|||WGC Lab|InUse|
+crb|IXA00382575|||WGC Lab|InUse|
+crb|IXA00382576||f8:1a:67:00:6a:5e|SIE1-RackRoom2|InUse|mairtin.o'loingsigh@intel.com
+crb|IXA00382577|||WGC Lab|InUse|laurencex.parsons@intel.com
+crb|IXA00382578||f8:1a:67:00:5c:47|SIE1-RackRoom2|InUse|fiona.trahe@intel.com
+crb|IXA00382579|||Shipped|InUse|john.walsh@intel.com
+crb|IXA00382580|||Shipped|InUse|john.walsh@intel.com
+crb|IXA00382598||00:e0:86:1b:bd:44|SIE1-ServerRack|InUse|
+crb|IXA00382606|||SW Store|NotInUse|
+crb|IXA00382619|||SIE1-RackRoom2|InUse|
+crb|IXA00382629|||SIE1-RackRoom|InUse|jasonx.culligan@intel.com
+crb|IXA00382645||52:54:00:49:95:36|SIE1-RackRoom|InUse|alejandrox.abejon.gonzalez@intel.com
+crb|IXA00382658||00:1e:67:56:b9:7a|SIE1-RackRoom2|InUse|michael.a.ohanlon@intel.com
+crb|IXA00382659||00:1e:67:56:bf:29|SIE1-RackRoom2|InUse|marcel.d.cornu@intel.com
+crb|IXA00382660||00:1e:67:56:b5:dd|SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00382661|||SW Store|InUse|igor.pashuta@intel.com
+crb|IXA00382671||00:0c:29:8c:d3:78|SIE1-ServerRack|InUse|
+crb|IXA00382676|||WGC Lab|InUse|
+crb|IXA00382677|||WGC Lab|InUse|
+crb|IXA00382678|||WGC Lab|InUse|
+crb|IXA00382679|||WGC Lab|InUse|
+crb|IXA00382680|||Shipped|InUse|greg.thomas@intel.com
+crb|IXA00382681|||SW Store|NotInUse|
+crb|IXA00382682|||Shipped|InUse|
+crb|IXA00382683|||Shipped|InUse|
+crb|IXA00382684|||WGC Lab|NotInUse|andrewx.johnson@intel.com
+crb|IXA00382685|||WGC Lab|InUse|
+crb|IXA00382686|||WGC Lab|InUse|
+crb|IXA00382687|||WGC Lab|InUse|
+crb|IXA00382688|||WGC Lab|InUse|
+crb|IXA00382689|||WGC Lab|InUse|
+crb|IXA00382690|||SIE1-SW|InUse|
+crb|IXA00382691|||SIE1-RackRoom|InUse|graemex.hickman@intel.com
+crb|IXA00382692|||SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00382693|||WGC Lab|InUse|
+crb|IXA00382694|||WGC Lab|InUse|andrewx.johnson@intel.com
+crb|IXA00382695|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00382696|||WGC Lab|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00382697|||SIE1-RackRoom|InUse|imthiazx.jani.basha@intel.com
+crb|IXA00382702|||WGC Lab|InUse|mairtin.o'loingsigh@intel.com
+crb|IXA00382703|||SIE1-RackRoom2|InUse|
+crb|IXA00382704|||SIE1-RackRoom2|InUse|mairtin.o'loingsigh@intel.com
+crb|IXA00382705|||SIE1-RackRoom2|InUse|giovanni.cabiddu@intel.com
+crb|IXA00382706|||SW Store|InUse|pierre.laurent@intel.com
+crb|IXA00382707|||SIE1-SW|InUse|
+crb|IXA00382708|||SW Store|InUse|pierre.laurent@intel.com
+crb|IXA00382713||68:05:CA:08:6B:57|SIE1-RackRoom|InUse|gillesx.devillard@intel.com
+crb|IXA00382714||00:13:20:FB:66:76|SIE1-SW|InUse|maryam.tahhan@intel.com
+crb|IXA00382733|||SIE1-SW|InUse|
+crb|IXA00382737|||SIE1-ServerRack|InUse|
+crb|IXA00382740|||SIE1-ServerRack|InUse|
+crb|IXA00382746|||SIE1-ServerRack|InUse|
+crb|IXA00382749|||SW Store|InUse|
+crb|IXA00382753|||SIE1-ServerRack|InUse|
+crb|IXA00382757|||Shipped|InUse|david.guckian@intel.com
+crb|IXA00382758|||Shipped|InUse|david.guckian@intel.com
+crb|IXA00382759|||Shipped|InUse|david.guckian@intel.com
+crb|IXA00382768|||WGC Lab|InUse|
+crb|IXA00382769|||SIE1-SW|InUse|
+crb|IXA00382770|||SIE1-SW|InUse|
+crb|IXA00382771|||SIE1-SW|InUse|
+crb|IXA00382772|||WGC Lab|InUse|
+crb|IXA00382773|||WGC Lab|InUse|
+crb|IXA00382774|||WGC Lab|InUse|
+crb|IXA00382775|||SIE1-SW|InUse|
+crb|IXA00382788|||SIE1-ServerRack|InUse|
+crb|IXA00382790||00:0c:29:25:73:2a|SIE1-ServerRack|InUse|
+crb|IXA00382837|||SIE1-SW|InUse|
+crb|IXA00382839|||Shipped|InUse|
+crb|IXA00382842|||WCK Locker|InUse|
+crb|IXA00382846|||WCK Lockers|InUse|
+crb|IXA00382851|||SIE1-SW|InUse|
+crb|IXA00382886|||Shipped|InUse|
+crb|IXA00382889||00:1c:25:10:51:b0|SIE1-SW|InUse|jasonx.culligan@intel.com
+crb|IXA00382923|||WGC Lab|InUse|
+crb|IXA00382950|||SIE2-TME|InUse|
+crb|IXA00382956|||SIE2-TME|InUse|
+crb|IXA00382962||a0:f3:c1:01:da:d6|SIE1-SW|InUse|ahsan.atta@intel.com
+crb|IXA00382963||a0:f3:c1:10:75:63|SIE1-RackRoom|InUse|laura.reddy@intel.com
+crb|IXA00382964||00:0c:29:4c:da:69|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00382967|||SIE1-SV|InUse|
+crb|IXA00382969|||SIE1-SV|InUse|
+crb|IXA00382981|||SIE1-ServerRack|InUse|
+crb|IXA00382990||00:1e:67:59:80:4e|SIE1-ServerRack|InUse|davidx.o'riordan@intel.com
+crb|IXA00382991|||Shipped|InUse|tomasz.motyl@intel.com
+crb|IXA00382993||00:1E:67:59:81:A8|SIE1-SV|InUse|marcin.wrzeszcz@intel.com
+crb|IXA00382995|||SIE1-ServerRack|InUse|
+crb|IXA00383000|||Shipped|InUse|chris.macnamara@intel.com
+crb|IXA00383009|||SIE1-ServerRack|InUse|thomas.long@intel.com
+crb|IXA00383019|||Shipped|InUse|sophie.lennon@intel.com
+crb|IXA00383020||00:13:20:FD:23:03|SIE1-SV|InUse|chris.macnamara@intel.com
+crb|IXA00383021|||SIE1-SV|InUse|chris.macnamara@intel.com
+crb|IXA00383022|||Scrapped|InUse|davidx.hunt@intel.com
+crb|IXA00383069||00:1e:67:42:fe:6f|SIE1-RackRoom|InUse|ciara.loftus@intel.com
+crb|IXA00383070|||Shipped|InUse|mateuszx.potrola@intel.com
+crb|IXA00383079|||SIE1-SV|InUse|
+crb|IXA00383080|||SIE1-SW|InUse|
+crb|IXA00383081|||SIE2-TME|InUse|
+crb|IXA00383172||f8:1a:67:00:73:5d|SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00383175||00:1B:21:9C:B2:2A|SIE1-RackRoom|InUse|conor.mcloughlin@intel.com
+crb|IXA00383194|||SIE2-TME|InUse|
+crb|IXA00383203|||SIE1-SV|InUse|claire.k.murphy@intel.com
+crb|IXA00383215||00:13:3b:0c:2c:ca|WGC Lab|InUse|aneesurx.r.chikari@intel.com
+crb|IXA00383238||00:1e:67:4e:81:4b|SIE1-RackRoom|InUse|
+crb|IXA00383239||00:1e:67:4d:26:7b|SIE1-RackRoom|InUse|stephen.finucane@intel.com
+crb|IXA00383287|||Unknown|InUse|tom.counihan@intel.com
+crb|IXA00383288|||SIE1-SV|InUse|feix.z.wang@intel.com
+crb|IXA00383302|||SIE1-RackRoom|InUse|
+crb|IXA00383328||00:0c:29:48:37:a5|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00383329||00:0c:29:e0:e9:c1|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00383341|||SIE2-TME|InUse|fabio.m.cesari@intel.com
+crb|IXA00383345|||SW Store|InUse|
+crb|IXA00383346|||SW Store|InUse|
+crb|IXA00383377|||SIE2-TME|InUse|
+crb|IXA00383387|||SV Store|InUse|
+crb|IXA00383396|||SIE1-SV|InUse|pallav.bhansali@intel.com
+crb|IXA00383403|||SIE1-SV|InUse|pallav.bhansali@intel.com
+crb|IXA00383418|||SIE2-TME|InUse|
+crb|IXA00383422|||SIE2-TME|InUse|
+crb|IXA00383445|||SIE1-RackRoom|InUse|james.p.chapman@intel.com
+crb|IXA00383507|||SW Store|InUse|catriona.lucey@intel.com
+crb|IXA00383508|||SW Store|InUse|catriona.lucey@intel.com
+crb|IXA00383559|||SIE1-RackRoom|InUse|ciara.loftus@intel.com
+crb|IXA00383590|||SIE1-SW|InUse|jasonx.culligan@intel.com
+crb|IXA00383594||18:03:73:C2:06:7D|SIE1-SW|InUse|jasonx.culligan@intel.com
+crb|IXA00383618||94:DE:80:AA:F6:E6|SIE1-RackRoom|InUse|graemex.hickman@intel.com
+crb|IXA00383619||94:DE:80:AA:F3:68|SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00383620||94:DE:80:61:B2:82|SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00383621|||SIE1-RackRoom2|InUse|graemex.hickman@intel.com
+crb|IXA00383732|||SIE2-TME|InUse|radu.nicolau@intel.com
+crb|IXA00383735|||SIE2-TME|InUse|
+crb|IXA00383738|||SIE2-TME|InUse|
+crb|IXA00383745|||SIE1-SV|InUse|
+crb|IXA00383749||00:0C:29:B3:84:CB|SIE1-ServerRack|InUse|
+crb|IXA00383753|||SIE1-SV|InUse|
+crb|IXA00383754|||SIE2-TME|InUse|
+crb|IXA00383755|||SIE2-TME|InUse|daniel.m.buckley@intel.com
+crb|IXA00383772|||SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00383791|||SIE1-SW|InUse|ahsan.atta@intel.com
+crb|IXA00383792|||Shipped|InUse|weigang.li@intel.com
+crb|IXA00383793|||SIE1-SW|InUse|
+crb|IXA00383794|||SIE1-RackRoom2|InUse|
+crb|IXA00383795|||SIE1-SW|InUse|
+crb|IXA00383796|||Shipped|InUse|weigang.li@intel.com
+crb|IXA00383797|||SIE1-SW|InUse|
+crb|IXA00383800|||Shipped|InUse|weigang.li@intel.com
+crb|IXA00383801|||Shipped|InUse|weigang.li@intel.com
+crb|IXA00383802|||Shipped|InUse|weigang.li@intel.com
+crb|IXA00383803|||Shipped|InUse|weigang.li@intel.com
+crb|IXA00383804|||SIE1-SW|InUse|
+crb|IXA00383805|||SIE1-SW|InUse|
+crb|IXA00383806|||SIE1-SW|InUse|
+crb|IXA00383807|||SIE1-SW|InUse|
+crb|IXA00383808|||SIE1-SW|InUse|
+crb|IXA00383809|||SIE1-SW|InUse|
+crb|IXA00383810|||SIE1-SW|InUse|
+crb|IXA00383811|||SIE1-SW|InUse|
+crb|IXA00383812|||SIE1-SW|InUse|
+crb|IXA00383813|||SIE1-SW|InUse|
+crb|IXA00383825|||Craggy Island Demo Area|InUse|meghan.halton@intel.com
+crb|IXA00383838||00:1E:67:56:CF:15|SIE1-ServerRack|InUse|catriona.lucey@intel.com
+crb|IXA00383839||00:1E:67:56:9A:75|SIE1-ServerRack|InUse|catriona.lucey@intel.com
+crb|IXA00383854||00:0C:29:A1:07:D2|SIE1-ServerRack|InUse|
+crb|IXA00383873|||Shipped|InUse|
+crb|IXA00383874||74:d0:2b:95:69:8d|SIE1-RackRoom|InUse|bruce.richardson@intel.com
+crb|IXA00383875||74:d0:2b:95:69:57|SIE1-RackRoom|InUse|alan.carew@intel.com
+crb|IXA00383876||74:d0:2b:95:69:02|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00383877|||Shipped|InUse|
+crb|IXA00383878||64:70:02:10:5e:9c|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00383879||74:D0:2B:95:68:1D|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00383880|||Shipped|InUse|
+crb|IXA00383881||74:d0:2b:95:68:1f|SIE1-RackRoom|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00383935|||SIE1-SW|InUse|stephen.doyle@intel.com
+crb|IXA00383936|||SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00383937|||SIE1-RackRoom|InUse|stephen.doyle@intel.com
+crb|IXA00383938|||SIE1-RackRoom2|InUse|stephen.doyle@intel.com
+crb|IXA00384001||00:0c:29:67:72:7a|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00384024||00:E0:86:1B:BF:3B|SIE1-SV|InUse|jasonx.culligan@intel.com
+crb|IXA00384037|||SW Store|InUse|
+crb|IXA00384038|||SW Store|InUse|
+crb|IXA00384039|||SW Store|InUse|
+crb|IXA00384040|||SW Store|InUse|
+crb|IXA00384041|||SW Store|InUse|
+crb|IXA00384042|||SW Store|InUse|
+crb|IXA00384043|||SW Store|InUse|
+crb|IXA00384050||00:13:20:FB:91:C2|SIE1-SW|InUse|
+crb|IXA00384054|||SIE1-SV|InUse|krishna.j.murthy@intel.com
+crb|IXA00384075|||SIE1-SW|InUse|
+crb|IXA00384109|||SIE1-RackRoom2|InUse|maurice.j.gleeson@intel.com
+crb|IXA00384148||00:1b:21:ad:bf:c3|SIE1-ServerRack|InUse|romain.lencou@intel.com
+crb|IXA00384289||00:50:56:94:01:c5|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00384342||08:9E:01:C8:0D:FB|SIE1-RackRoom2|InUse|kim-marie.jones@intel.com
+crb|IXA00384343||08:9E:01:C8:0D:A3|SIE1-RackRoom2|InUse|kim-marie.jones@intel.com
+crb|IXA00384346||00:0c:29:b4:a3:fb|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00384381||00:1E:67:9A:C1:8B|SIE1-RackRoom|InUse|cian.ferriter@intel.com
+crb|IXA00384382||00:1E:67:9A:BC:21|SIE1-RackRoom|InUse|cian.ferriter@intel.com
+crb|IXA00384383||00:1E:67:9A:B9:88|SIE1-RackRoom|InUse|sean.harte@intel.com
+crb|IXA00384421|||SW Store|InUse|
+crb|IXA00384422|||SW Store|InUse|
+crb|IXA00384434||18:03:73:D9:70:AC|SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00384436|||Shipped|InUse|Declan.oboyle@intel.com
+crb|IXA00384437|||SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00384438|||SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00384439|||SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00384441||00:1E:67:3C:76:21|SIE1-SV|InUse|andrew.duignan@intel.com
+crb|IXA00384442||9C:8E:99:52:63:DE|SIE1-SV|InUse|andrew.duignan@intel.com
+crb|IXA00384443||00:1E:67:43:44:59|SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384444|||Shipped|InUse|john.mangan@intel.com
+crb|IXA00384446|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384447|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384448|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384449|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384450|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384451||00:1C:C4:73:C7:70|SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00384452||00:1e:67:59:78:30|SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384453||00:13:20:F9:90:01|SIE1-RackRoom|InUse|david.kennedy@intel.com
+crb|IXA00384454|||SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384455|||SIE1-RackRoom2|NotInUse|david.kennedy@intel.com
+crb|IXA00384456||00:15:17:8F:33:75|SIE1-ServerRack|InUse|david.kennedy@intel.com
+crb|IXA00384457|||SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384458|||SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384465||00:1B:21:1B:FD:A6|SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384466|||SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384483|||SIE1-SV|InUse|feix.z.wang@intel.com
+crb|IXA00384488||78:2B:CB:94:F8:E7|SIE1-SV|InUse|Declan.oboyle@intel.com
+crb|IXA00384508||00:1E:67:3C:79:82|SIE1-SV|InUse|ian.betts@intel.com
+crb|IXA00384509||00:0c:29:95:6c:5e|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00384535||94:DE:80:6E:F5:89|SIE1-SV|InUse|liang.j.ma@intel.com
+crb|IXA00384536||94:DE:80:6D:04:3A|SIE1-SV|InUse|liang.j.ma@intel.com
+crb|IXA00384566||00:08:a2:08:fc:87|SIE1-RackRoom2|InUse|kim-marie.jones@intel.com
+crb|IXA00384578||00:08:A2:09:04:19|SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00384592||00:1b:21:9c:b2:9a|WGC Lab|InUse|robert.healy@intel.com
+crb|IXA00384593||00:13:20:FF:1C:AC|WGC Lab|InUse|robert.healy@intel.com
+crb|IXA00384594||00:13:20:FF:1C:B4|WGC Lab|InUse|robert.healy@intel.com
+crb|IXA00384595||00:13:20:FF:1C:B6|Shipped|InUse|robert.healy@intel.com
+crb|IXA00384596||00:13:20:FF:1C:C6|SIE1-RackRoom2|InUse|robert.healy@intel.com
+crb|IXA00384597||00:13:20:FF:1C:B0|WGC Lab|InUse|
+crb|IXA00384598||00:13:20:FF:1C:AA|SIE1-RackRoom|InUse|greg.thomas@intel.com
+crb|IXA00384599|||WGC Lab|InUse|
+crb|IXA00384670|||SIE1-SW|InUse|liz.walsh@intel.com
+crb|IXA00384692||00:01:C0:06:C9:4A|SIE1-SW|InUse|frank.roche@intel.com
+crb|IXA00384699||00:1E:67:59:80:13|Shipped|InUse|Declan.oboyle@intel.com
+crb|IXA00384708|||SIE1-SW|InUse|krzysztofx.hoc@intel.com
+crb|IXA00384709|||SIE1-SW|InUse|sophie.lennon@intel.com
+crb|IXA00384710|||Shipped|InUse|
+crb|IXA00384711|||SIE1-SW|InUse|sophie.lennon@intel.com
+crb|IXA00384770|||SIE1-SW|InUse|
+crb|IXA00384834||00:13:20:FF:1C:E2|SIE1-SV|InUse|eoin.walsh@intel.com
+crb|IXA00384861||00:1E:67:93:5C:06|SIE1-ServerRack|InUse|sean.k.mooney@intel.com
+crb|IXA00384862||00:1E:67:93:6B:BF|SIE1-ServerRack|InUse|sean.k.mooney@intel.com
+crb|IXA00384863||00:1E:67:93:5C:A7|SIE1-ServerRack|InUse|sean.k.mooney@intel.com
+crb|IXA00384864||00:1E:67:93:59:97|SIE1-ServerRack|InUse|sean.k.mooney@intel.com
+crb|IXA00384865||00:1E:67:93:5A:38|SIE1-ServerRack|InUse|david.mahony@intel.com
+crb|IXA00384866||00:1E:67:98:52:7B|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00384867||00:1E:67:92:CF:18|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00384868||00:1E:67:93:59:27|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00384869||00:1E:67:93:5C:7D|SIE1-ServerRack|InUse|james.p.chapman@intel.com
+crb|IXA00384876|||SIE1-SV|InUse|
+crb|IXA00384877|||SIE1-SV|InUse|
+crb|IXA00384878||00:1E:67:3c:79:43|SIE1-SV|InUse|kevin.devey@intel.com
+crb|IXA00384880||00:1B:21:43:51:34|SIE1-SV|InUse|
+crb|IXA00384881|||SIE1-SW|InUse|
+crb|IXA00384901||00:1E:67:56:C8:9a|SIE1-SW|InUse|michael.a.ohanlon@intel.com
+crb|IXA00384904||00:13:20:fd:f9:3d|SIE1-SV|InUse|renjithgopal.pananchikkal@intel.com
+crb|IXA00384905||00:1e:67:2c:78:f7|SIE1-SV|InUse|renjithgopal.pananchikkal@intel.com
+crb|IXA00384906||18:03:73:c6:bc:d6|SIE1-SV|InUse|renjithgopal.pananchikkal@intel.com
+crb|IXA00384907||00:15:17:af:76:68|SIE1-SV|InUse|renjithgopal.pananchikkal@intel.com
+crb|IXA00384908||78:ac:c0:be:4a:45|SIE1-SV|InUse|renjithgopal.pananchikkal@intel.com
+crb|IXA00384938|||SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00384939|||SIE1-SW|InUse|robert.healy@intel.com
+crb|IXA00384961|||SV Store|InUse|greg.thomas@intel.com
+crb|IXA00384991|||SIE1-SV|InUse|
+crb|IXA00384993|||SIE1-SW|InUse|
+crb|IXA00384994|||SIE1-SW|InUse|
+crb|IXA00384995|||SIE1-RackRoom2|InUse|thomas.long@intel.com
+crb|IXA00384996|||SIE1-ServerRack|InUse|claire.k.murphy@intel.com
+crb|IXA00385004|||SW Store|NotInUse|
+crb|IXA00385031|||SW Store|InUse|
+crb|IXA00385032|||Shipped|InUse|
+crb|IXA00385033|||Shipped|InUse|
+crb|IXA00385036||00:1E:67:99:68:FC|SIE1-ServerRack|InUse|thomas.long@intel.com
+crb|IXA00385037|||SIE1-ServerRack|InUse|andrey.chilikin@intel.com
+crb|IXA00385038|||SIE1-ServerRack|InUse|andrey.chilikin@intel.com
+crb|IXA00385039|||SIE1-RackRoom|InUse|andrey.chilikin@intel.com
+crb|IXA00385043||00:15:5d:12:d6:0e|SIE1-ServerRack|InUse|
+crb|IXA00385048|||Shipped|InUse|
+crb|IXA00385049|||Shipped|InUse|
+crb|IXA00385066||00:15:5d:12:d6:0f|SIE1-ServerRack|InUse|
+crb|IXA00385099|||SV Store|InUse|
+crb|IXA00385117|||SV Store|NotInUse|
+crb|IXA00385119|||SW Store|NotInUse|
+crb|IXA00385121|||SW Store|NotInUse|
+crb|IXA00385123|||SW Store|NotInUse|
+crb|IXA00385124|||SW Store|NotInUse|
+crb|IXA00385130|||WGC Lab|NotInUse|
+crb|IXA00385131|||WGC Lab|NotInUse|
+crb|IXA00385133|||SW Store|InUse|
+crb|IXA00385137||00:1E:67:8E:E3:61|SIE1-RackRoom2|InUse|brendan.ryan@intel.com
+crb|IXA00385138|||SV Store|InUse|sean.k.mooney@intel.com
+crb|IXA00385139|||SIE1-SV|InUse|
+crb|IXA00385140|||SIE1-SV|InUse|
+crb|IXA00385141|||SV Store|InUse|sean.k.mooney@intel.com
+crb|IXA00385142|||SV Store|InUse|sean.k.mooney@intel.com
+crb|IXA00385143|||SIE1-SV|InUse|
+crb|IXA00385144|||SV Store|InUse|
+crb|IXA00385145|||SIE1-SV|InUse|
+crb|IXA00385146|||SV Store|InUse|
+crb|IXA00385174|||SIE1-SV|InUse|tomasz.motyl@intel.com
+crb|IXA00385185|||WGC Lab|NotInUse|
+crb|IXA00385186|||WGC Lab|NotInUse|
+crb|IXA00385189|||WGC Lab|InUse|
+crb|IXA00385190|||SW Store|InUse|
+crb|IXA00385191|||WGC Lab|InUse|
+crb|IXA00385192|||WGC Lab|InUse|
+crb|IXA00385193|||WGC Lab|InUse|
+crb|IXA00385194|||SW Store|InUse|
+crb|IXA00385195|||SIE1-SV|InUse|
+crb|IXA00385196|||SIE1-RackRoom2|InUse|john.griffin@intel.com
+crb|IXA00385197|||SIE1-RackRoom|InUse|robert.healy@intel.com
+crb|IXA00385198|||WGC Lab|InUse|
+crb|IXA00385200|||SIE1-ServerRack|InUse|
+crb|IXA00385201||00:1E:67:59:85:0D|SIE1-ServerRack|InUse|
+crb|IXA00385202|||SIE1-ServerRack|InUse|
+crb|IXA00385203|||SIE1-ServerRack|InUse|
+crb|IXA00385219||00:1E:67:89:93:A7|SIE1-RackRoom2|InUse|sean.k.mooney@intel.com
+crb|IXA00385220||00:1E:67:8E:ED:08|SIE1-RackRoom2|InUse|sean.k.mooney@intel.com
+crb|IXA00385221||00:1E:67:8E:EB:AA|SIE1-RackRoom2|InUse|sean.k.mooney@intel.com
+crb|IXA00385222||00:1E:67:89:A1:37|SIE1-RackRoom2|InUse|
+crb|IXA00385223||00:1E:67:89:93:FB|SIE1-RackRoom2|InUse|
+crb|IXA00385224||00:1E:67:89:90:89|SIE1-RackRoom2|InUse|
+crb|IXA00385225||00:1E:67:98:48:25|SIE1-RackRoom2|InUse|james.p.chapman@intel.com
+crb|IXA00385226||00:1E:67:89:9B:17|SIE1-RackRoom2|InUse|james.p.chapman@intel.com
+crb|IXA00385227||00:1E:67:A8:F6:F7|SIE1-RackRoom2|InUse|james.p.chapman@intel.com
+crb|IXA00385228||00:1E:67:89:9B:B1|SIE1-RackRoom2|InUse|david.mahony@intel.com
+crb|IXA00385229||00:1E:67:89:8F:47|SIE1-RackRoom2|InUse|david.mahony@intel.com
+crb|IXA00385230||00:1E:67:89:90:66|SIE1-RackRoom2|InUse|david.mahony@intel.com
+crb|IXA00385231||00:1E:67:89:9A:CA|SIE1-RackRoom2|InUse|przemyslaw.czesnowicz@intel.com
+crb|IXA00385232||00:1E:67:89:A0:42|SIE1-RackRoom2|InUse|przemyslaw.czesnowicz@intel.com
+crb|IXA00385233||00:1E:67:89:A0:F1|SIE1-RackRoom2|InUse|przemyslaw.czesnowicz@intel.com
+crb|IXA00385238|||SIE1-RackRoom2|InUse|
+crb|IXA00385239|||SIE1-RackRoom2|InUse|
+crb|IXA00385264||1c:6f:65:9c:fa:a1|SIE1-SV|InUse|william.redmond@intel.com
+crb|IXA00385277|||SIE1-SW|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00385278|||SIE1-SW|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00385294||74:D0:2B:93:0E:09|SIE1-RackRoom|InUse|alan.carew@intel.com
+crb|IXA00385304|||SIE1-ServerRack|InUse|sean.k.mooney@intel.com
+crb|IXA00385330|||SW Store|InUse|
+crb|IXA00385331|||SW Store|InUse|
+crb|IXA00385332|||SW Store|InUse|
+crb|IXA00385333|||SW Store|InUse|
+crb|IXA00385334|||SW Store|InUse|
+crb|IXA00385339|||SW Store|InUse|
+crb|IXA00385340|||SW Store|InUse|
+crb|IXA00385346|||SW Store|InUse|
+crb|IXA00385351||00:13:20:FF:1D:00|SIE1-SW|NotInUse|greg.thomas@intel.com
+crb|IXA00385352||00:13:20:FF:1D:0C|SIE1-RackRoom|NotInUse|robert.healy@intel.com
+crb|IXA00385353|||SW Store|NotInUse|
+crb|IXA00385356|||SW Store|NotInUse|
+crb|IXA00385366|||SW Store|NotInUse|
+crb|IXA00385382||00:1E:67:7B:36:73|SIE1-ServerRack|InUse|
+crb|IXA00385383|||SIE1-RackRoom|InUse|meghan.halton@intel.com
+crb|IXA00385417|||SIE1-SV|NotInUse|
+crb|IXA00385418|||SV Store|InUse|
+crb|IXA00385421|||SIE1-SW|NotInUse|greg.thomas@intel.com
+crb|IXA00385422|||SW Store|NotInUse|muralix.annamneni@intel.com
+crb|IXA00385424|||SW Store|NotInUse|muralix.annamneni@intel.com
+crb|IXA00385425|||SIE1-SW|InUse|catriona.lucey@intel.com
+crb|IXA00385426|||SIE1-SW|NotInUse|catriona.lucey@intel.com
+crb|IXA00385445||00:1E:67:94:25:F1|SIE1-ServerRack|InUse|tomasz.kantecki@intel.com
+crb|IXA00385502||E4:11:5B:27:8E:02|SIE1-SW|InUse|
+crb|IXA00385515|||SIE1-RackRoom|NotInUse|greg.thomas@intel.com
+crb|IXA00385516|||SIE1-ServerRack|NotInUse|greg.thomas@intel.com
+crb|IXA00385517|||SIE1-ServerRack|NotInUse|greg.thomas@intel.com
+crb|IXA00385518|||SIE1-RackRoom2|NotInUse|laurent.m.coquerel@intel.com
+crb|IXA00385519|||SW Store|NotInUse|muralix.annamneni@intel.com
+crb|IXA00385520|||SIE1-SW|NotInUse|greg.thomas@intel.com
+crb|IXA00385521|||SIE1-SW|NotInUse|greg.thomas@intel.com
+crb|IXA00385522|||SIE1-RackRoom|NotInUse|tony.walsh@intel.com
+crb|IXA00385523|||SIE1-SW|NotInUse|greg.thomas@intel.com
+crb|IXA00385524|||SIE1-RackRoom2|NotInUse|laurent.m.coquerel@intel.com
+crb|IXA00385528|||SV Store|InUse|
+crb|IXA00385529|||SV Store|InUse|
+crb|IXA00385610|||SW Store|InUse|jasonx.culligan@intel.com
+crb|IXA00385646||00:1E:67:81:B4:6E|Shipped|InUse|kevin.devey@intel.com
+crb|IXA00385708||00:0c:29:c1:99:b2|SIE1-ServerRack|InUse|
+crb|IXA00385709||00:0c:29:41:1b:79|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00385710||00:0c:29:15:54:05|SIE1-ServerRack|InUse|
+crb|IXA00385711||00:0c:29:34:31:2d|SIE1-ServerRack|InUse|
+crb|IXA00385752||00:0c:29:82:e8:3d|SIE1-ServerRack|InUse|jasonx.culligan@intel.com
+crb|IXA00385814|||SIE1-SW|InUse|
+crb|IXA00385815|||SIE1-SW|InUse|
+crb|IXA00385816|||SIE1-SW|InUse|
+crb|IXA00385817|||SIE1-SW|InUse|
+crb|IXA00385818|||SIE1-SW|InUse|
+crb|IXA00385822|||SIE1-RackRoom|InUse|muralix.annamneni@intel.com
+crb|IXA00385831||74:D0:2B:93:0D:75|SIE1-RackRoom|InUse|konstantin.ananyev@intel.com
+crb|IXA00385832||74:D0:2B:93:0D:41|SIE1-RackRoom|InUse|konstantin.ananyev@intel.com
+crb|IXA00385833||74:d0:2b:93:0c:f6|SIE1-ServerRack|InUse|romain.lencou@intel.com
+crb|IXA00385834|||SV Store|InUse|
+crb|IXA00385835|||SV Store|InUse|
+crb|IXA00385839|||SW Store|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00385840|||SW Store|InUse|pablo.de.lara.guarch@intel.com
+crb|IXA00385844|||SV Store|InUse|
+crb|IXA00385846|||SV Store|InUse|
+crb|IXA00385863|||SIE1-SV|InUse|
+crb|IXA00385909|||Scrapped|InUse|
+crb|IXA00385912|||Scrapped|InUse|
+crb|IXA00385929|||SW Store|InUse|
+crb|IXA00385938||00:1e:67:a8:4e:91|SIE1-ServerRack|InUse|rory.sexton@intel.com
+crb|IXA00385939|||Unknown|InUse|john.griffin@intel.com
+crb|IXA00385949||00:1E:67:59:77:AB|SIE1-SV|InUse|
+crb|IXA00385961||00:1E:67:A8:4F:CC|SIE1-RackRoom|InUse|rory.sexton@intel.com
+crb|IXA00385966||00:26:22:76:c2:c8|SIE1-SW|InUse|
+crb|IXA00386010||00:1e:67:59:81:a9|SIE1-SV|InUse|marcin.wrzeszcz@intel.com
+crb|IXA00386023||e0:cb:4e:c5:d1:3e|SIE1-SW|InUse|leonardo.potenza@intel.com
+crb|IXA00386024||78:54:2E:E6:0A:E9|SIE1-SV|InUse|
+crb|IXA00386025||00:13:20:fd:df:55|SIE1-SV|InUse|
+crb|IXA00386030||e0:db:55:b9:5d:ac|SIE1-SV|InUse|
+crb|IXA00386048|||SIE1-SV|InUse|
+crb|IXA00386049|||SIE1-SV|InUse|
+crb|IXA00386112|||SV Store|InUse|
+crb|IXA00386113|||SV Store|InUse|
+crb|IXA00386114|||SV Store|InUse|
+crb|IXA00386115|||SV Store|InUse|
+crb|IXA00386116|||SV Store|InUse|
+crb|IXA00386117||74:D4:35:9D:00:16|SIE1-RackRoom|InUse|cian.ferriter@intel.com
+crb|IXA00386118||74:d4:35:9d:00:0f|SIE1-RackRoom|InUse|sinead.murtagh@intel.com
+crb|IXA00386119|||SV Store|InUse|
+crb|IXA00386120|||SV Store|InUse|
+crb|IXA00386121||74:D4:35:9D:00:E8|SIE1-RackRoom|InUse|jack.beegan@intel.com
+crb|IXA00386132|||SIE1-SW|InUse|
+crb|IXA00386133|||SIE1-SW|InUse|
+crb|IXA00386134||68:05:CA:08:6B:56|SIE1-ServerRack|InUse|robert.healy@intel.com
+crb|IXA00386135|||SIE1-RackRoom|InUse|
+crb|IXA00386136|||SW Store|InUse|
+crb|IXA00386137|||SW Store|InUse|
+crb|IXA00386138|||SW Store|InUse|
+crb|IXA00386139|||SIE1-SW|InUse|
+crb|IXA00386140|||SIE1-SW|InUse|
+crb|IXA00386175||00:1E:67:59:77:19|SIE1-SV|InUse|david.kennedy@intel.com
+crb|IXA00386182|||SIE1-SW|InUse|
+crb|IXA00386185|||SW Store|InUse|
+crb|IXA00386186|||SW Store|InUse|
+crb|IXA00386193|||SV Store|InUse|
+crb|IXA00386194|||SV Store|InUse|
+crb|IXA00386195|||SV Store|InUse|
+crb|IXA00386197|||SV Store|InUse|
+crb|IXA00386198|||SV Store|InUse|
+crb|IXA00386251||00:1B:21:9C:B1:55|SIE1-SW|InUse|peter.j.obrien@intel.com
+crb|IXA00386265|||SIE1-SV|InUse|renjithgopal.pananchikkal@intel.com
+crb|IXA00386272|||SW Store|InUse|robert.healy@intel.com
+crb|IXA00386352||00:1E:67:43:46:B3|SIE1-SV|InUse|kevin.devey@intel.com
+crb|IXA00386359|||SV Store|InUse|
+crb|IXA00386360|||SV Store|InUse|
+crb|IXA00386361|||SIE1-SW|InUse|jack.beegan@intel.com
+crb|IXA00386362|||SV Store|InUse|jack.beegan@intel.com
+crb|IXA00386363|||SV Store|InUse|
+crb|IXA00386364|||SV Store|InUse|
+crb|IXA00386365|||SV Store|InUse|
+crb|IXA00386366|||SV Store|InUse|
+crb|IXA00386386||00:1E:67:43:3F:27|SIE1-SV|InUse|gordon.kelly@intel.com
+crb|IXA00386388|||SIE2-TME|InUse|david.kennedy@intel.com
+crb|IXA00386395|||SV Store|InUse|
+crb|IXA00386396|||SV Store|InUse|
+crb|IXA00386397|||SV Store|InUse|
+crb|IXA00386404||00:26:2D:F7:93:B6|SIE1-SW|InUse|caroline.mcmahon@intel.com
+crb|IXA00386483|||SIE1-RackRoom2|InUse|muralix.annamneni@intel.com
+crb|IXA00386506|||SIE1-SW|InUse|
+crb|IXA00386507|||SIE1-SW|InUse|
+crb|IXA00386508|||SIE1-SW|InUse|
+crb|IXA00386509|||SIE1-SW|InUse|
+crb|IXA00386539|||Shipped|InUse|
+crb|IXA00386598|||SIE1-SV|InUse|john.mangan@intel.com
+crb|IXA00386652|||SIE1-RackRoom|InUse|
+crb|IXA00386653||00:0c:29:f9:64:8f|SIE1-ServerRack|InUse|
+crb|IXA00386660|||SV Store|InUse|
+crb|IXA00386661|||SV Store|InUse|
+crb|IXA00386662|||SV Store|InUse|
+crb|IXA00386663|||SV Store|InUse|
+crb|IXA00386667|||SIE1-SW|InUse|
+crb|IXA00386695|||SIE1-SV|InUse|kevin.devey@intel.com
+crb|IXA00386722|||SIE1-SW|InUse|
+crb|IXA00386723|||SW Store|InUse|
+crb|IXA00386724|||SW Store|InUse|
+crb|IXA00386725|||SW Store|InUse|
+crb|IXA00386726|||SW Store|InUse|
+crb|IXA00386727|||SW Store|InUse|
+crb|IXA00386728|||SW Store|InUse|
+crb|IXA00386729|||SW Store|InUse|
+crb|IXA00386730|||SW Store|InUse|
+crb|IXA00386746|||SW Store|InUse|
+crb|IXA00386749|||SW Store|InUse|
+crb|IXA00386750|||SW Store|InUse|
+crb|IXA00386751|||SW Store|InUse|
+crb|IXA00386752|||SW Store|InUse|
+crb|IXA00386753|||SW Store|InUse|
+crb|IXA00386754|||SW Store|InUse|
+crb|IXA00386755|||SW Store|InUse|
+crb|IXA00386778|||SIE1-SV|InUse|
+crb|IXA00386779|||SIE1-SV|InUse|
+crb|IXA00386780|||SIE1-SV|InUse|
+crb|IXA00386784|||SV Store|InUse|
+crb|IXA00386785|||SV Store|InUse|
+crb|IXA00386786|||SV Store|InUse|
+crb|IXA00386787|||SV Store|InUse|
+crb|IXA00386788|||SV Store|InUse|
+crb|IXA00386789|||SV Store|InUse|
+asset|IXA00303748|10.243.18.197|00:00:00:00:00:02|SIE1-SW|Available
+asset|IXA00303749|||SIE1-SW|Available
+asset|IXA00303750|||SIE1-SW|Available
+asset|IXA00303751|||SW Store|Available
+asset|IXA00303752|||SIE1-SW|Available
+asset|IXA00303753|||SIE1-SW|Available
+asset|IXA00303754|||SIE1-SW|Available
+asset|IXA00303755|||SIE1-SW|Available
+asset|IXA00303756|||SIE1-SW|Available
+asset|IXA00303757|||SIE1-SW|Available
+asset|IXA00303758|||SIE1-SW|Available
+asset|IXA00303759|||SIE1-SW|Available
+asset|IXA00303760|||SIE1-SW|Available
+asset|IXA00303761|||SIE1-SW|Available
+asset|IXA00303762|||Offsite storage|Available
+asset|IXA00303763|||SIE1-SV|Available
+asset|IXA00303764|||SIE1-SW|Available
+asset|IXA00303765|||SIE1-SW|Available
+asset|IXA00303766|||SIE1-SW|Available
+asset|IXA00303767|||SIE1-SW|Available
+asset|IXA00303768|10.237.212.115|00:00:00:00:00:06|Shipped|Available
+asset|IXA00303769|||SIE1-SW|Available
+asset|IXA00303770|||SIE1-SW|Faulty
+asset|IXA00303771|||Offsite storage|Available
+asset|IXA00303772|||SIE1-SW|Available
+asset|IXA00303773|||SIE1-SW|Available
+asset|IXA00303774|||SIE1-SW|Available
+asset|IXA00303775|||SIE1-SW|Available
+asset|IXA00303776|||SIE1-SW|Available
+asset|IXA00303777|||SIE1-SW|Available
+asset|IXA00303778|||SIE1-SW|Available
+asset|IXA00303779|||SIE1-SW|Available
+asset|IXA00303780|||SIE1-SV|Available
+asset|IXA00303781|||Offsite storage|Available
+asset|IXA00303782|||SIE1-SW|Available
+asset|IXA00303783|||SIE1-SW|Available
+asset|IXA00303784|||SIE1-SV|Available
+asset|IXA00303785|||SIE1-SV|Available
+asset|IXA00303786|||SIE1-SW|Available
+asset|IXA00303787|||SIE1-SW|Available
+asset|IXA00303788|||SIE1-SW|Available
+asset|IXA00303789|||SIE1-SW|Available
+asset|IXA00303790||22:23:23:23:23:23|SIE1-RackRoom|Available
+asset|IXA00303791|||SIE1-SW|Available
+asset|IXA00303792|||SIE1-SW|Available
+asset|IXA00303793|||SIE1-SW|Available
+asset|IXA00303794|||SIE1-SW|Available
+asset|IXA00303795|||SIE1-SW|Available
+asset|IXA00303796|||SIE1-SW|Available
+asset|IXA00303797|||SIE1-SW|Available
+asset|IXA00303798|||Shipped|Available
+asset|IXA00303799|||Shipped|Available
+asset|IXA00303800|||SIE1-RackRoom|Available
+asset|IXA00303801|||SIE1-RackRoom|Available
+asset|IXA00303802|||SIE1-SW|Available
+asset|IXA00303803|||Shipped|Available
+asset|IXA00303804|||Shipped|Available
+asset|IXA00303805|||SIE1-SW|Available
+asset|IXA00303806|||SIE1-SW|Available
+asset|IXA00303807|||SIE1-SW|Available
+asset|IXA00303808|||SIE1-SW|Available
+asset|IXA00303809|||Shipped|Available
+asset|IXA00303810|||SIE1-SW|Available
+asset|IXA00303811|||SIE1-SW|Available
+asset|IXA00303812|||SIE1-SW|Available
+asset|IXA00303813|||SIE1-SW|Available
+asset|IXA00303814|||SIE1-SW|Available
+asset|IXA00303815|||SIE1-SW|Available
+asset|IXA00303816|||SIE1-SW|Available
+asset|IXA00303817|||SIE1-SW|Available
+asset|IXA00303818|||SIE1-SW|Available
+asset|IXA00303819|||SIE1-SW|Available
+asset|IXA00303820|||SIE1-SW|Available
+asset|IXA00303821|||SIE1-SW|Available
+asset|IXA00303822|||SIE1-SW|Available
+asset|IXA00303823|||SIE1-SW|Available
+asset|IXA00303824|||SIE1-SW|Available
+asset|IXA00303825|||SIE1-SW|Available
+asset|IXA00303826|||SIE1-SW|Available
+asset|IXA00303827|||SIE1-SW|Available
+asset|IXA00303828|||SIE1-SW|Available
+asset|IXA00303829|||SIE1-SW|Available
+asset|IXA00303830|||SIE1-SW|Available
+asset|IXA00303831|||SIE1-SW|Available
+asset|IXA00303832|||SIE1-SW|Available
+asset|IXA00303833|||SIE1-SW|Available
+asset|IXA00303834|||SIE1-SW|Available
+asset|IXA00303835|||SIE1-SW|Available
+asset|IXA00303836|||SIE1-SW|Available
+asset|IXA00303837|||SIE1-SW|Available
+asset|IXA00303838|||SIE1-SW|Available
+asset|IXA00303839|||SIE1-SW|Available
+asset|IXA00303840|||SIE1-SW|Available
+asset|IXA00303841|||SIE1-SW|Available
+asset|IXA00303842|||SIE1-SW|Available
+asset|IXA00303843|||SIE1-SW|Available
+asset|IXA00303844|||SIE1-SW|Available
+asset|IXA00303845|||SIE1-SW|Available
+asset|IXA00303846|||SIE1-SW|Available
+asset|IXA00303847|||SIE1-SW|Available
+asset|IXA00303848|||SIE1-SW|Available
+asset|IXA00303849|||SIE1-SW|Available
+asset|IXA00303850|||Offsite storage|Available
+asset|IXA00303851|||SIE1-SW|Available
+asset|IXA00303852|||SIE1-SW|Available
+asset|IXA00303853|||SIE1-SW|Available
+asset|IXA00303854|||SIE1-SW|Available
+asset|IXA00303855|||SIE1-SW|Available
+asset|IXA00303856|||SIE1-SW|Available
+asset|IXA00303857|||Offsite storage|Available
+asset|IXA00303858|||Offsite storage|Available
+asset|IXA00303859|||Offsite storage|Available
+asset|IXA00303860|||SIE1-SW|Available
+asset|IXA00303861|||SIE1-SW|Available
+asset|IXA00303862|||SIE1-SW|Available
+asset|IXA00303863|||SIE1-SW|Available
+asset|IXA00303864|||SIE1-SW|Available
+asset|IXA00303865|||SIE1-SW|Available
+asset|IXA00303866|||SIE1-SW|Available
+asset|IXA00303867|||Offsite storage|Available
+asset|IXA00303868|||Shipped|Available
+asset|IXA00303869|||SIE1-SW|Available
+asset|IXA00303870|||Shipped|Available
+asset|IXA00303871|||Shipped|Available
+asset|IXA00303872|||SIE1-SW|Available
+asset|IXA00303873|||SIE1-SW|Available
+asset|IXA00303874|||SIE2-TME|Available
+asset|IXA00303875|||SIE1-SW|Available
+asset|IXA00303876|||SIE1-SW|Available
+asset|IXA00303877|||Shipped|Available
+asset|IXA00303878|||SIE1-SW|Available
+asset|IXA00303879|||Shipped|Available
+asset|IXA00303880|||SIE1-SW|Faulty
+asset|IXA00303881|||SIE1-SW|Available
+asset|IXA00303882|||SIE1-SW|Available
+asset|IXA00303883|||SIE1-SW|Available
+asset|IXA00303884|||SIE1-SW|Available
+asset|IXA00303885|||SIE1-SW|Available
+asset|IXA00303886|||SIE1-SW|Available
+asset|IXA00303887|||SIE1-SW|Reserved
+asset|IXA00303888|||SIE1-SW|Available
+asset|IXA00303889|||SIE1-SW|Available
+asset|IXA00303890|||SIE1-SW|Available
+asset|IXA00303891|||SIE1-SW|Available
+asset|IXA00303892|||SIE1-SW|Available
+asset|IXA00303893|||SIE1-SW|Available
+asset|IXA00303894|||SIE1-SW|Available
+asset|IXA00303895|||SIE1-SW|Available
+asset|IXA00303896|||SIE1-SW|Available
+asset|IXA00303897|||SIE1-SW|Available
+asset|IXA00303898|||SIE1-SW|Available
+asset|IXA00303899|||SIE1-SW|Available
+asset|IXA00303900|||SIE1-SW|Available
+asset|IXA00303901|||SIE1-SW|Available
+asset|IXA00303902|||Offsite storage|Available
+asset|IXA00303903|||SIE1-SW|Available
+asset|IXA00303904|||Offsite storage|Faulty
+asset|IXA00303906|||SIE1-SW|Available
+asset|IXA00303907|||SIE1-SW|Available
+asset|IXA00303908|||SIE1-SW|Available
+asset|IXA00303909|||SIE1-SW|Available
+asset|IXA00303910|||SIE1-SW|Available
+asset|IXA00303911|||SIE1-SW|Available
+asset|IXA00303912|||SIE1-SW|Available
+asset|IXA00303913||00:00:00:00:00:12|SIE1-SW|Available
+asset|IXA00303914|||SIE1-SW|Available
+asset|IXA00303915|||Shipped|Available
+asset|IXA00303916|||SIE1-SW|Available
+asset|IXA00303917|||SIE1-SW|Available
+asset|IXA00303918|||SIE1-SV|Available
+asset|IXA00303919|||SIE1-SW|Available
+asset|IXA00303920|10.237.212.86|00:00:00:00:00:05|SIE1-RackRoom|Available
+asset|IXA00303921|||SIE1-RackRoom|Available
+asset|IXA00303922|||Offsite storage|Available
+asset|IXA00303923|10.237.212.242|00:00:00:00:00:08|SIE1-SW|Available
+asset|IXA00303924|||Offsite storage|Available
+asset|IXA00303925|||SIE1-SW|Available
+asset|IXA00303926|||SIE1-SW|Available
+asset|IXA00303927|||SIE1-RackRoom|Available
+asset|IXA00303928||00:14:5E:C9:30:38|SIE1-SW|Available
+asset|IXA00303929||00:09:6B:A7:5B:7B|SIE1-ServerRack|Reserved
+asset|IXA00303930|||Scrapped|Faulty
+asset|IXA00303931|||SIE1-SW|Available
+asset|IXA00303932|||SIE1-SW|Available
+asset|IXA00303933|10.243.18.237|00:09:6B:52:4C:8E|SIE1-SW|Available
+asset|IXA00303934||00:14:5E:45:DB:C1|SIE1-SW|Available
+asset|IXA00303935|||SIE1-SW|Available
+asset|IXA00303936|||SIE1-SW|Available
+asset|IXA00303937|||SW Store|Available
+asset|IXA00303938|10.243.18.185||Shipped|Available
+asset|IXA00303939||00:0F:FE:56:11:5D|SIE1-ServerRack|Available
+asset|IXA00303940||00:0F:FE:56:11:D5|SV Store|Available
+asset|IXA00303941|||SIE1-SW|Available
+asset|IXA00303942|||SIE1-SW|Available
+asset|IXA00303943|||SIE1-SV|Available
+asset|IXA00303944|||SIE1-SW|Available
+asset|IXA00303945||00:09:6b:a7:54:40|SV Store|Available
+asset|IXA00303946|||SIE1-SV|Available
+asset|IXA00303947||00:0F:FE:56:11:7D|SIE1-SW|Reserved
+asset|IXA00303948||00:09:6B:45:36:B3|SW Store|Available
+asset|IXA00303949|||Scrapped|Faulty
+asset|IXA00303950|||SIE1-SW|Available
+asset|IXA00303951||00:1E:2A:C1:69:C8|SIE1-SV|Available
+asset|IXA00303952|10.237.212.128|00:1b:21:1d:4c:fb|SIE1-RackRoom|Reserved
+asset|IXA00303953|10.243.18.228|00:0D:60:21:66:AF|SIE1-SW|Available
+asset|IXA00303954|10.243.18.120|00:21:5A:E8:45:13|SIE1-SW|Available
+asset|IXA00303955||00:0F:FE:56:11:F3|SV Store|Available
+asset|IXA00303956|10.243.18.54|00:0F:FE:56:10:93|SIE1-SW|Available
+asset|IXA00303957||00:0F:FE:56:11:E5|SIE1-ServerRack|Available
+asset|IXA00303958||00:0E:0C:74:F5:11|SIE1-ServerRack|Available
+asset|IXA00303959||00:0D:60:17:52:B6|SIE1-ServerRack|Available
+asset|IXA00303960||00:0D:60:17:52:60|SIE1-ServerRack|Available
+asset|IXA00303961|10.243.18.92|00:09:6B:9D:A6:96|SIE1-SW|Available
+asset|IXA00303962|||SIE1-SW|Available
+asset|IXA00303963|10.237.213.36|00:0F:FE:56:11:59|SIE1-ServerRack|Available
+asset|IXA00303964||00:40:05:08:e7:8D|SIE1-ServerRack|Available
+asset|IXA00303965|||SIE1-SW|Available
+asset|IXA00303966|||SIE1-SW|Available
+asset|IXA00303967|10.237.213.225|00:0F:FE:56:12:0B|SV Store|Available
+asset|IXA00303968|||Scrapped|Faulty
+asset|IXA00303969|10.243.18.236|00:0D:60:21:66:2F|SIE1-SW|Available
+asset|IXA00303970|10.237.213.239|00:09:6B:07:FC:D3|SV Store|Available
+asset|IXA00303971|||SW Store|Available
+asset|IXA00303972|10.237.213.92|00:14:5E:45:DC:9C|SIE1-ServerRack|Available
+asset|IXA00303973||00:0E:0C:74:F4:CB|SIE1-SW|Available
+asset|IXA00303974|||Scrapped|Faulty
+asset|IXA00303975|10.237.213.190|00:0F:FE:56:11:E5|SIE1-ServerRack|Reserved
+asset|IXA00303976|||Scrapped|Faulty
+asset|IXA00303977|||Scrapped|Faulty
+asset|IXA00303978|||Scrapped|Faulty
+asset|IXA00303979|||Scrapped|Faulty
+asset|IXA00303980|||SIE1-SW|Available
+asset|IXA00303981|||Scrapped|Faulty
+asset|IXA00303982|||Scrapped|Faulty
+asset|IXA00303983|||Scrapped|Faulty
+asset|IXA00303984|||SIE1-SW|Available
+asset|IXA00303985|||SV Store|Faulty
+asset|IXA00303986|||Scrapped|Faulty
+asset|IXA00303987|10.237.213.248|00:02:55:1a:81:de|SV Store|Available
+asset|IXA00303988|||Scrapped|Faulty
+asset|IXA00303989|10.243.18.95||Shipped|Available
+asset|IXA00303990|||Scrapped|Faulty
+asset|IXA00303991|||Scrapped|Faulty
+asset|IXA00303992|||SW Store|Available
+asset|IXA00303993|||Scrapped|Faulty
+asset|IXA00303994|||Scrapped|Faulty
+asset|IXA00303995|10.243.18.94|00:10:DC:CC:6E:BF|SIE1-SW|Available
+asset|IXA00303996||00:1B:21:9C:B1:45|SIE1-ServerRack|Available
+asset|IXA00303997|10.237.213.216|00:14:5e:1e:57:ec|SIE1-ServerRack|Available
+asset|IXA00303998||00:14:5E:45:D0:04|SV Store|Available
+asset|IXA00303999||00:15:17:14:11:27|SV Store|Available
+asset|IXA00304000||00:15:17:14:11:5a|SV Store|Available
+asset|IXA00304001|||SIE1-SW|Available
+asset|IXA00304002|10.237.213.180|00:09:6B:07:C7:C0|SIE1-ServerRack|Available
+asset|IXA00304003||00:0D:60:17:51:A3|SIE1-ServerRack|Available
+asset|IXA00304004|||SIE1-SW|Available
+asset|IXA00304005|||SIE1-SW|Available
+asset|IXA00304006|||SIE1-SW|Available
+asset|IXA00304007|10.237.213.148|00:14:5E:C9:2F:E1|SV Store|Available
+asset|IXA00304008||00:14:5E:45:BF:FB|SIE1-ServerRack|Available
+asset|IXA00304009|10.243.18.96|00:09:6B:67:7A:30|SIE1-SW|Reserved
+asset|IXA00304010||00:0F:FE:61:F8:b0|SV Store|Available
+asset|IXA00304011||00:0F:FE:61:F9:A8|SIE1-ServerRack|Reserved
+asset|IXA00304012||00:0E:0C:81:54:D7|SIE1-ServerRack|Reserved
+asset|IXA00304013||00:0F:FE:61:F8:EE|SV Store|Available
+asset|IXA00304014|10.237.213.100|00:40:05:08:E7:91|SIE1-ServerRack|Available
+asset|IXA00304015|||Scrapped|Faulty
+asset|IXA00304016||00:0f:fe:61:f8:c2|SIE1-SW|Available
+asset|IXA00304017|||SIE1-SW|Available
+asset|IXA00304018|||SIE1-SW|Available
+asset|IXA00304019|||SIE1-SV|Available
+asset|IXA00304020|||SIE1-SW|Available
+asset|IXA00304021|||SIE1-SV|Available
+asset|IXA00304022|||SW Store|Available
+asset|IXA00304023|||SIE1-SW|Available
+asset|IXA00304024|||SIE1-SW|Available
+asset|IXA00304025|||SIE1-SW|Available
+asset|IXA00304026|||SIE1-SW|Available
+asset|IXA00304027|||SIE2-TME|Available
+asset|IXA00304028|||SIE1-SW|Available
+asset|IXA00304029|||SW Store|Available
+asset|IXA00304030|||SW Store|Available
+asset|IXA00304031|||SIE1-SW|Available
+asset|IXA00304032|||SIE1-SW|Available
+asset|IXA00304033|||SIE1-SW|Available
+asset|IXA00304034|||SIE1-SW|Available
+asset|IXA00304035|||SIE1-SW|Available
+asset|IXA00304036|||SIE1-SW|Available
+asset|IXA00304037|||SIE1-SV|Available
+asset|IXA00304038|||SIE1-SV|Available
+asset|IXA00304039|||SIE1-SV|Available
+asset|IXA00304040|||SIE1-SW|Available
+asset|IXA00304041|||SIE1-SW|Available
+asset|IXA00304042|||SIE1-SW|Available
+asset|IXA00304043|||SIE1-SW|Available
+asset|IXA00304044|||SIE1-SW|Available
+asset|IXA00304045|||SW Store|Available
+asset|IXA00304046|||Shipped|Available
+asset|IXA00304047|||SW Store|Available
+asset|IXA00304048|||SIE1-SW|Available
+asset|IXA00304049|||SIE1-SW|Available
+asset|IXA00304050|||SIE1-SW|Available
+asset|IXA00304051|||SIE1-SW|Available
+asset|IXA00304052|||SIE1-SW|Available
+asset|IXA00304053|||SIE1-SW|Available
+asset|IXA00304054|||SIE1-SW|Available
+asset|IXA00304055|||SIE1-SW|Available
+asset|IXA00304056|||SIE1-SW|Available
+asset|IXA00304057|||SIE1-SW|Available
+asset|IXA00304058|||SIE1-SW|Available
+asset|IXA00304059|||SIE1-SW|Available
+asset|IXA00304060|||SIE1-SW|Available
+asset|IXA00304061|||SIE1-SW|Available
+asset|IXA00304062|||SIE1-SW|Available
+asset|IXA00304063|||SIE1-SW|Available
+asset|IXA00304064|||SIE1-RackRoom|Available
+asset|IXA00304065|||SIE1-SW|Available
+asset|IXA00304068|||Offsite storage|Available
+asset|IXA00304070|||SIE1-SW|Available
+asset|IXA00304071|||SIE1-SW|Available
+asset|IXA00304072|||SIE1-SW|Available
+asset|IXA00304073|||SIE1-SW|Available
+asset|IXA00304074|||SIE1-SW|Available
+asset|IXA00304075|||SIE1-SW|Available
+asset|IXA00304076|||Offsite storage|Available
+asset|IXA00304077|||SV Store|Available
+asset|IXA00304108|10.243.18.9||NTS|Available
+asset|IXA00304110||00:C0:B7:78:54:B3|SIE1-RackRoom|Available
+asset|IXA00304111|10.243.18.227||NTS|Available
+asset|IXA00304125|||SIE1-SW|Faulty
+asset|IXA00304139||00:C0:B7:CF:92:06|SIE1-RackRoom|Available
+asset|IXA00304140|||Offsite storage|Available
+asset|IXA00304141|||SIE1-SV|Available
+asset|IXA00304142|||SIE1-SW|Available
+asset|IXA00304143|||SIE1-SV|Available
+asset|IXA00304144|||SIE1-SV|Available
+asset|IXA00304145|||SIE1-SV|Available
+asset|IXA00304146|||SIE1-SW|Available
+asset|IXA00304147|||SIE1-SW|Available
+asset|IXA00304148|||SIE1-SV|Available
+asset|IXA00304402|10.237.212.212|00:00:00:00:00:07|SW Store|Available
+asset|IXA00304403|||SIE1-SW|Available
+asset|IXA00304405||00:E0:86:08:25:2F|SIE1-RackRoom|Reserved
+asset|IXA00304407|10.237.212.232|00:00:00:00:00:14|SIE1-RackRoom|Available
+asset|IXA00304419|10.237.212.29|00:00:00:00:00:04|SIE1-RackRoom|Available
+asset|IXA00304421|||SIE1-SW|Available
+asset|IXA00304429|10.237.212.240|00:60:2E:02:22:30|SIE1-RackRoom|Available
+asset|IXA00304432|||SIE1-SW|Available
+asset|IXA00304443||00:0F:FE:A1:7D:9B|SIE1-ServerRack|Available
+asset|IXA00304444||00:0F:FE:A1:80:D1|SIE1-SW|Available
+asset|IXA00304445|10.237.213.230|00:0F:FE:a1:80:93|SIE1-ServerRack|Available
+asset|IXA00304631|||SIE1-SW|Available
+asset|IXA00304633|||SIE1-SW|Available
+asset|IXA00304652|||SIE1-SW|Available
+asset|IXA00304653||00:1A:64:96:1D:E8|SV Store|Reserved
+asset|IXA00304736|||SIE1-SW|Available
+asset|IXA00304770|||SIE1-RackRoom|Available
+asset|IXA00304772|||SIE1-RackRoom|Available
+asset|IXA00304773|||SIE1-RackRoom|Available
+asset|IXA00304774|||SIE1-RackRoom|Available
+asset|IXA00304859|||SIE1-SW|Available
+asset|IXA00304862|||SIE1-SW|Available
+asset|IXA00304864|||SW Store|Available
+asset|IXA00304865|||SIE1-ServerRack|Available
+asset|IXA00304866|||SIE1-SV|Available
+asset|IXA00304881||00:14:5e:fb:8d:30|SV Store|Reserved
+asset|IXA00304882||00:14:5E:FB:8D:3C|SV Store|Available
+asset|IXA00304883||00:14:5E:FB:8B:90|SV Store|Available
+asset|IXA00304884||00:14:5E:FB:8B:3C|SV Store|Available
+asset|IXA00304885|||SIE1-SW|Available
+asset|IXA00304886|||SIE1-SW|Available
+asset|IXA00304887|||SIE1-SW|Available
+asset|IXA00304893|||SIE2-TME|Available
+asset|IXA00304896|||Shipped|Reserved
+asset|IXA00304899|||SIE1-SW|Available
+asset|IXA00306157|||SIE1-RackRoom|Available
+asset|IXA00306158|||SIE1-SW|Available
+asset|IXA00306159|||SIE1-SW|Available
+asset|IXA00306160|||SIE1-RackRoom|Available
+asset|IXA00306161|||SIE1-SW|Available
+asset|IXA00306162|||SIE1-SW|Available
+asset|IXA00306237|10.237.213.247|00:0D:60:21:68:D2|SIE1-ServerRack|Available
+asset|IXA00306239||00:13:20:f3:f0:e8|SW Store|Available
+asset|IXA00307011|||SIE1-SW|Available
+asset|IXA00307012|||SIE1-ServerRack|Available
+asset|IXA00307014|||Shipped|Available
+asset|IXA00307015||00:13:20:AE:53:C7|SW Store|Available
+asset|IXA00307016|||SIE1-SW|Available
+asset|IXA00307239|||SV Store|Available
+asset|IXA00307243|||SIE1-SV|Available
+asset|IXA00308467|||SIE1-SW|Available
+asset|IXA00308468|||SIE1-SW|Available
+asset|IXA00309145|||SV Store|Available
+asset|IXA00309146|||SW Store|Available
+asset|IXA00309147|||SIE1-SW|Available
+asset|IXA00309148|||SIE1-SW|Available
+asset|IXA00309149|||SW Store|Available
+asset|IXA00309150||00:11:43:C2:07:0D|SV Store|Available
+asset|IXA00309158|||SIE1-SW|Available
+asset|IXA00309162|||SIE1-SW|Available
+asset|IXA00309163|||SIE1-SW|Available
+asset|IXA00309205|||SIE1-SW|Available
+asset|IXA00309207|||SIE1-SW|Available
+asset|IXA00309208|||SIE1-SW|Available
+asset|IXA00309209|||SIE1-SW|Available
+asset|IXA00309210|||SIE1-SW|Available
+asset|IXA00309211|||SIE1-SW|Available
+asset|IXA00309212|||SIE1-SW|Available
+asset|IXA00309213|||SIE1-SW|Available
+asset|IXA00309214|||SIE1-SW|Available
+asset|IXA00309216|||SIE1-SW|Available
+asset|IXA00309244|||SIE1-SW|Available
+asset|IXA00309245|||SIE1-SW|Available
+asset|IXA00309269|||SIE1-SW|Available
+asset|IXA00312195|||SIE1-SW|Available
+asset|IXA00312196|10.243.18.126|00:04:23:d6:96:12|SIE1-SW|Available
+asset|IXA00312214|||SIE1-SW|Available
+asset|IXA00312215|||SIE1-SW|Available
+asset|IXA00312216|||SIE1-SW|Available
+asset|IXA00312217|||SIE1-SW|Available
+asset|IXA00312218|||SIE1-SW|Available
+asset|IXA00312219|||SIE1-SW|Available
+asset|IXA00316738|||SIE1-SW|Available
+asset|IXA00316739|||SIE1-SW|Available
+asset|IXA00319631|||SIE1-SW|Available
+asset|IXA00321232|||SIE1-SW|Available
+asset|IXA00321258|||SIE2-TME|Available
+asset|IXA00321259|||SIE2-TME|Available
+asset|IXA00321260|||SIE2-TME|Available
+asset|IXA00321261|||SIE2-TME|Available
+asset|IXA00321262|||SIE2-TME|Available
+asset|IXA00321263|||SIE2-TME|Available
+asset|IXA00321264|||SIE2-TME|Available
+asset|IXA00321265|||SIE2-TME|Available
+asset|IXA00321266|||SIE2-TME|Available
+asset|IXA00321267|||SIE2-TME|Available
+asset|IXA00321268|||SIE2-TME|Available
+asset|IXA00321269|||SIE2-TME|Available
+asset|IXA00321270|||SIE2-TME|Available
+asset|IXA00321271|||SIE1-SW|Available
+asset|IXA00321272|||SIE2-TME|Available
+asset|IXA00321273|||SIE2-TME|Available
+asset|IXA00321274|||SIE2-TME|Available
+asset|IXA00321275|||SIE2-TME|Available
+asset|IXA00321276|||SIE2-TME|Available
+asset|IXA00321277|||SIE2-TME|Available
+asset|IXA00321278|||SIE2-TME|Available
+asset|IXA00321279|||SIE2-TME|Available
+asset|IXA00321280|||SIE2-TME|Available
+asset|IXA00321281|||SIE2-TME|Available
+asset|IXA00321282|||SIE2-TME|Available
+asset|IXA00321283|||SIE2-TME|Available
+asset|IXA00321284|||SIE2-TME|Available
+asset|IXA00321285|||SIE2-TME|Available
+asset|IXA00321286|||SIE2-TME|Available
+asset|IXA00321287|||SIE2-TME|Available
+asset|IXA00321288|||SIE2-TME|Available
+asset|IXA00321289|||SIE2-TME|Available
+asset|IXA00321290|||SIE2-TME|Available
+asset|IXA00321291|||SIE2-TME|Available
+asset|IXA00321292|||SIE2-TME|Available
+asset|IXA00321293|||SIE2-TME|Available
+asset|IXA00321294|||SIE2-TME|Available
+asset|IXA00321295|||SIE2-TME|Available
+asset|IXA00321296|||SIE2-TME|Available
+asset|IXA00321297|||SIE2-TME|Available
+asset|IXA00321298|||SIE2-TME|Available
+asset|IXA00321299|||SIE2-TME|Available
+asset|IXA00321304|||SIE2-TME|Available
+asset|IXA00321329|||SW Store|Available
+asset|IXA00321593||00:0C:29:0E:AA:F7|Data Center|Available
+asset|IXA00321594||||Available
+asset|IXA00321595|10.243.18.101||SW Store|Available
+asset|IXA00321604||00:15:17:90:31:1C|SIE1-SW|Available
+asset|IXA00321605||00:22:64:1A:EB:6F|SW Store|Available
+asset|IXA00321608|||SIE1-SW|Available
+asset|IXA00321609|||SW Store|Available
+asset|IXA00321913|||SIE1-SW|Available
+asset|IXA00324024|||SW Store|Available
+asset|IXA00324309|||SIE2-TME|Available
+asset|IXA00324310|||SIE2-TME|Available
+asset|IXA00324311|||SIE2-TME|Available
+asset|IXA00324312|||SIE2-TME|Available
+asset|IXA00324313|||SIE2-TME|Available
+asset|IXA00324314|||SIE2-TME|Available
+asset|IXA00324315|||SIE2-TME|Available
+asset|IXA00324316|||SIE2-TME|Available
+asset|IXA00324317|||SIE2-TME|Available
+asset|IXA00324318|||SIE2-TME|Available
+asset|IXA00324319|||SIE2-TME|Available
+asset|IXA00324320|||SIE2-TME|Available
+asset|IXA00324321|||SIE2-TME|Available
+asset|IXA00324322|||SIE2-TME|Available
+asset|IXA00324323|||SIE2-TME|Available
+asset|IXA00324324|||SIE2-TME|Available
+asset|IXA00324325|||SIE2-TME|Available
+asset|IXA00324326|||SIE2-TME|Available
+asset|IXA00324327|||SIE2-TME|Available
+asset|IXA00324328|||SIE2-TME|Available
+asset|IXA00324329|||SIE2-TME|Available
+asset|IXA00324330|||SIE2-TME|Available
+asset|IXA00324331|||SIE2-TME|Available
+asset|IXA00324332|||SIE2-TME|Available
+asset|IXA00324333|||SIE2-TME|Available
+asset|IXA00324334|||SIE2-TME|Available
+asset|IXA00324335|||SIE2-TME|Available
+asset|IXA00324336|||SIE2-TME|Available
+asset|IXA00324337|||SIE2-TME|Available
+asset|IXA00324338|||SIE2-TME|Available
+asset|IXA00324339|||SIE2-TME|Available
+asset|IXA00324340|||SIE2-TME|Available
+asset|IXA00324541|||SIE1-SW|Available
+asset|IXA00324549|||SIE1-RackRoom|Available
+asset|IXA00324553|||SIE1-SW|Available
+asset|IXA00328202|||SIE1-SW|Available
+asset|IXA00328203|||SIE1-RackRoom|Available
+asset|IXA00328204|||SIE1-RackRoom|Available
+asset|IXA00328205|||SIE1-RackRoom|Available
+asset|IXA00328207|||SIE1-RackRoom|Available
+asset|IXA00328208|||SIE1-RackRoom|Available
+asset|IXA00328213|||SIE1-RackRoom|Available
+asset|IXA00329360|||SIE1-SW|Available
+asset|IXA00329361|||SIE1-SW|Available
+asset|IXA00333048|10.237.213.105|00:1C:C0:79:CC:ED|SIE1-ServerRack|Available
+asset|IXA00339016|||SIE1-RackRoom|Available
+asset|IXA00339133|||SIE1-SW|Available
+asset|IXA00339134|||SIE1-SW|Available
+asset|IXA00339259|||SIE1-SW|Available
+asset|IXA00339266|||SIE1-SW|Available
+asset|IXA00339747|||SIE1-SW|Available
+asset|IXA00339768|||SW Store|Available
+asset|IXA00340001|||SIE1-RackRoom|Available
+asset|IXA00340003|||SIE1-RackRoom|Available
+asset|IXA00340005|||SIE1-SW|Available
+asset|IXA00340006|10.243.18.187|00:00:00:00:00:01|SIE1-SW|Available
+asset|IXA00340055|||SIE1-SW|Available
+asset|IXA00340056|||SIE1-SW|Available
+asset|IXA00340057|||SIE1-SW|Available
+asset|IXA00340058|||SIE1-SW|Available
+asset|IXA00340230|||SIE2-TME|Available
+asset|IXA00340231|||SIE2-TME|Available
+asset|IXA00340232|||SIE2-TME|Available
+asset|IXA00340233|||SIE2-TME|Available
+asset|IXA00340234|||SIE2-TME|Available
+asset|IXA00340235|||SIE2-TME|Available
+asset|IXA00340236|||SIE2-TME|Available
+asset|IXA00340237|||SIE2-TME|Available
+asset|IXA00340238|||SIE2-TME|Available
+asset|IXA00340239|||SIE2-TME|Available
+asset|IXA00340240|||SIE2-TME|Available
+asset|IXA00340241|||SIE2-TME|Available
+asset|IXA00340242|||SIE2-TME|Available
+asset|IXA00340243|||SIE2-TME|Available
+asset|IXA00340244|||SIE2-TME|Available
+asset|IXA00340245|||SIE2-TME|Available
+asset|IXA00340246|||SIE2-TME|Available
+asset|IXA00340247|||SIE2-TME|Available
+asset|IXA00340248|||SIE2-TME|Available
+asset|IXA00340249|||SIE2-TME|Available
+asset|IXA00340250|||SIE2-TME|Available
+asset|IXA00340251|||SIE2-TME|Available
+asset|IXA00340252|||SIE2-TME|Available
+asset|IXA00340253|||SIE2-TME|Available
+asset|IXA00340254|||SIE2-TME|Available
+asset|IXA00340255|||SIE2-TME|Available
+asset|IXA00340256|||SIE2-TME|Available
+asset|IXA00340257|||SIE2-TME|Available
+asset|IXA00340258|||SIE2-TME|Available
+asset|IXA00340259|||SIE2-TME|Available
+asset|IXA00340260|||SIE2-TME|Available
+asset|IXA00340261|||SIE2-TME|Available
+asset|IXA00340262|||SIE2-TME|Available
+asset|IXA00340263|||SIE2-TME|Available
+asset|IXA00340264|||SIE2-TME|Available
+asset|IXA00340265|||SIE2-TME|Available
+asset|IXA00340266|||SIE2-TME|Available
+asset|IXA00340267|||SIE2-TME|Available
+asset|IXA00340268|||SIE2-TME|Available
+asset|IXA00340269|||SIE2-TME|Available
+asset|IXA00340270|||SIE2-TME|Available
+asset|IXA00340271|||SIE2-TME|Available
+asset|IXA00340366|||SIE1-SW|Available
+asset|IXA00340621||00:30:48:57:25:66|SIE1-ServerRack|Available
+asset|IXA00340915|||SW Store|Available
+asset|IXA00340916|||SIE1-SW|Available
+asset|IXA00340917|||SIE1-SW|Available
+asset|IXA00340918|||SIE1-SW|Available
+asset|IXA00341940|10.237.212.1||NTS|Available
+asset|IXA00341941|10.237.213.2||NTS|Available
+asset|IXA00341941|10.237.213.3||NTS|Available
+asset|IXA00341942|10.237.212.4||NTS|Available
+asset|IXA00341942|10.237.212.5||NTS|Available
+asset|IXA00341942|10.237.213.4||NTS|Available
+asset|IXA00341942|10.237.213.5||NTS|Available
+asset|IXA00342236||00:0C:29:81:45:C1|Data Center|Available
+asset|IXA00342559|10.243.18.123|00:22:64:33:59:37|SIE1-SV|Reserved
+asset|IXA00342560|10.243.18.131|00:23:7D:1B:AE:A6|SIE1-SV|Available
+asset|IXA00342561|10.243.18.137|00:23:7D:1B:B1:DC|SIE1-SV|Available
+asset|IXA00342562||00:21:5A:EA:B9:42|SIE1-SV|Available
+asset|IXA00342622||00:1F:29:00:16:78|SIE1-SW|Reserved
+asset|IXA00342865||00:1C:C0:65:8F:6D|SIE1-RackRoom|Available
+asset|IXA00342993||00:30:48:57:25:38|SIE1-ServerRack|Available
+asset|IXA00343000|||Scrapped|Faulty
+asset|IXA00343157||00:0c:29:1d:f8:4c|Data Center|Available
+asset|IXA00343160||00:0c:29:41:ee:13|Data Center|Available
+asset|IXA00343161||00:0c:29:23:1a:d6|Data Center|Available
+asset|IXA00343468|||SIE1-RackRoom|Available
+asset|IXA00343469|||SIE1-RackRoom|Faulty
+asset|IXA00343478|||SW Store|Available
+asset|IXA00343514|10.243.18.1||Scrapped|Available
+asset|IXA00343514|10.243.18.3||Scrapped|Available
+asset|IXA00343540|10.237.212.23||SIE1-RackRoom|Available
+asset|IXA00343541|||SIE1-SW|Available
+asset|IXA00343542|||SIE1-RackRoom|Available
+asset|IXA00343690|||SIE1-SV|Available
+asset|IXA00348352||00:24:81:16:41:21|SIE1-SW|Available
+asset|IXA00348353|||SIE1-SW|Available
+asset|IXA00348354||00:21:5A:E9:40:C5|SIE1-SW|Reserved
+asset|IXA00352331||00:1C:C0:95:0D:C0|SIE1-RackRoom|Available
+asset|IXA00364327||00:23:5A:0A:EE:85|SV Store|Available
+asset|IXA00364328||00:23:5a:0a:ee:17|SV Store|Available
+asset|IXA00364329||00:23:5A:0A:93:A0|SIE1-SW|Available
+asset|IXA00364521|||Data Center|Available
+asset|IXA00364522||00:21:5e:70:18:80|Data Center|Available
+asset|IXA00364523|10.237.213.39|00:21:5e:70:1b:b2|Data Center|Available
+asset|IXA00365024||00:24:81:1B:58:34|SV Store|Available
+asset|IXA00365025|||SIE1-SV|Available
+asset|IXA00365026|||SW Store|Available
+asset|IXA00365027||00:24:81:1B:59:24|SV Store|Available
+asset|IXA00365028||00:24:81:1B:58:B1|SIE1-ServerRack|Available
+asset|IXA00365031|||SIE2-TME|Available
+asset|IXA00365032|||SIE2-TME|Available
+asset|IXA00365033|||SIE2-TME|Available
+asset|IXA00365034|||SIE2-TME|Available
+asset|IXA00365048|||SIE2-TME|Available
+asset|IXA00365050|||SIE2-TME|Available
+asset|IXA00365051|||SIE2-TME|Available
+asset|IXA00365052|||SIE2-TME|Available
+asset|IXA00365053|||SIE2-TME|Available
+asset|IXA00365054|||SIE2-TME|Available
+asset|IXA00365055|||SIE2-TME|Available
+asset|IXA00365056|||SIE2-TME|Available
+asset|IXA00365057|||SIE2-TME|Available
+asset|IXA00365058|||SIE2-TME|Available
+asset|IXA00365059|||SIE2-TME|Available
+asset|IXA00365060|||SIE2-TME|Available
+asset|IXA00365061|||SIE2-TME|Available
+asset|IXA00365062|||SIE2-TME|Available
+asset|IXA00365063|||SIE2-TME|Available
+asset|IXA00365073||00:26:55:1A:95:40|SIE1-ServerRack|Reserved
+asset|IXA00365074||00:25:b3:ab:8a:74|SIE1-ServerRack|Reserved
+asset|IXA00365170||00:15:17:BB:54:FD|SV Store|Available
+asset|IXA00365393||00:1C:C0:A3:BF:07|SIE1-SV|Available
+asset|IXA00365486|||SIE1-RackRoom|Available
+asset|IXA00365487|||SIE1-RackRoom|Available
+asset|IXA00365488|||SIE1-RackRoom|Available
+asset|IXA00365489|||SIE1-RackRoom|Available
+asset|IXA00365490|||SIE1-RackRoom|Available
+asset|IXA00365491|||SIE1-RackRoom|Available
+asset|IXA00365492|||SIE1-RackRoom|Available
+asset|IXA00365493|||SIE1-RackRoom|Available
+asset|IXA00365494|||SIE1-ServerRack|Available
+asset|IXA00365495|||SIE1-RackRoom|Available
+asset|IXA00365496|||SIE1-RackRoom|Available
+asset|IXA00365497|||SIE1-RackRoom|Available
+asset|IXA00365498|||SIE1-RackRoom|Faulty
+asset|IXA00365499|||SIE1-RackRoom|Available
+asset|IXA00365500|||Shipped|Available
+asset|IXA00365633|||SIE2-TME|Available
+asset|IXA00365634|||SIE2-TME|Available
+asset|IXA00365635|||SIE2-TME|Available
+asset|IXA00365638|||SIE2-TME|Available
+asset|IXA00365648|||SIE2-TME|Available
+asset|IXA00365649|||SIE2-TME|Available
+asset|IXA00365650|||SIE2-TME|Available
+asset|IXA00365651|||SIE2-TME|Available
+asset|IXA00365652|||SIE2-TME|Available
+asset|IXA00365653|||SIE2-TME|Available
+asset|IXA00365655|||SIE2-TME|Available
+asset|IXA00365656|||SIE2-TME|Available
+asset|IXA00365659|||SIE2-TME|Available
+asset|IXA00365660|||SIE2-TME|Available
+asset|IXA00365661|||SIE2-TME|Available
+asset|IXA00365662|||SIE2-TME|Available
+asset|IXA00365663|||SIE2-TME|Available
+asset|IXA00365664|||SIE2-TME|Available
+asset|IXA00365693||00:00:00:00:00:03|SIE1-RackRoom|Available
+asset|IXA00365694|||SIE1-RackRoom|Available
+asset|IXA00365695|||SIE1-RackRoom|Available
+asset|IXA00365696|||SIE1-RackRoom|Available
+asset|IXA00365697|||SIE1-RackRoom|Available
+asset|IXA00365711|10.243.18.86|00:24:81:1D:DB:4F|SIE1-SW|Available
+asset|IXA00365786|||SIE1-RackRoom|Available
+asset|IXA00365787|||SIE1-RackRoom|Available
+asset|IXA00365789|||SIE1-RackRoom|Available
+asset|IXA00365790|||SIE1-RackRoom|Available
+asset|IXA00365791|||SIE1-RackRoom|Available
+asset|IXA00365792|||SIE1-RackRoom|Available
+asset|IXA00365793|||SIE1-RackRoom|Available
+asset|IXA00365794|||SIE1-RackRoom|Available
+asset|IXA00365803||00:30:48:57:24:7E|SIE1-RackRoom|Available
+asset|IXA00365841|||SIE1-SV|Available
+asset|IXA00365886|||SIE1-SV|Available
+asset|IXA00365901|||SIE1-SW|Available
+asset|IXA00365902|||SIE1-SW|Available
+asset|IXA00365903|||SIE1-SW|Available
+asset|IXA00365914|||SIE1-RackRoom|Available
+asset|IXA00365926|||SIE1-SW|Available
+asset|IXA00365942||00:15:17:9E:42:0C|SIE1-ServerRack|Available
+asset|IXA00365949|10.243.18.144||SIE1-SV|Available
+asset|IXA00365951||00:16:76:3C:FE:FB|SIE1-SV|Available
+asset|IXA00365972|||SIE1-SW|Available
+asset|IXA00365975|||Offsite storage|Available
+asset|IXA00365976|||SIE1-SV|Available
+asset|IXA00365977|||SIE1-SW|Available
+asset|IXA00365978|||SIE1-SV|Available
+asset|IXA00365979|||SIE1-SV|Available
+asset|IXA00365980|||SIE1-SW|Available
+asset|IXA00365982||00:15:17:9E:71:4C|SIE1-ServerRack|Available
+asset|IXA00365984|||SIE1-SW|Available
+asset|IXA00365986|||SIE1-SW|Available
+asset|IXA00365987|||SIE1-SW|Available
+asset|IXA00365990|||SIE1-SV|Available
+asset|IXA00365991||00:00:00:00:00:09|SW Store|Available
+asset|IXA00365996|||SIE1-SW|Available
+asset|IXA00366017|10.243.18.192|18:A9:05:EF:BC:53|SV Store|Available
+asset|IXA00366056|||SW Store|Available
+asset|IXA00366057|||SIE1-RackRoom|Available
+asset|IXA00366058|||SIE1-RackRoom|Available
+asset|IXA00366059|||SIE1-RackRoom|Available
+asset|IXA00366103||00:24:54:41:F2:17|SV Store|Available
+asset|IXA00366107|10.237.213.253|00:0C:29:D4:01:C1|Data Center|Available
+asset|IXA00366144|||SIE1-RackRoom|Available
+asset|IXA00366145|||SIE1-RackRoom|Available
+asset|IXA00366151||00:1B:21:45:71:F0|SIE1-SV|Available
+asset|IXA00366155|||SIE1-ServerRack|Available
+asset|IXA00366173|||SIE1-RackRoom|Available
+asset|IXA00366174|||SIE1-RackRoom|Available
+asset|IXA00366201|||Scrapped|Available
+asset|IXA00366202|||Scrapped|Available
+asset|IXA00366203|||Scrapped|Available
+asset|IXA00366304||00:0F:FE:A3:C3:BC|SIE1-SW|Available
+asset|IXA00366308|||SIE1-RackRoom|Available
+asset|IXA00366309|||SIE1-RackRoom|Available
+asset|IXA00366310|||SIE1-RackRoom|Available
+asset|IXA00366311|||SIE1-RackRoom|Available
+asset|IXA00366312|||SIE1-RackRoom|Available
+asset|IXA00366355|||SIE1-RackRoom|Available
+asset|IXA00366356|||SIE1-RackRoom|Reserved
+asset|IXA00366357|||SIE1-RackRoom|Reserved
+asset|IXA00366358|||SIE1-RackRoom|Reserved
+asset|IXA00366359|||SIE1-RackRoom|Reserved
+asset|IXA00366411||00:0f:fe:a3:c3:86|SIE1-SW|Available
+asset|IXA00366425||00:0c:29:fa:57:80|SIE1-ServerRack|Available
+asset|IXA00366508|10.243.18.219|00:09:6B:07:F0:FB|SIE1-SV|Available
+asset|IXA00366584|||SW Store|Available
+asset|IXA00366585|||Scrapped|Faulty
+asset|IXA00366655|||SIE1-RackRoom|Available
+asset|IXA00366656|||Shipped|Available
+asset|IXA00366657|||SIE1-RackRoom|Available
+asset|IXA00366658|||SIE1-RackRoom|Available
+asset|IXA00366659|||SIE1-RackRoom|Available
+asset|IXA00366660|||SIE1-RackRoom|Available
+asset|IXA00366661|||SW Store|Available
+asset|IXA00366663|||Off_Site|Available
+asset|IXA00366733||00:23:7D:DB:1C:3C|Data Center|Available
+asset|IXA00366734|10.237.213.42|00:24:81:CF:54:CE|Data Center|Available
+asset|IXA00366735||00:24:81:df:8c:c2|Data Center|Available
+asset|IXA00366736||00:0C:29:2A:FF:E1|Data Center|Available
+asset|IXA00366738|||Data Center|Available
+asset|IXA00366739||00:0C:29:90:8E:5C|Data Center|Available
+asset|IXA00366740||00:0C:29:76:77:56|Data Center|Available
+asset|IXA00366741||00:0c:29:ed:ed:61|Data Center|Available
+asset|IXA00366743||00:0C:29:63:94:6F|Data Center|Available
+asset|IXA00366744||00:0C:29:97:03:21|Data Center|Available
+asset|IXA00366745||00:0C:29:87:92:EA|Data Center|Available
+asset|IXA00366747||00:0C:29:2A:07:7C|Data Center|Available
+asset|IXA00366748||00:0C:29:D6:B2:49|Data Center|Available
+asset|IXA00366750||00:0C:29:84:60:D3|Data Center|Available
+asset|IXA00366751||00:0c:29:cd:e1:42|Data Center|Available
+asset|IXA00366752||00:0C:29:22:89:FB|Data Center|Available
+asset|IXA00366754||D8:D3:85:FD:56:56|Data Center|Available
+asset|IXA00366758||00:0c:29:90:ca:d5|Data Center|Available
+asset|IXA00366807|10.237.213.228|00:27:0E:12:B2:E2|SIE1-ServerRack|Available
+asset|IXA00366816|||SW Store|Reserved
+asset|IXA00366853||00:0c:29:3b:35:2f|Data Center|Available
+asset|IXA00366991|||SIE1-SV|Available
+asset|IXA00366993||00:80:A3:8C:51:42|SIE1-SV|Available
+asset|IXA00367020||00:0D:60:FD:8E:5A|SIE1-SW|Available
+asset|IXA00367021||00:11:25:42:1E:6C|SIE1-SW|Available
+asset|IXA00367061||00:0c:29:c4:8f:f5|Data Center|Available
+asset|IXA00367066||00:0F:FE:A1:77:AA|SIE1-SV|Available
+asset|IXA00367068||e0:cb:4e:c5:d1:3e|SIE1-SW|Available
+asset|IXA00367109||00:0c:29:b0:a3:51|SIE1-ServerRack|Available
+asset|IXA00367320|||SIE1-SW|Available
+asset|IXA00367321|||SIE1-RackRoom|Available
+asset|IXA00367400||00:0c:29:cc:17:c9|SIE1-ServerRack|Available
+asset|IXA00367556||00:01:C0:05:FF:29|SIE1-RackRoom|Available
+asset|IXA00367680|||SIE1-SW|Available
+asset|IXA00367941||00:23:7D:D7:96:08|Data Center|Available
+asset|IXA00368086|||SW Store|Available
+asset|IXA00368087|||SW Store|Available
+asset|IXA00368182||00:0C:29:5B:1F:4D|Data Center|Available
+asset|IXA00368192||00:0c:29:f1:8b:b3|Data Center|Available
+asset|IXA00368236||00:04:5F:8C:81:BC|SIE1-RackRoom|Reserved
+asset|IXA00368238|||Shipped|Available
+asset|IXA00368245|||SIE1-RackRoom|Available
+asset|IXA00368246|||SIE1-RackRoom|Reserved
+asset|IXA00368248|||SIE1-RackRoom|Available
+asset|IXA00368249|||SIE1-RackRoom|Available
+asset|IXA00368250|||SIE1-RackRoom|Available
+asset|IXA00368251|||SIE1-RackRoom|Available
+asset|IXA00368252|||SIE1-RackRoom|Available
+asset|IXA00368253|||SIE1-RackRoom|Available
+asset|IXA00368279||00:1E:67:08:17:42|SIE1-RackRoom|Available
+asset|IXA00368280||00:1E:67:08:13:38|SIE1-ServerRack|Available
+asset|IXA00368413||00:0c:29:f6:ea:d3|Data Center|Available
+asset|IXA00368416||00:0c:29:e7:d6:73|Data Center|Available
+asset|IXA00368535||78:e3:b5:04:d7:d8|Data Center|Available
+asset|IXA00368536||78:e3:b5:04:3e:38|Data Center|Available
+asset|IXA00368537||1c:c1:de:e7:04:b4|Data Center|Available
+asset|IXA00368538||78:e3:b5:04:4e:dc|Data Center|Available
+asset|IXA00368658|||SIE1-SW|Available
+asset|IXA00368659|||SIE1-SW|Available
+asset|IXA00368666|||SW Store|Available
+asset|IXA00368668|||SV Store|Available
+asset|IXA00368671|||SW Store|Available
+asset|IXA00368672|||SIE1-SW|Available
+asset|IXA00368725|||SW Store|Available
+asset|IXA00368727||00:0c:29:f6:23:0a|Data Center|Available
+asset|IXA00368810||00:50:56:3f:c1:c1|Data Center|Available
+asset|IXA00368821||00:0c:29:75:1d:69|Data Center|Available
+asset|IXA00368847||00:0c:29:0c:d0:32|Data Center|Available
+asset|IXA00368848||00:0c:29:e5:4f:f9|Data Center|Available
+asset|IXA00368849||00:0c:29:dc:26:df|Data Center|Available
+asset|IXA00368850||00:0c:29:15:c8:d4|Data Center|Available
+asset|IXA00368935||00:0c:29:26:d8:82|Data Center|Available
+asset|IXA00368939|||SIE1-RackRoom|Available
+asset|IXA00368940|||SIE1-RackRoom|Reserved
+asset|IXA00368942|||SIE1-RackRoom|Reserved
+asset|IXA00368943|||SIE1-RackRoom|Available
+asset|IXA00368944|||SIE1-RackRoom|Available
+asset|IXA00368945|||SIE1-RackRoom|Available
+asset|IXA00368946|||SIE1-RackRoom|Reserved
+asset|IXA00368947|||SIE1-RackRoom|Reserved
+asset|IXA00368948|||SIE1-RackRoom|Available
+asset|IXA00369092|||SIE1-SW|Available
+asset|IXA00369193||00:24:81:df:8c:c2|Data Center|Available
+asset|IXA00369195||78:e3:b5:04:d7:d8|Data Center|Available
+asset|IXA00369197||00:21:5e:70:18:80|Data Center|Available
+asset|IXA00369199||00:21:5E:70:18:99|Data Center|Available
+asset|IXA00369374|||SIE1-SW|Available
+asset|IXA00369589||00:15:17:f8:12:68|SIE1-ServerRack|Reserved
+asset|IXA00369592||00:15:17:f7:f7:44|SIE1-ServerRack|Reserved
+asset|IXA00369723||00:0c:29:1e:63:dd|Data Center|Available
+asset|IXA00369724||00:0c:29:09:ce:9e|Data Center|Available
+asset|IXA00370024||00:1E:67:1D:29:94|SV Store|Available
+asset|IXA00370026||00:1E:67:1C:83:14|SIE1-ServerRack|Reserved
+asset|IXA00370050||00:1E:67:1C:FF:C0|SIE1-ServerRack|Reserved
+asset|IXA00370070||00:1E:67:1D:24:44|SIE1-ServerRack|Reserved
+asset|IXA00370083||00:1E:67:1C:FF:E4|SIE1-ServerRack|Reserved
+asset|IXA00370191|||Shipped|Reserved
+asset|IXA00370195|||Shipped|Reserved
+asset|IXA00370798||00:01:C0:05:BF:BB|SW Store|Available
+asset|IXA00370988|||SIE1-RackRoom|Faulty
+asset|IXA00371526||00:0C:29:B5:F5:AA|Data Center|Available
+asset|IXA00371695|||SIE1-SV|Reserved
+asset|IXA00371696|||SIE1-RackRoom|Reserved
+asset|IXA00371769|||SIE1-RackRoom|Reserved
+asset|IXA00371770|||SIE1-RackRoom|Reserved
+asset|IXA00371778|||Shipped|Available
+asset|IXA00371893|||SIE1-RackRoom|Reserved
+asset|IXA00371895|||SIE1-RackRoom|Reserved
+asset|IXA00371896|||SIE1-RackRoom|Reserved
+asset|IXA00371898|||SIE1-RackRoom|Reserved
+asset|IXA00372767||08:17:f4:ee:44:fe|SV Store|Available
+asset|IXA00372768||08:17:F4:EE:91:FE|SIE1-RackRoom|Available
+asset|IXA00372771||D0:67:E5:76:B9:77|SIE1-SV|Available
+asset|IXA00373151||e4:11:5b:12:0f:2e|Data Center|Available
+asset|IXA00373152||e4:11:5b:11:fb:06|Data Center|Available
+asset|IXA00373153||e4:11:5b:12:08:30|Data Center|Available
+asset|IXA00373154||e4:11:5b:12:09:8e|Data Center|Reserved
+asset|IXA00373155||e4:11:5b:b0:47:4a|Data Center|Reserved
+asset|IXA00373160||00:60:F3:22:2F:D9|SIE1-RackRoom|Reserved
+asset|IXA00373216|||SIE1-RackRoom|Available
+asset|IXA00373320|||SIE1-RackRoom|Reserved
+asset|IXA00373322|||SIE1-RackRoom|Available
+asset|IXA00373323|||SIE1-RackRoom|Reserved
+asset|IXA00373324|||SIE1-RackRoom|Reserved
+asset|IXA00373325|||SIE1-RackRoom|Reserved
+asset|IXA00373326|||SIE1-RackRoom|Reserved
+asset|IXA00373327|||SIE1-RackRoom|Reserved
+asset|IXA00373328|||SIE1-RackRoom|Reserved
+asset|IXA00373329|||SIE1-RackRoom|Reserved
+asset|IXA00373363|||SIE1-RackRoom|Reserved
+asset|IXA00373364|||SIE1-RackRoom|Reserved
+asset|IXA00373365|||SIE1-RackRoom|Reserved
+asset|IXA00373366|||SIE1-RackRoom|Reserved
+asset|IXA00373367|||SIE1-RackRoom|Reserved
+asset|IXA00373368|||SIE1-RackRoom|Reserved
+asset|IXA00373369|||SIE1-RackRoom|Reserved
+asset|IXA00373370|||SIE1-RackRoom|Reserved
+asset|IXA00373371|||SIE1-RackRoom|Reserved
+asset|IXA00373475||68:05:CA:08:6B:FE|SIE1-ServerRack|Reserved
+asset|IXA00373493||68:05:CA:08:6B:F5|SIE1-ServerRack|Available
+asset|IXA00373546|||SIE1-RackRoom|Available
+asset|IXA00373736||00:00:50:78:de:fe|SIE1-RackRoom|Reserved
+asset|IXA00377973|||SIE1-RackRoom|Available
+asset|IXA00377975|||SIE1-RackRoom|Available
+asset|IXA00377976|||SIE1-RackRoom|Reserved
+asset|IXA00377977|||SIE1-RackRoom|Reserved
+asset|IXA00377978|||SIE1-ServerRack|Reserved
+asset|IXA00377979|||SIE1-RackRoom|Reserved
+asset|IXA00377980|||SIE1-RackRoom|Reserved
+asset|IXA00377981|||SIE1-RackRoom|Reserved
+asset|IXA00377982|||SIE1-RackRoom|Reserved
+asset|IXA00379567|||SIE1-RackRoom|Available
+asset|IXA00379568|||SIE1-RackRoom|Reserved
+asset|IXA00379569|||SIE1-RackRoom|Reserved
+asset|IXA00380277||00:1E:67:47:21:29|SIE1-SW|Reserved
+asset|IXA00381190|||SIE1-RackRoom|Reserved
+asset|IXA00381193|||SIE1-RackRoom|Reserved
+asset|IXA00381619|||WGC Lab|Available
+asset|IXA00381620|||WGC Lab|Available
+asset|IXA00381623|||WGC Lab|Available
+asset|IXA00381691|||WGC Lab|Available
+asset|IXA00381694|||WGC Lab|Available
+asset|IXA00381695|||WGC Lab|Available
+asset|IXA00381704|||WGC Lab|Available
+asset|IXA00381705|||WGC Lab|Available
+asset|IXA00381752|||SIE1-SW|Available
+asset|IXA00381772|||WGC Lab|Available
+asset|IXA00381773|||WGC Lab|Available
+asset|IXA00382000|||SIE1-SW|Available
+asset|IXA00382004|||SIE1-SW|Available
+asset|IXA00382134|||SW Store|Available
+asset|IXA00382135|||SW Store|Available
+asset|IXA00382618|||SIE1-SW|Available
+asset|IXA00383013|||SIE1-SW|Available
+asset|IXA00383513|||SIE1-RackRoom|Reserved
+asset|IXA00383514|||SIE1-RackRoom|Reserved
+asset|IXA00383515|||SIE1-RackRoom|Available
+asset|IXA00383516|||SIE1-RackRoom|Available
+asset|IXA00383517|||SIE1-RackRoom|Available
+asset|IXA00383518|||SIE1-RackRoom|Available
+asset|IXA00383519|||SIE1-RackRoom|Available
+asset|IXA00383520|||SIE1-RackRoom|Available
+asset|IXA00383521|||SIE1-RackRoom|Available
+asset|IXA00383522|||SIE1-RackRoom|Available
+asset|IXA00383523|||SIE1-RackRoom|Available
+asset|IXA00383524|||SIE1-RackRoom|Available
+asset|IXA00383525|||SIE1-RackRoom|Available
+asset|IXA00383526|||SIE1-RackRoom|Available
+asset|IXA00383527|||SIE1-RackRoom|Available
+asset|IXA00383528|||SIE1-RackRoom|Available
+asset|IXA00383623|||SIE1-SV|Available
+asset|IXA00383640|||SIE1-SW|Available
+asset|IXA00383647|||SIE1-SW|Available
+asset|IXA00383680|||SIE1-SW|Available
+asset|IXA00383682|||SIE1-SW|Available
+asset|IXA00383829|||WGC Lab|Available
+asset|IXA00383830|||WGC Lab|Available
+asset|IXA00383862|||SIE1-SW|Available
+asset|IXA00383863|||SIE1-SW|Available
+asset|IXA00383891|||SIE1-RackRoom|Available
+asset|IXA00383892|||SIE1-RackRoom|Available
+asset|IXA00383893|||SIE1-RackRoom|Reserved
+asset|IXA00383894|||SIE1-RackRoom|Reserved
+asset|IXA00383895|||SIE1-RackRoom|Reserved
+asset|IXA00383896|||SIE1-RackRoom|Reserved
+asset|IXA00383897|||SIE1-RackRoom|Reserved
+asset|IXA00383898|||SIE1-RackRoom|Reserved
+asset|IXA00383899|||SIE1-RackRoom|Reserved
+asset|IXA00383900|||SIE1-RackRoom|Reserved
+asset|IXA00383901|||SIE1-RackRoom|Available
+asset|IXA00383902|||SIE1-RackRoom|Available
+asset|IXA00383903|||SIE1-RackRoom|Reserved
+asset|IXA00383904|||SIE1-RackRoom|Reserved
+asset|IXA00383905|||SIE1-RackRoom|Reserved
+asset|IXA00383906|||SIE1-RackRoom|Reserved
+asset|IXA00383907|||SIE1-RackRoom|Reserved
+asset|IXA00383908|||SIE1-RackRoom|Reserved
+asset|IXA00383909|||SIE1-RackRoom|Available
+asset|IXA00383910|||SIE1-RackRoom|Available
+asset|IXA00383911|||SIE1-RackRoom|Available
+asset|IXA00383912|||SIE1-RackRoom|Available
+asset|IXA00383915|||SIE1-RackRoom|Reserved
+asset|IXA00383916|||SIE1-RackRoom|Reserved
+asset|IXA00383917|||SIE1-RackRoom|Reserved
+asset|IXA00383918|||SIE1-RackRoom|Reserved
+asset|IXA00383919|||SIE1-RackRoom|Reserved
+asset|IXA00383920|||SIE1-RackRoom|Reserved
+asset|IXA00383921|||SIE1-RackRoom|Reserved
+asset|IXA00383922|||SIE1-RackRoom|Reserved
+asset|IXA00383923|||SIE1-RackRoom|Available
+asset|IXA00383924|||SIE1-RackRoom|Available
+asset|IXA00383925|||SIE1-RackRoom|Reserved
+asset|IXA00383926|||SIE1-RackRoom|Reserved
+asset|IXA00383927|||SIE1-RackRoom|Reserved
+asset|IXA00383928|||SIE1-RackRoom|Reserved
+asset|IXA00383929|||SIE1-RackRoom|Available
+asset|IXA00383930|||SIE1-RackRoom|Reserved
+asset|IXA00383931|||SIE1-RackRoom|Available
+asset|IXA00383932|||SIE1-RackRoom|Available
+asset|IXA00383933|||SIE1-RackRoom|Available
+asset|IXA00383934|||SIE1-RackRoom|Available
+asset|IXA00384140|||SIE1-SW|Available
+asset|IXA00384217|||SIE1-RackRoom|Available
+asset|IXA00384247|||Data Center|Available
+asset|IXA00384608|||SIE1-RackRoom|Available
+asset|IXA00384611|||SIE1-RackRoom|Reserved
+asset|IXA00384612|||SIE1-RackRoom|Reserved
+asset|IXA00384613|||SIE1-RackRoom|Reserved
+asset|IXA00384614|||SIE1-RackRoom|Reserved
+asset|IXA00384615|||SIE1-RackRoom|Reserved
+asset|IXA00384616|||SIE1-RackRoom|Reserved
+asset|IXA00384617|||SIE1-RackRoom|Available
+asset|IXA00384618|||SIE1-RackRoom|Available
+asset|IXA00384619|||SIE1-RackRoom|Reserved
+asset|IXA00384620|||SIE1-RackRoom|Reserved
+asset|IXA00384621|||SIE1-RackRoom|Reserved
+asset|IXA00384622|||SIE1-RackRoom|Reserved
+asset|IXA00384623|||SIE1-RackRoom|Reserved
+asset|IXA00384624|||SIE1-RackRoom|Reserved
+asset|IXA00384625|||SIE1-RackRoom|Available
+asset|IXA00384626|||SIE1-RackRoom|Available
+asset|IXA00384627|||SIE1-RackRoom|Available
+asset|IXA00384628|||SIE1-RackRoom|Available
+asset|IXA00384629|||SIE1-RackRoom|Available
+asset|IXA00384630|||SIE1-RackRoom|Available
+asset|IXA00384812|||SIE1-SV|Reserved
+asset|IXA00384949|||SIE1-SW|Available
+asset|IXA00385005|||SW Store|Available
+asset|IXA00385074|||SIE1-SV|Reserved
+asset|IXA00385209|||SIE1-SV|Reserved
+asset|IXA00385210|||SIE1-SV|Available
+asset|IXA00385234|||SIE1-SV|Reserved
+asset|IXA00385235|||SIE1-SV|Reserved
+asset|IXA00385263|||SIE1-SW|Available
+asset|IXA00385324|||SIE1-RackRoom|Reserved
+asset|IXA00385390|||SIE1-SW|Available
+asset|IXA00385396|||SIE1-SW|Available
+asset|IXA00385397|||SIE1-SW|Available
+asset|IXA00385402|||SIE1-SW|Available
+asset|IXA00385475|||SW Store|Reserved
+asset|IXA00385476|||SW Store|Available
+asset|IXA00385477|||SW Store|Available
+asset|IXA00385985||00:e0:86:15:b8:2e|SIE1-SW|Available
+asset|IXA00385991|||SIE1-SW|Reserved
+asset|IXA00385997|||SW Store|Available
+asset|IXA00386163||00:04:5F:8B:BB:18|SIE1-RackRoom|Reserved
+asset|IXA00386304|||SIE1-SW|Available
+asset|IXA00386305|||SIE1-SW|Available
+asset|IXA00386412|||SIE1-SW|Available
+asset|IXA00386485|||SW Store|Available
+asset|IXA00386513||00:80:A3:8C:56:A0|SIE1-SW|Reserved
+asset|IXA00386593|||SIE1-SW|Available
+asset|IXA00386624|||SV Store|Available
+asset|IXA00386626|||SV Store|Faulty
+asset|IXA00386627|||SV Store|Faulty
+asset|IXA00386629|||SV Store|Available

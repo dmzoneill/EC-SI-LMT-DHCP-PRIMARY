@@ -1,0 +1,32 @@
+Useless use of a variable in void context at (eval 1) line 3662.
+Scalar value @actionTypeNames[$actionType - 1] better written as $actionTypeNames[$actionType - 1] at (eval 1) line 3836.
+Parentheses missing around "my" list at (eval 1) line 3890.
+Parentheses missing around "my" list at (eval 1) line 3891.
+Useless use of a variable in void context at (eval 1) line 3890.
+Useless use of a variable in void context at (eval 1) line 3890.
+Useless use of a variable in void context at (eval 1) line 3890.
+Useless use of a variable in void context at (eval 1) line 3890.
+Useless use of a variable in void context at (eval 1) line 3891.
+Useless use of a variable in void context at (eval 1) line 3891.
+Useless use of a variable in void context at (eval 1) line 3891.
+Useless use of a variable in void context at (eval 1) line 3891.
+Scalar value @NoteList[$i] better written as $NoteList[$i] at (eval 1) line 4703.
+"my" variable @child_projects masks earlier declaration in same scope at (eval 1) line 4764.
+Unrecognized escape \M passed through at (eval 1) line 4833.
+Unrecognized escape \T passed through at (eval 1) line 4866.
+Unrecognized escape \G passed through at (eval 1) line 4905.
+Unrecognized escape \A passed through at (eval 1) line 4909.
+Unrecognized escape \M passed through at (eval 1) line 4923.
+Unrecognized escape \T passed through at (eval 1) line 4956.
+Unrecognized escape \G passed through at (eval 1) line 5013.
+Unrecognized escape \A passed through at (eval 1) line 5017.
+Unrecognized escape \M passed through at (eval 1) line 5031.
+Unrecognized escape \T passed through at (eval 1) line 5061.
+Unrecognized escape \C passed through at (eval 1) line 5063.
+Unrecognized escape \G passed through at (eval 1) line 5118.
+Unrecognized escape \A passed through at (eval 1) line 5122.
+Unrecognized escape \M passed through at (eval 1) line 5136.
+Unrecognized escape \T passed through at (eval 1) line 5166.
+Unrecognized escape \C passed through at (eval 1) line 5168.
+Useless use of a variable in void context at (eval 1) line 4753.
+Unrecognized escape \m passed through at (eval 1) line 5391.
