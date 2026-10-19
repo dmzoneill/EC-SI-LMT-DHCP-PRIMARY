@@ -38,10 +38,10 @@ sub open_cq_session {
 
 sub connect_cq {
     my ($with_emailer) = @_;
-    my $lmtcommon = new LMTCommon;
+    my $lmtcommon = LMTCommon->new();
     my $lmtemailer;
     if ($with_emailer) {
-        $lmtemailer = new LMTEmailer;
+        $lmtemailer = LMTEmailer->new();
     }
     my $session = open_cq_session($lmtcommon);
     return ( $lmtcommon, $lmtemailer, $session );
