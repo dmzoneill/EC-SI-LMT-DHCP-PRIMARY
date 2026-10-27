@@ -1,5 +1,9 @@
 # EC-SI-LMT-DHCP-PRIMARY
 
+<p align="center">
+  <img src=".github/logo.png" alt="EC-SI-LMT-DHCP-PRIMARY logo" width="128" />
+</p>
+
 Scripts for the primary DHCP server of an Intel lab management tool
 (LMT). The tool tracks lab boards and their reservations in IBM Rational
 ClearQuest and builds the DHCP configuration from that data.
